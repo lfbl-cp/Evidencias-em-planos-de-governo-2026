@@ -1,0 +1,22 @@
+estado,uf,slug,nome,partido,categoria,categoria_simplificada,indice_base_empirica_pct,total_palavras,n_pilar_a,n_pilar_b,n_pilar_c,n_retorica,n_fortalec,n_ampli,per_mil_fortalec,per_mil_ampli,per_mil_total
+Paraíba,PB,cicero-lucena,Cícero Lucena,MDB,desafiante,desafiante,15.1,17272,6,7,14,141,40,62,2.32,3.59,5.91
+Paraíba,PB,efraim-filho,Efraim Filho,PL,desafiante,desafiante,0.9,11297,0,0,1,113,35,24,3.1,2.12,5.22
+Paraíba,PB,lucas-ribeiro,Lucas Ribeiro,PP,incumbente por sucessão,incumbente por sucessão,0.0,3837,0,0,0,82,45,49,11.73,12.77,24.5
+Maranhão,MA,orleans-brandao,Orleans Brandão,MDB,candidato de continuidade,candidato de continuidade,3.1,7280,0,0,3,94,50,53,6.87,7.28,14.15
+Maranhão,MA,eduardo-braide,Eduardo Braide,PSD,desafiante,desafiante,3.7,1341,1,0,0,26,14,20,10.44,14.91,25.35
+Maranhão,MA,felipe-camarao,Felipe Camarão,PT,"desafiante (vice-governador em exercício, rompido com o governador)",desafiante,19.3,26704,13,8,30,176,62,41,2.32,1.54,3.86
+Piauí,PI,rafael-fonteles,Rafael Fonteles,PT,"incumbente pleno (governador em exercício, 1º mandato, concorrendo à reeleição)",incumbente pleno,10.0,12083,3,17,4,197,72,107,5.96,8.86,14.81
+Piauí,PI,joel-rodrigues,Joel Rodrigues,PP,desafiante,desafiante,1.5,34769,1,0,4,337,118,158,3.39,4.54,7.94
+Ceará,CE,elmano-de-freitas,Elmano de Freitas,PT,"incumbente pleno (governador em exercício, 1º mandato, concorrendo à reeleição) — segundo institutos de peso nacional, aparece atrás do desafiante nas pesquisas",incumbente pleno,1.4,18517,0,4,3,485,272,218,14.69,11.77,26.46
+Ceará,CE,ciro-gomes,Ciro Gomes,PSDB,desafiante — líder nas pesquisas,desafiante,0.0,9103,0,0,0,179,51,44,5.6,4.83,10.44
+Pernambuco,PE,raquel-lyra,Raquel Lyra,PSD,"incumbente pleno (governadora em exercício, 1º mandato, concorrendo à reeleição)",incumbente pleno,4.0,27771,4,7,5,381,134,117,4.83,4.21,9.04
+Pernambuco,PE,joao-campos,João Campos,PSB,desafiante (prefeito do Recife),desafiante,0.5,14961,0,0,1,197,80,93,5.35,6.22,11.56
+Rio Grande do Norte,RN,allyson-bezerra,Allyson Bezerra,União Brasil,desafiante,desafiante,1.2,6535,0,0,1,85,20,40,2.89,5.77,8.66
+Rio Grande do Norte,RN,alvaro-dias,Álvaro Dias,PL,desafiante,desafiante,1.7,30516,3,0,9,514,259,240,8.49,7.86,16.35
+Rio Grande do Norte,RN,cadu-xavier,Cadu Xavier,PT,"candidato de continuidade (indicado/apoiado publicamente pela governadora Fátima Bezerra, PT, que não concorre à reeleição; o próprio plano se posiciona como continuidade do ""legado"" do governo Fátima, citada nominalmente dezenas de vezes no documento)",candidato de continuidade,0.4,20664,1,0,0,256,62,67,3.0,3.24,6.24
+Alagoas,AL,jhc,João Henrique Caldas (JHC),PSDB,desafiante (ex-prefeito de Maceió),desafiante,10.1,13814,8,2,2,107,30,57,2.17,4.13,6.3
+Alagoas,AL,renan-filho,Renan Filho,MDB,"candidato de continuidade (ex-governador; apoiado pelo governador em exercício Paulo Dantas, que não concorre)",candidato de continuidade,0.0,1129,0,0,0,18,4,9,3.54,7.97,11.51
+Sergipe,SE,fabio-mitidieri,Fábio Mitidieri,PSD,"incumbente pleno (governador em exercício, 1º mandato, concorrendo à reeleição)",incumbente pleno,3.0,8045,0,0,5,163,77,47,9.57,5.84,15.41
+Sergipe,SE,valmir-de-francisquinho,Valmir de Francisquinho,Republicanos,desafiante (ex-prefeito de Itabaiana),desafiante,1.9,16946,1,2,6,468,184,120,10.86,7.08,17.94
+Bahia,BA,jeronimo-rodrigues,Jerônimo Rodrigues,PT,"incumbente pleno (governador em exercício, 1º mandato, concorrendo à reeleição)",incumbente pleno,2.8,15450,1,1,7,276,150,174,9.71,11.26,20.97
+Bahia,BA,acm-neto,ACM Neto,União Brasil,desafiante (ex-prefeito de Salvador),desafiante,25.6,75226,47,17,58,288,31,80,0.41,1.06,1.48

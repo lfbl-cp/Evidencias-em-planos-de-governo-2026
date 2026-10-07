@@ -1,0 +1,22 @@
+estado,uf,slug,nome,partido,categoria,indice_base_empirica_pct,total_palavras,n_pilar_a,n_pilar_b,n_pilar_c,n_retorica,categoria_simplificada,n_fortalec,n_ampli,per_mil_fortalec,per_mil_ampli,per_mil_total,indice_base_empirica_legado_pct,n_compromisso_sem_base
+Paraíba,PB,cicero-lucena,Cícero Lucena,MDB,desafiante,7.5,17272,5,7,14,141,desafiante,40,62,2.32,3.59,5.91,15.1,309
+Paraíba,PB,efraim-filho,Efraim Filho,PL,desafiante,0.7,11297,0,0,1,113,desafiante,35,24,3.1,2.12,5.22,0.9,144
+Paraíba,PB,lucas-ribeiro,Lucas Ribeiro,PP,incumbente por sucessão,0.0,3837,0,0,0,82,incumbente por sucessão,45,49,11.73,12.77,24.5,0.0,128
+Maranhão,MA,orleans-brandao,Orleans Brandão,MDB,candidato de continuidade,1.4,7280,0,0,3,94,candidato de continuidade,50,53,6.87,7.28,14.15,3.1,219
+Maranhão,MA,eduardo-braide,Eduardo Braide,PSD,desafiante,2.2,1341,1,0,0,26,desafiante,14,20,10.44,14.91,25.35,3.7,45
+Maranhão,MA,felipe-camarao,Felipe Camarão,PT,desafiante,21.9,26704,13,8,30,176,desafiante,62,41,2.32,1.54,3.86,19.3,150
+Piauí,PI,rafael-fonteles,Rafael Fonteles,PT,incumbente pleno,7.4,12083,2,17,4,197,incumbente pleno,72,107,5.96,8.86,14.81,9.6,262
+Piauí,PI,joel-rodrigues,Joel Rodrigues,PP,desafiante,0.9,34769,1,0,4,337,desafiante,118,158,3.39,4.54,7.94,1.5,536
+Ceará,CE,elmano-de-freitas,Elmano de Freitas,PT,incumbente pleno,2.3,18517,0,4,3,485,incumbente pleno,272,218,14.69,11.77,26.46,1.4,300
+Ceará,CE,ciro-gomes,Ciro Gomes,PSDB,desafiante,0.0,9103,0,0,0,179,desafiante,51,44,5.6,4.83,10.44,0.0,59
+Pernambuco,PE,raquel-lyra,Raquel Lyra,PSD,incumbente pleno,3.5,27771,4,7,5,381,incumbente pleno,134,117,4.83,4.21,9.04,4.0,437
+Pernambuco,PE,joao-campos,João Campos,PSB,desafiante,0.3,14961,0,0,1,197,desafiante,80,93,5.35,6.22,11.56,0.5,340
+Rio Grande do Norte,RN,allyson-bezerra,Allyson Bezerra,União Brasil,desafiante,0.6,6535,0,0,1,85,desafiante,20,40,2.89,5.77,8.66,1.2,158
+Rio Grande do Norte,RN,alvaro-dias,Álvaro Dias,PL,desafiante,1.5,30516,3,0,9,514,desafiante,259,240,8.49,7.86,16.35,1.7,589
+Rio Grande do Norte,RN,cadu-xavier,Cadu Xavier,PT,candidato de continuidade,0.6,20664,1,0,0,256,candidato de continuidade,62,67,3.0,3.24,6.24,0.4,173
+Alagoas,AL,jhc,João Henrique Caldas (JHC),PSDB,desafiante,8.2,13814,7,2,2,107,desafiante,30,57,2.17,4.13,6.3,9.3,123
+Alagoas,AL,renan-filho,Renan Filho,MDB,candidato de continuidade,0.0,1129,0,0,0,18,candidato de continuidade,4,9,3.54,7.97,11.51,0.0,43
+Sergipe,SE,fabio-mitidieri,Fábio Mitidieri,PSD,incumbente pleno,3.8,8045,0,0,5,163,incumbente pleno,77,47,9.57,5.84,15.41,3.0,128
+Sergipe,SE,valmir-de-francisquinho,Valmir de Francisquinho,Republicanos,desafiante,1.6,16946,1,2,6,468,desafiante,184,120,10.86,7.08,17.94,1.9,547
+Bahia,BA,jeronimo-rodrigues,Jerônimo Rodrigues,PT,incumbente pleno,2.6,15450,1,1,7,276,incumbente pleno,150,174,9.71,11.26,20.97,2.8,302
+Bahia,BA,acm-neto,ACM Neto,União Brasil,desafiante,29.0,75226,47,17,58,288,desafiante,31,80,0.41,1.06,1.48,25.6,242

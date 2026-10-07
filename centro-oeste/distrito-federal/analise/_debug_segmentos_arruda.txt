@@ -1,0 +1,94 @@
+[outros              ]   3551 palavras (  8.7%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[outros              ]     30 palavras (  0.1%) :: EIXO I – RESGATAR A GESTÃO
+[gestao_publica      ]    192 palavras (  0.5%) :: MUDAR A GESTÃO PARA TRANSFORMAR MAIS
+[gestao_publica      ]    208 palavras (  0.5%) :: CENTRO DE COORDENAÇÃO DO GOVERNO E GESTÃO ESTRATÉGICA
+[gestao_publica      ]    277 palavras (  0.7%) :: GOVERNO INTELIGENTE, DADOS E INTELIGÊNCIA ARTIFICIAL
+[gestao_publica      ]    266 palavras (  0.7%) :: RESPONSABILIDADE FISCAL, QUALIDADE DO GASTO
+[gestao_publica      ]    253 palavras (  0.6%) :: GOVERNANÇA, TRANSPARÊNCIA E APRENDIZAGEM INSTITUCIONAL
+[outros              ]     66 palavras (  0.2%) :: EIXO II - CUIDAR DAS PESSOAS
+[outros              ]    331 palavras (  0.8%) :: AMPLIAR CAPACIDADES HUMANAS PARA MULTIPLICAR OPORTUNIDADES
+[educacao            ]    491 palavras (  1.2%) :: EDUCAÇÃO
+[saude               ]    477 palavras (  1.2%) :: SAÚDE
+[assistencia_social  ]    230 palavras (  0.6%) :: ASSISTÊNCIA SOCIAL E DESENVOLVIMENTO HUMANO
+[assistencia_social  ]    245 palavras (  0.6%) :: JUVENTUDE
+[assistencia_social  ]    275 palavras (  0.7%) :: ESPORTE
+[assistencia_social  ]    253 palavras (  0.6%) :: CULTURA
+[assistencia_social  ]    264 palavras (  0.6%) :: LONGEVIDADE E ENVELHECIMENTO ATIVO
+[outros              ]      4 palavras (  0.0%) :: EIXO III — GERAR PROSPERIDADE
+[outros              ]    363 palavras (  0.9%) :: TRANSFORMAR CAPACIDADES EM PROSPERIDADE
+[economia            ]    233 palavras (  0.6%) :: DESENVOLVIMENTO ECONÔMICO
+[economia            ]    238 palavras (  0.6%) :: CIÊNCIA, TECNOLOGIA E INOVAÇÃO
+[economia            ]    266 palavras (  0.7%) :: EMPREENDEDORISMO, COMPETITIVIDADE E AMBIENTE DE NEGÓCIOS
+[economia            ]    248 palavras (  0.6%) :: TURISMO
+[economia            ]    250 palavras (  0.6%) :: INTERNACIONALIZAÇÃO E ATRAÇÃO DE INVESTIMENTOS
+[economia            ]    234 palavras (  0.6%) :: ECONOMIA CRIATIVA
+[outros              ]      5 palavras (  0.0%) :: EIXO IV — TRANSFORMAR O TERRITÓRIO
+[outros              ]    364 palavras (  0.9%) :: TRANSFORMAR O TERRITÓRIO EM UMA VANTAGEM COMPETITIVA
+[infraestrutura      ]    284 palavras (  0.7%) :: MOBILIDADE URBANA
+[infraestrutura      ]    244 palavras (  0.6%) :: PLANEJAMENTO TERRITORIAL E DESENVOLVIMENTO URBANO
+[infraestrutura      ]    257 palavras (  0.6%) :: HABITAÇÃO E DESENVOLVIMENTO TERRITORIAL
+[infraestrutura      ]    295 palavras (  0.7%) :: SANEAMENTO, RECURSOS HÍDRICOS E RESILIÊNCIA
+[meio_ambiente       ]    388 palavras (  1.0%) :: MEIO AMBIENTE, SUSTENTABILIDADE E CIDADES INTELIGENTES
+[gestao_publica      ]    224 palavras (  0.6%) :: GESTÃO ESTRATÉGICA DO TERRITÓRIO
+[outros              ]    490 palavras (  1.2%) :: UMA NOVA FORMA DE GOVERNAR
+[gestao_publica      ]    556 palavras (  1.4%) :: FINANÇAS PÚBLICAS
+[gestao_publica      ]    111 palavras (  0.3%) :: GDF NA PALMA DA MÃO
+[gestao_publica      ]    132 palavras (  0.3%) :: SAÚDE DIGITAL
+[gestao_publica      ]    118 palavras (  0.3%) :: EDUCAÇÃO DIGITAL
+[gestao_publica      ]    106 palavras (  0.3%) :: GOVERNO SEM PAPEL
+[gestao_publica      ]    143 palavras (  0.4%) :: INTELIGÊNCIA ARTIFICIAL NO GOVERNO
+[gestao_publica      ]    146 palavras (  0.4%) :: ECONOMIA DIGITAL E INOVAÇÃO
+[infraestrutura      ]    142 palavras (  0.3%) :: DF CONECTADO
+[gestao_publica      ]    135 palavras (  0.3%) :: GOVERNO BASEADO EM DADOS
+[gestao_publica      ]    129 palavras (  0.3%) :: SEGURANÇA CIBERNÉTICA
+[gestao_publica      ]     76 palavras (  0.2%) :: SERVIDOR PÚBLICO CAPACITADO PARA O FUTURO
+[gestao_publica      ]     85 palavras (  0.2%) :: DF PARTICIPA
+[gestao_publica      ]    144 palavras (  0.4%) :: PARCERIAS COM O SETOR PRIVADO
+[gestao_publica      ]    268 palavras (  0.7%) :: CENTRO ADMINISTRATIVO INTEGRADO - CENTRAD
+[gestao_publica      ]    262 palavras (  0.6%) :: UMA NOVA FORMA DE GOVERNAR
+[gestao_publica      ]    548 palavras (  1.3%) :: GOVERNO QUE RESPEITA O TEMPO DAS PESSOAS
+[gestao_publica      ]    234 palavras (  0.6%) :: CENTRO DE COORDENAÇÃO E INTELIGÊNCIA ESTRATÉGICA
+[educacao            ]   2177 palavras (  5.4%) :: EDUCAÇÃO
+[saude               ]   1401 palavras (  3.4%) :: SAÚDE
+[assistencia_social  ]   1319 palavras (  3.2%) :: DESENVOLVIMENTO SOCIAL
+[assistencia_social  ]    480 palavras (  1.2%) :: JUSTIÇA, CIDADANIA E DIREITOS HUMANOS
+[assistencia_social  ]    480 palavras (  1.2%) :: MULHER
+[assistencia_social  ]    300 palavras (  0.7%) :: POLÍTICAS DE EQUIDADE
+[assistencia_social  ]    262 palavras (  0.6%) :: FAMÍLIA: DA PRIMEIRA INFÂNCIA À PESSOA IDOSA
+[seguranca           ]    823 palavras (  2.0%) :: SEGURANÇA PÚBLICA
+[seguranca           ]    590 palavras (  1.5%) :: SISTEMA PENAL
+[seguranca           ]    525 palavras (  1.3%) :: SOCIOEDUCATIVO
+[assistencia_social  ]   1352 palavras (  3.3%) :: CULTURA
+[assistencia_social  ]   1485 palavras (  3.7%) :: ESPORTE
+[economia            ]    857 palavras (  2.1%) :: TURISMO
+[assistencia_social  ]   1072 palavras (  2.6%) :: DESENVOLVIMENTO HUMANO
+[economia            ]   1480 palavras (  3.6%) :: DESENVOLVIMENTO ECONÔMICO
+[assistencia_social  ]    178 palavras (  0.4%) :: CULTURA COMO PATRIMÔNIO, IDENTIDADE E DESENVOLVIMENTO
+[economia            ]    193 palavras (  0.5%) :: TURISMO, EVENTOS E DESTINO INTERNACIONAL
+[assistencia_social  ]    272 palavras (  0.7%) :: ESPORTE, ALTO RENDIMENTO E DESENVOLVIMENTO HUMANO
+[assistencia_social  ]    271 palavras (  0.7%) :: ESPORTE PARA A VIDA
+[economia            ]   1616 palavras (  4.0%) :: CIÊNCIA, TECNOLOGIA, INOVAÇÃO E TRANSFORMAÇÃO DIGITAL
+[infraestrutura      ]   1550 palavras (  3.8%) :: TRANSPORTE PÚBLICO SOBRE TRILHOS
+[economia            ]    637 palavras (  1.6%) :: SETOR RURAL
+[meio_ambiente       ]    440 palavras (  1.1%) :: MEIO AMBIENTE
+[infraestrutura      ]   1654 palavras (  4.1%) :: HABITAÇÃO
+[infraestrutura      ]    106 palavras (  0.3%) :: REGULARIZAÇÃO FUNDIÁRIA
+[gestao_publica      ]    253 palavras (  0.6%) :: FORTALECIMENTO DA RIDE E DA AMB
+[infraestrutura      ]    222 palavras (  0.5%) :: SISTEMA INTEGRADO DE TRANSPORTE DF-ENTORNO
+[infraestrutura      ]    210 palavras (  0.5%) :: PLANO METROPOLITANO DE HABITAÇÃO
+[infraestrutura      ]    227 palavras (  0.6%) :: NOVAS CENTRALIDADES URBANAS
+[saude               ]    343 palavras (  0.8%) :: REDE METROPOLITANA DE SAÚDE
+[economia            ]    226 palavras (  0.6%) :: ZONAS DE DESENVOLVIMENTO ECONÔMICO INTEGRADO
+[economia            ]    292 palavras (  0.7%) :: PROGRAMA EMPREGA ENTORNO
+[economia            ]    353 palavras (  0.9%) :: DISTRITO INDUSTRIAL E LOGÍSTICO METROPOLITANO
+[educacao            ]    266 palavras (  0.7%) :: EDUCAÇÃO, QUALIFICAÇÃO E UNIVERSIDADES METROPOLITANAS
+[infraestrutura      ]    110 palavras (  0.3%) :: SISTEMA DE TRANSPORTE ESTUDANTIL METROPOLITANO
+[seguranca           ]    130 palavras (  0.3%) :: CENTRO INTEGRADO DE SEGURANÇA METROPOLITANA
+[seguranca           ]    132 palavras (  0.3%) :: SISTEMA METROPOLITANA DE VIDEOMONITORAMENTO INTELIGENTE
+[infraestrutura      ]    177 palavras (  0.4%) :: PROGRAMA ESTRADAS DA GRANDE BRASÍLIA
+[infraestrutura      ]    176 palavras (  0.4%) :: ANEL VIÁRIO METROPOLITANO
+[assistencia_social  ]    199 palavras (  0.5%) :: PROGRAMA JUVENTUDE METROPOLITANA
+[assistencia_social  ]    186 palavras (  0.5%) :: PROGRAMA DE SUPERAÇÃO DA POBREZA E INCLUSÃO PRODUTIVA
+[infraestrutura      ]    199 palavras (  0.5%) :: PLANO DIRETOR DA GRANDE BRASÍLIA
+[gestao_publica      ]    188 palavras (  0.5%) :: OBSERVATÓRIO METROPOLITANO DA GRANDE BRASÍLIA
+[outros              ]    111 palavras (  0.3%) :: RESULTADOS ESPERADOS

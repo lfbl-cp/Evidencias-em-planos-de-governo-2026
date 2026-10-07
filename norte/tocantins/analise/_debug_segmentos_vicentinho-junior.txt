@@ -1,0 +1,74 @@
+[outros              ]    490 palavras (  4.8%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[assistencia_social  ]    341 palavras (  3.3%) :: EIXO 1: ACESSIBILIDADE E INCLUSÃO
+[gestao_publica      ]    352 palavras (  3.5%) :: EIXO 2: AGENDA MUNICIPALISTA
+[economia            ]    354 palavras (  3.5%) :: EIXO 3: AGRONEGÓCIO 5.0
+[assistencia_social  ]    382 palavras (  3.8%) :: EIXO 4: CULTURA, ESPORTE E BEM-ESTAR
+[outros              ]     11 palavras (  0.1%) :: EIXO 5: DESENVOLVIMENTO REGIONAL INTEGRADO
+[economia            ]     31 palavras (  0.3%) :: 041. Zona de Desenvolvimento Especial (ZDE)
+[economia            ]     28 palavras (  0.3%) :: 042. Revitalização do Projeto Sampaio
+[saude               ]     29 palavras (  0.3%) :: 043. Complexo Hospitalar de Augustinópolis
+[economia            ]     36 palavras (  0.4%) :: 044. Cadeia Industrial do Babaçu
+[infraestrutura      ]     42 palavras (  0.4%) :: 045. Polo Logístico da Ponte de Xambioá
+[educacao            ]     27 palavras (  0.3%) :: 046. Universidade do Bico
+[economia            ]     29 palavras (  0.3%) :: 047. Rota Turística Encontro das Águas
+[seguranca           ]     33 palavras (  0.3%) :: 048. Batalhão de Divisas
+[infraestrutura      ]     23 palavras (  0.2%) :: 049. Regularização Fundiária Rural
+[infraestrutura      ]     26 palavras (  0.3%) :: 050. Conectividade Total nas Escolas
+[meio_ambiente       ]    375 palavras (  3.7%) :: EIXO 6: ECONOMIA VERDE E DESCARBONIZAÇÃO
+[educacao            ]    343 palavras (  3.4%) :: EIXO 7: EDUCAÇÃO
+[gestao_publica      ]   1031 palavras ( 10.1%) :: EIXO 8: FAZENDA PÚBLICA
+[outros              ]      8 palavras (  0.1%) :: EIXO 9: POVOS INDÍGENAS
+[assistencia_social  ]     70 palavras (  0.7%) :: 101. Observatório Estadual de Dados Socio-territoriais Indígenas
+[educacao            ]     57 palavras (  0.6%) :: 102. Educação Escolar Indígena, Bilíngue e Intercultural
+[assistencia_social  ]     59 palavras (  0.6%) :: 103. Governança, Direitos Territoriais e Consulta Prévia
+[meio_ambiente       ]     66 palavras (  0.6%) :: 104. Sustentabilidade e Pagamento por Serviços Ambientais (PSA)
+[assistencia_social  ]     48 palavras (  0.5%) :: 105. Proteção a Lideranças e Defensores dos Direitos Humanos
+[assistencia_social  ]     55 palavras (  0.5%) :: 106. Conectividade e Inclusão Digital nas Aldeias
+[saude               ]     65 palavras (  0.6%) :: 107. Saúde Indígena Integral e Cuidados Tradicionais
+[economia            ]     64 palavras (  0.6%) :: 108. Inclusão Produtiva e Bioeconomia Indígena
+[infraestrutura      ]     57 palavras (  0.6%) :: 109. Saneamento Básico e Segurança Hídrica nas Aldeias
+[assistencia_social  ]     55 palavras (  0.5%) :: 110. Soberania Alimentar e Fortalecimento da Agricultura Tradicional
+[gestao_publica      ]     80 palavras (  0.8%) :: 111. Fomento Institucional e Adequação Jurídica de Organizações Indígenas
+[economia            ]    330 palavras (  3.2%) :: EIXO 10: INDÚSTRIA
+[economia            ]    334 palavras (  3.3%) :: EIXO 11: MINERAÇÃO
+[economia            ]     58 palavras (  0.6%) :: EIXO 12: OPORTUNIDADES DE DESENVOLVIMENTO ECONÔMICO E SOCIAL DO
+[infraestrutura      ]     20 palavras (  0.2%) :: 135. PPPs de Saneamento
+[economia            ]     99 palavras (  1.0%) :: 136. Piscicultura em Grandes Lagos
+[infraestrutura      ]     24 palavras (  0.2%) :: 140. Logística Multimodal
+[economia            ]     49 palavras (  0.5%) :: 141. Fruticultura Irrigada
+[gestao_publica      ]    397 palavras (  3.9%) :: EIXO 13: PARCERIAS E TERCEIRO SETOR (Pacto de Cooperação)
+[economia            ]    252 palavras (  2.5%) :: EIXO 14: PLENO EMPREGO
+[economia            ]    230 palavras (  2.3%) :: EIXO 15: PRESTAÇÃO DE SERVIÇOS ESTATAIS
+[assistencia_social  ]    270 palavras (  2.7%) :: EIXO 16: PROTEÇÃO E PROMOÇÃO DA MULHER
+[assistencia_social  ]    272 palavras (  2.7%) :: EIXO 17: PROTEÇÃO E PROMOÇÃO DA PESSOA IDOSA
+[saude               ]    294 palavras (  2.9%) :: EIXO 18: SAÚDE PÚBLICA
+[gestao_publica      ]    198 palavras (  1.9%) :: EIXO 19: SEGURANÇA JURÍDICA
+[seguranca           ]    255 palavras (  2.5%) :: EIXO 20: SEGURANÇA PÚBLICA
+[gestao_publica      ]    272 palavras (  2.7%) :: EIXO 21: SERVIDORES PÚBLICOS
+[outros              ]     11 palavras (  0.1%) :: EIXO 22: TECNOLOGIA - ESTADO DIGITAL
+[economia            ]     17 palavras (  0.2%) :: 221. Parque Tecnológico AgroTech
+[gestao_publica      ]     29 palavras (  0.3%) :: 222. Governo Sem Papel
+[infraestrutura      ]     14 palavras (  0.1%) :: 223. Conectividade Rural (5G)
+[gestao_publica      ]     18 palavras (  0.2%) :: 224. Identidade Digital Única
+[seguranca           ]     28 palavras (  0.3%) :: 225. Videomonitoramento com IA
+[saude               ]     17 palavras (  0.2%) :: 226. Telemedicina Rural
+[educacao            ]     19 palavras (  0.2%) :: 227. Educação Criadora (Maker)
+[gestao_publica      ]     21 palavras (  0.2%) :: 228. Big Data Fiscal
+[economia            ]     18 palavras (  0.2%) :: 229. Sandbox Regulatório
+[gestao_publica      ]     17 palavras (  0.2%) :: 230. Cibersegurança (SOC)
+[outros              ]     12 palavras (  0.1%) :: EIXO 23: TECNOLOGIA APLICADA
+[economia            ]     18 palavras (  0.2%) :: 231. Agricultura 5.0
+[gestao_publica      ]     47 palavras (  0.5%) :: 232. Realização de hackathon na área de tecnologia em prol da Administração Públ
+[infraestrutura      ]     12 palavras (  0.1%) :: 233. Blockchain Fundiário
+[meio_ambiente       ]     25 palavras (  0.2%) :: 234. Águas Inteligentes
+[infraestrutura      ]     24 palavras (  0.2%) :: 235. Infraestrutura Digital
+[meio_ambiente       ]     13 palavras (  0.1%) :: 236. Bioacústica Ambiental
+[economia            ]     24 palavras (  0.2%) :: 237. Turismo Imersivo (VR)
+[educacao            ]     18 palavras (  0.2%) :: 238. EdTechGamificada
+[saude               ]     14 palavras (  0.1%) :: 239. Telemonitoramento de Pacientes Crônicos
+[gestao_publica      ]     18 palavras (  0.2%) :: 240. Centralização de Dados (IA)
+[economia            ]    215 palavras (  2.1%) :: EIXO 24: TRABALHO
+[assistencia_social  ]    333 palavras (  3.3%) :: EIXO 25: ESPORTE E LAZER
+[assistencia_social  ]    412 palavras (  4.0%) :: EIXO 26: DIVERSIDADE
+[assistencia_social  ]    189 palavras (  1.9%) :: EIXO 27: DEFESA E BEM-ESTAR ANIMAL
+[infraestrutura      ]    576 palavras (  5.7%) :: EIXO 28: DESENVOLVIMENTO DAS RODOVIAS ESTADUAIS

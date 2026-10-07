@@ -1,0 +1,27 @@
+[outros              ]   3235 palavras ( 23.4%) :: [FRONT MATTER: carta de abertura/sumário/diagnóstico/síntese]
+[saude               ]   1305 palavras (  9.4%) :: Este eixo trata do que acompanha a pessoa: nascer com segurança
+[educacao            ]    793 palavras (  5.7%) :: PROPOSTAS
+EDUCAÇÃO
+[assistencia_social  ]    465 palavras (  3.4%) :: PROPOSTAS
+PRIMEIRA INFÂNCIA
+[seguranca           ]    867 palavras (  6.3%) :: PROPOSTAS
+SEGURANÇA
+[economia            ]   1412 palavras ( 10.2%) :: PROPOSTAS
+TRABALHO, EMPREENDEDORISMO
+[economia            ]    243 palavras (  1.8%) :: Cultura, esporte e turismo não podem mais ser oportunidades
+[assistencia_social  ]     64 palavras (  0.5%) :: Programa Cultura por Todo Canto. Política estadual para descentralizar
+[assistencia_social  ]     41 palavras (  0.3%) :: Parques-Biblioteca. Implantação de uma rede estadual de bibliotecas
+[economia            ]    136 palavras (  1.0%) :: Alagoas Lab. Estratégia estadual para transformar o investimento
+[assistencia_social  ]    130 palavras (  0.9%) :: Areninhas Alagoas. Implantação de uma rede estadual de espaços
+[infraestrutura      ]   1283 palavras (  9.3%) :: Este eixo trata das condições que permitem ao Estado transformar
+[infraestrutura      ]    160 palavras (  1.2%) :: PROPOSTAS
+ENERGIA
+[gestao_publica      ]    384 palavras (  2.8%) :: Governar melhor também significa permitir que a população saiba
+[infraestrutura      ]    136 palavras (  1.0%) :: Este eixo trata das condições básicas que fazem uma cidade
+[meio_ambiente       ]    427 palavras (  3.1%) :: PROPOSTAS
+MEIO AMBIENTE
+[infraestrutura      ]    473 palavras (  3.4%) :: Garantir água para todos exige enfrentar dois problemas diferentes
+[infraestrutura      ]    685 palavras (  5.0%) :: Morar bem não é apenas ter uma casa
+[gestao_publica      ]    396 palavras (  2.9%) :: Criação da Controladoria Estadual Anticorrupção. Criação de uma
+[assistencia_social  ]    945 palavras (  6.8%) :: Este eixo reúne políticas que não cabem dentro de uma única secretaria
+[outros              ]    234 palavras (  1.7%) :: IBGE (Censo 2022, PNAD Contínua

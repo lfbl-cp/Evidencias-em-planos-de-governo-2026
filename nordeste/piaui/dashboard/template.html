@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Painel — Planos de Governo Oficiais, Governo do Piauí 2026</title>
+<script>/* html2pdf.js v0.10.1 — vendored inline for a fully self-contained document (no external CDN dependency) */
+__HTML2PDF_JS__
+</script>
+<style>
+  :root, .viz-root {
+    color-scheme: light;
+    --surface-1:      #fcfcfb;
+    --page:           #f9f9f7;
+    --text-primary:   #0b0b0b;
+    --text-secondary: #52514e;
+    --text-muted:     #898781;
+    --gridline:       #e1e0d9;
+    --baseline:       #c3c2b7;
+    --border:         rgba(11,11,11,0.10);
+    --success-text:   #006300;
+
+    --cand-1: #2a78d6; /* Rafael Fonteles */
+    --cand-2: #eb6834; /* Joel Rodrigues */
+    --accent-finding: #4a3aa7; /* achado editorial (violeta, reservado, não usado pelos candidatos) */
+    --accent-finding-rgb: 74, 58, 167;
+
+    --theme-saude: #2a78d6;
+    --theme-seguranca: #eb6834;
+    --theme-educacao: #1baf7a;
+    --theme-infra: #eda100;
+    --theme-ambiente: #e87ba4;
+    --theme-economia: #008300;
+    --theme-gestao: #4a3aa7;
+    --theme-social: #e34948;
+    --theme-outros: #898781;
+
+    --status-warning: #fab219;
+    --status-warning-text: #7a5200;
+    --status-critical: #d03b3b;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:where(:not([data-theme="light"])) {
+      color-scheme: dark;
+      --surface-1:      #1a1a19;
+      --page:           #0d0d0d;
+      --text-primary:   #ffffff;
+      --text-secondary: #c3c2b7;
+      --text-muted:     #898781;
+      --gridline:       #2c2c2a;
+      --baseline:       #383835;
+      --border:         rgba(255,255,255,0.10);
+      --success-text:   #0ca30c;
+
+      --cand-1: #3987e5;
+      --cand-2: #d95926;
+      --accent-finding: #9085e9;
+      --accent-finding-rgb: 144, 133, 233;
+
+      --theme-saude: #3987e5;
+      --theme-seguranca: #d95926;
+      --theme-educacao: #199e70;
+      --theme-infra: #c98500;
+      --theme-ambiente: #d55181;
+      --theme-economia: #008300;
+      --theme-gestao: #9085e9;
+      --theme-social: #e66767;
+      --theme-outros: #898781;
+      --status-critical: #e66767;
+    }
+  }
+  :root[data-theme="dark"] .viz-root {
+    color-scheme: dark;
+    --surface-1:      #1a1a19;
+    --page:           #0d0d0d;
+    --text-primary:   #ffffff;
+    --text-secondary: #c3c2b7;
+    --text-muted:     #898781;
+    --gridline:       #2c2c2a;
+    --baseline:       #383835;
+    --border:         rgba(255,255,255,0.10);
+    --success-text:   #0ca30c;
+    --cand-1: #3987e5; --cand-2: #d95926;
+    --accent-finding: #9085e9;
+    --accent-finding-rgb: 144, 133, 233;
+    --theme-saude: #3987e5; --theme-seguranca: #d95926; --theme-educacao: #199e70;
+    --theme-infra: #c98500; --theme-ambiente: #d55181; --theme-outros: #898781;
+    --theme-economia: #008300; --theme-gestao: #9085e9; --theme-social: #e66767;
+    --status-critical: #e66767;
+  }
+
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0;
+    background: var(--page);
+    color: var(--text-primary);
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 1120px; margin: 0 auto; padding: 28px 20px 80px; }
+
+  header.top {
+    display: flex; justify-content: space-between; align-items: flex-start;
+    gap: 16px; margin-bottom: 20px; flex-wrap: wrap;
+  }
+  header.top h1 { font-size: 25px; font-weight: 700; margin: 0 0 6px; letter-spacing: -0.01em; }
+  header.top p.sub { color: var(--text-secondary); margin: 0; font-size: 15px; max-width: 660px; }
+  .meta-row { color: var(--text-muted); font-size: 12.5px; margin-top: 8px; }
+  .badge-v2 {
+    display:inline-block; font-size:11px; font-weight:700; letter-spacing:.03em;
+    background: var(--accent-finding); color:#fff; padding:2px 8px; border-radius:999px; margin-right:8px;
+    vertical-align: middle;
+  }
+
+  .actions { display: flex; gap: 8px; flex-wrap: wrap; }
+  button.btn {
+    font: inherit; font-size: 13.5px; font-weight: 600; cursor: pointer;
+    border-radius: 8px; padding: 10px 16px; border: 1px solid var(--border);
+    background: var(--surface-1); color: var(--text-primary);
+  }
+  button.btn.primary { background: var(--cand-1); color: #fff; border-color: transparent; }
+  button.btn:hover { filter: brightness(0.97); }
+  button.btn.primary:hover { filter: brightness(1.08); }
+
+  .theme-toggle { display:inline-flex; border:1px solid var(--border); border-radius: 8px; overflow:hidden; }
+  .theme-toggle button { border:none; border-radius:0; background:var(--surface-1); padding:10px 12px; }
+  .theme-toggle button.active { background: var(--cand-1); color:#fff; }
+
+  .callout {
+    display: flex; gap: 12px; align-items: flex-start;
+    background: var(--surface-1); border: 1px solid var(--border);
+    border-left: 4px solid var(--status-warning);
+    border-radius: 10px; padding: 14px 16px; margin: 18px 0 22px;
+  }
+  .callout.finding { border-left-color: var(--accent-finding); }
+  .callout .icon { font-size: 18px; line-height: 1; margin-top: 1px; }
+  .callout strong { display:block; margin-bottom: 4px; font-size: 14px; }
+  .callout p { margin: 0 0 6px; font-size: 13.5px; color: var(--text-secondary); line-height: 1.5; }
+  .callout p:last-child { margin-bottom: 0; }
+
+  section { margin: 40px 0; }
+  section h2 {
+    font-size: 18px; font-weight: 700; margin: 0 0 4px;
+    display:flex; align-items:center; gap:8px;
+  }
+  section .section-desc { color: var(--text-secondary); font-size: 13.5px; margin: 0 0 18px; max-width: 760px; line-height:1.5; }
+
+  .card {
+    background: var(--surface-1); border: 1px solid var(--border);
+    border-radius: 12px; padding: 18px 20px;
+  }
+
+  .kpi-grid {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 12px;
+  }
+  .kpi-card {
+    background: var(--surface-1); border: 1px solid var(--border); border-radius: 12px;
+    padding: 16px 18px; position: relative; overflow: hidden;
+  }
+  .kpi-card .swatch { width: 10px; height: 10px; border-radius: 3px; display:inline-block; margin-right: 6px; }
+  .kpi-card .name { font-weight: 700; font-size: 14.5px; }
+  .kpi-card .party { color: var(--text-muted); font-size: 12px; margin-left: 4px; }
+  .kpi-card .value { font-size: 30px; font-weight: 700; margin: 10px 0 2px; letter-spacing:-0.02em; }
+  .kpi-card .label { color: var(--text-muted); font-size: 11.5px; text-transform: uppercase; letter-spacing: 0.04em; }
+  .kpi-card .topic { margin-top:10px; font-size:12.5px; color:var(--text-secondary); }
+
+  .wc-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 14px; }
+  .wc-card { background: var(--surface-1); border: 1px solid var(--border); border-radius: 12px; overflow: hidden; }
+  .wc-card .wc-head { display:flex; align-items:center; gap:8px; padding: 12px 14px 0; }
+  .wc-card img { width: 100%; display:block; background:#fff; }
+  .wc-card .wc-foot { padding: 8px 14px 14px; font-size: 12px; color: var(--text-muted); }
+
+  .bar-row { display: grid; grid-template-columns: 168px 1fr 56px; align-items: center; gap: 10px; padding: 6px 0; }
+  .bar-row .label { font-size: 13px; color: var(--text-primary); display:flex; align-items:center; gap:7px; }
+  .bar-row .label .dot { width:9px; height:9px; border-radius:2px; flex:none; }
+  .bar-track { position: relative; height: 22px; background: transparent; }
+  .bar-fill { position:absolute; left:0; top:3px; height:16px; border-radius: 0 4px 4px 0; }
+  .bar-row .val { font-size: 12.5px; color: var(--text-secondary); text-align:right; font-variant-numeric: tabular-nums; }
+
+  .stack-row { display: grid; grid-template-columns: 168px 1fr; align-items: center; gap: 10px; padding: 9px 0; }
+  .stack-row .label { font-size: 13px; font-weight:600; }
+  .stack-row .party { color: var(--text-muted); font-weight: 400; font-size: 11.5px; }
+  .stack-track { position: relative; height: 26px; display:flex; border-radius: 6px; overflow:hidden; background: var(--gridline); }
+  .stack-seg { height: 100%; position:relative; display:flex; align-items:center; justify-content:center; }
+  .stack-seg .seg-label { font-size: 10.5px; font-weight:700; color:#fff; white-space:nowrap; padding: 0 4px; }
+
+  .legend { display:flex; flex-wrap:wrap; gap: 14px; margin: 4px 0 18px; }
+  .legend-item { display:flex; align-items:center; gap:6px; font-size:12.5px; color: var(--text-secondary); }
+  .legend-item .dot { width:10px; height:10px; border-radius:3px; }
+
+  table.data-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  table.data-table th, table.data-table td {
+    text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--gridline);
+    font-variant-numeric: tabular-nums;
+  }
+  table.data-table th { color: var(--text-muted); font-weight: 600; font-size: 11.5px; text-transform: uppercase; letter-spacing: 0.03em; }
+  table.data-table tr:last-child td { border-bottom: none; }
+  .table-wrap { overflow-x: auto; }
+  details.table-toggle { margin-top: 14px; }
+  details.table-toggle summary {
+    cursor: pointer; font-size: 12.5px; font-weight: 600; color: var(--text-secondary);
+    padding: 6px 0;
+  }
+
+  .tabs { display:flex; gap:6px; flex-wrap:wrap; margin-bottom: 14px; }
+  .tab-btn {
+    font: inherit; font-size: 12.5px; font-weight: 600; cursor:pointer;
+    border: 1px solid var(--border); background: var(--surface-1); color: var(--text-secondary);
+    padding: 7px 12px; border-radius: 999px;
+  }
+  .tab-btn.active { color: #fff; border-color: transparent; }
+
+  .quote {
+    border-left: 3px solid var(--gridline); padding: 4px 0 4px 12px; margin: 6px 0;
+    font-size: 12.5px; color: var(--text-secondary); font-style: italic; line-height:1.5;
+  }
+  .quote.jargon { border-left-color: var(--status-warning); }
+  .quote.concrete { border-left-color: var(--success-text); }
+  .quote.shared { border-left-color: var(--accent-finding); background: rgba(var(--accent-finding-rgb), 0.07); padding: 8px 12px; border-radius: 0 6px 6px 0; }
+  .examples-grid { display:grid; grid-template-columns: 1fr 1fr; gap: 18px; margin-top:10px; }
+  .examples-grid h4 { font-size:12px; text-transform:uppercase; letter-spacing:.03em; color:var(--text-muted); margin: 0 0 6px; }
+  @media (max-width: 700px) { .examples-grid { grid-template-columns: 1fr; } }
+
+  /* finding / shared-text section */
+  .finding-hero {
+    background-color: var(--surface-1);
+    background-image: linear-gradient(135deg, rgba(var(--accent-finding-rgb), 0.12), rgba(var(--accent-finding-rgb), 0));
+    border: 1px solid var(--accent-finding); border-radius: 14px; padding: 22px 24px;
+  }
+  .finding-hero .stat-row { display:flex; gap: 28px; flex-wrap:wrap; margin: 14px 0 6px; }
+  .finding-stat .value { font-size: 28px; font-weight: 800; color: var(--accent-finding); letter-spacing: -0.02em; }
+  .finding-stat .label { font-size: 11.5px; color: var(--text-muted); text-transform: uppercase; letter-spacing: .03em; margin-top: 2px; }
+  .pair-card { border: 1px solid var(--border); border-radius: 10px; padding: 14px 16px; margin-top: 12px; background: var(--surface-1); }
+  .pair-card .pair-title { font-weight: 700; font-size: 13.5px; margin-bottom: 8px; display:flex; align-items:center; gap:8px; }
+  .pair-card .pair-pct { font-size: 11.5px; color: var(--text-muted); font-weight: 400; }
+  .block-item { border-left: 3px solid var(--accent-finding); padding: 8px 12px; margin: 8px 0; background: rgba(var(--accent-finding-rgb), 0.06); border-radius: 0 6px 6px 0; }
+  .block-item .block-meta { font-size: 11px; color: var(--text-muted); margin-bottom: 4px; display:flex; gap:10px; flex-wrap:wrap; }
+  .block-item .block-quote { font-size: 12.5px; font-style: italic; color: var(--text-secondary); line-height: 1.5; }
+  .block-item .block-obs { font-size: 11.5px; color: var(--text-muted); margin-top: 6px; }
+
+  .article-card { max-width: 780px; margin: 0 auto; }
+  .article-card h3 { font-size: 20px; margin: 22px 0 4px; }
+  .article-card .subtitle { color: var(--text-secondary); font-style: italic; margin: 0 0 18px; }
+  .article-card h4 { font-size: 14.5px; margin: 22px 0 6px; color: var(--text-primary); text-transform: uppercase; letter-spacing: .02em; }
+  .article-card p, .article-card li { font-size: 14px; line-height: 1.65; color: var(--text-secondary); }
+  .article-card ul { padding-left: 20px; }
+
+  footer.foot { margin-top: 50px; padding-top: 20px; border-top: 1px solid var(--gridline); color: var(--text-muted); font-size: 12px; }
+
+  .tooltip {
+    position: fixed; pointer-events: none; z-index: 50;
+    background: var(--text-primary); color: var(--surface-1);
+    font-size: 12px; padding: 6px 9px; border-radius: 6px; max-width: 260px;
+    line-height: 1.4; opacity: 0; transition: opacity .1s ease; transform: translate(-50%, -110%);
+  }
+  .tooltip.show { opacity: 1; }
+
+  @media print {
+    button.btn, .theme-toggle, .actions { display: none !important; }
+    body { background: #fff; }
+    .card, .kpi-card, .wc-card, .pair-card { break-inside: avoid; }
+  }
+</style>
+</head>
+<body class="viz-root">
+<div class="wrap" id="capture-root">
+
+  <header class="top">
+    <div>
+      <h1><span class="badge-v2">PROJETO NORDESTE 2026 · FONTE OFICIAL</span></h1>
+      <h1 style="margin-top:4px;">O que dizem os planos de governo — Governo do Piauí 2026</h1>
+      <p class="sub">Análise a partir dos PDFs oficiais de campanha de Rafael Fonteles (PT, governador em exercício, 1º mandato, concorrendo à reeleição) e Joel Rodrigues (PP, desafiante): frequência de palavras, distribuição temática exaustiva e Índice de Base Empírica. Mesma metodologia usada nas análises da Paraíba e do Maranhão, para permitir comparação entre estados.</p>
+      <div class="meta-row" id="meta-row"></div>
+    </div>
+    <div class="actions">
+      <div class="theme-toggle" role="group" aria-label="Tema de cores">
+        <button type="button" data-theme-btn="light" class="active">Claro</button>
+        <button type="button" data-theme-btn="dark">Escuro</button>
+      </div>
+      <button class="btn primary" id="export-pdf">⬇ Gerar relatório PDF</button>
+    </div>
+  </header>
+
+  <div class="callout">
+    <div class="icon">⚠️</div>
+    <div>
+      <strong>Leia antes de citar estes números</strong>
+      <p id="callout-text-1">Carregando…</p>
+      <p id="callout-text-2"></p>
+    </div>
+  </div>
+
+  <div class="callout finding">
+    <div class="icon">🔎</div>
+    <div>
+      <strong>Checagem de texto compartilhado entre planos</strong>
+      <p id="finding-callout-text">Carregando…</p>
+    </div>
+  </div>
+
+  <section id="sec-kpi">
+    <h2>Visão geral por candidato</h2>
+    <p class="section-desc">Índice de Base Empírica (quanto maior, mais o texto apoia as propostas em dado de diagnóstico, efeito mensurável esperado ou referência a evidência/mecanismo causal externo — não apenas em números ou prazos) e o tema com maior peso relativo no plano de cada candidato.</p>
+    <div class="kpi-grid" id="kpi-grid"></div>
+  </section>
+
+  <section id="sec-finding">
+    <h2>Blocos de texto idênticos entre planos</h2>
+    <p class="section-desc">Comparação automatizada dos dois documentos oficiais do Piauí (mesmo método usado na Paraíba e no Maranhão, onde a checagem já havia encontrado — no caso da Paraíba — parágrafos idênticos entre planos rivais). Blocos com 150+ caracteres idênticos (mesmas palavras, mesma pontuação) seriam sinalizados aqui.</p>
+    <div class="finding-hero">
+      <div style="font-weight:700; font-size:14.5px;">Resumo do achado</div>
+      <div class="stat-row" id="finding-stats"></div>
+    </div>
+    <div id="pairs-container"></div>
+  </section>
+
+  <section id="sec-wordclouds">
+    <h2>Nuvens de palavras</h2>
+    <p class="section-desc">Geradas a partir da frequência de termos de cada plano (stopwords e termos estruturais do documento removidos). O tamanho da palavra reflete quantas vezes ela aparece no texto coletado.</p>
+    <div class="wc-grid" id="wc-grid"></div>
+  </section>
+
+  <section id="sec-freq">
+    <h2>Frequência de palavras</h2>
+    <p class="section-desc">Top termos mais usados. Use o seletor para alternar entre o agregado dos dois planos e cada candidato individualmente.</p>
+    <div class="card">
+      <div class="tabs" id="freq-tabs"></div>
+      <div id="freq-chart"></div>
+      <details class="table-toggle"><summary>Ver como tabela</summary><div class="table-wrap" id="freq-table"></div></details>
+    </div>
+  </section>
+
+  <section id="sec-theme">
+    <h2>Distribuição temática por candidato (% do texto)</h2>
+    <p class="section-desc">Classificação exaustiva do texto inteiro de cada plano (não uma amostra) em oito áreas de governo — Saúde, Segurança, Educação, Infraestrutura, Meio Ambiente, Economia, Gestão Pública e Assistência Social/Direitos Humanos/Cultura — mais "Outros" para trechos introdutórios, institucionais, diagnósticos gerais ou de encerramento que não se enquadram em nenhuma área temática específica, ou que o próprio plano define como cruzando mais de um tema ao mesmo tempo, de forma indivisível — ver nota de metodologia.</p>
+    <div class="card">
+      <div class="legend" id="theme-legend"></div>
+      <div id="theme-chart"></div>
+      <details class="table-toggle"><summary>Ver como tabela</summary><div class="table-wrap" id="theme-table"></div></details>
+    </div>
+  </section>
+
+  <section id="sec-concrecao">
+    <h2>Índice de Base Empírica — propostas com evidência vs. retórica</h2>
+    <p class="section-desc">Proporção de trechos que apoiam a proposta em pelo menos um de três pilares — (a) dado de diagnóstico, (b) efeito/resultado mensurável esperado, ou (c) referência a evidência/mecanismo causal externo — em relação ao total desses trechos mais os que usam jargão de gestão genérico sem nenhuma dessas âncoras. É uma heurística lexical assistida por leitura humana, não uma nota de mérito, viabilidade orçamentária ou checagem de veracidade dos dados citados pelos candidatos.</p>
+    <div class="card">
+      <div id="concrecao-chart"></div>
+      <details class="table-toggle"><summary>Ver como tabela</summary><div class="table-wrap" id="concrecao-table"></div></details>
+    </div>
+    <div class="card" style="margin-top:14px;">
+      <div class="tabs" id="examples-tabs"></div>
+      <div class="examples-grid" id="examples-grid"></div>
+    </div>
+  </section>
+
+  <section id="sec-metodologia">
+    <h2>Metodologia e fontes</h2>
+    <div class="card">
+      <details open>
+        <summary style="cursor:pointer; font-weight:600; font-size:13.5px; margin-bottom:8px;">Como os dados foram calculados</summary>
+        <div id="metodologia-content" style="margin-top:10px; font-size:13px; color:var(--text-secondary); line-height:1.6;"></div>
+      </details>
+    </div>
+  </section>
+
+  <footer class="foot">
+    Painel gerado no âmbito do projeto de análise comparativa dos planos de governo do Nordeste (2026) — Piauí, com fonte 100% primária (PDFs oficiais de campanha). Mesma metodologia usada nas análises da Paraíba e do Maranhão. Ver seção de metodologia para limitações e fontes completas antes da publicação.
+  </footer>
+
+</div>
+
+<div class="tooltip" id="tooltip"></div>
+
+<script id="data-bundle" type="application/json">__DATA_BUNDLE_JSON__</script>
+<script>
+__APP_JS__
+</script>
+</body>
+</html>

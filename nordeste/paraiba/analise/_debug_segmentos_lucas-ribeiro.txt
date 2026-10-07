@@ -1,0 +1,34 @@
+[outros              ]    353 palavras (  9.2%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[seguranca           ]    535 palavras ( 13.9%) :: EIXO 1 — SEGURANÇA PÚBLICA, JUSTIÇA E PROTEÇÃO DA VIDA
+[outros              ]     54 palavras (  1.4%) :: EIXO 2 — DESENVOLVIMENTO HUMANO INTEGRAL E BEM-ESTAR SOCIAL
+[saude               ]    657 palavras ( 17.1%) :: 2.1. Saúde
+[educacao            ]    218 palavras (  5.7%) :: 2.2. Educação
+[assistencia_social  ]     85 palavras (  2.2%) :: 2.3. Cultura e Lazer
+[assistencia_social  ]    138 palavras (  3.6%) :: 2.4. Juventudes e Esporte
+[outros              ]     69 palavras (  1.8%) :: EIXO 3 — MULHERES, DIVERSIDADE, DIREITOS HUMANOS E ANIMAL
+[assistencia_social  ]    153 palavras (  4.0%) :: 3.1. Mulheres
+[assistencia_social  ]     82 palavras (  2.1%) :: 3.2. População LGBTQIAPN+ e Equidade Racial
+[assistencia_social  ]    142 palavras (  3.7%) :: 3.3. Pessoas com deficiência (PCD), Transtorno do Espectro Autista (TEA) e pesso
+[assistencia_social  ]     42 palavras (  1.1%) :: 3.4. Assistência Social
+[infraestrutura      ]     52 palavras (  1.4%) :: 3.5. Habitação
+[assistencia_social  ]     39 palavras (  1.0%) :: 3.6. Proteção aos Animais
+[assistencia_social  ]     57 palavras (  1.5%) :: 3.7. Direitos Humanos
+[economia            ]     46 palavras (  1.2%) :: EIXO 4 — ECONOMIA PRODUTIVA, INOVAÇÃO E TRABALHO
+[economia            ]     39 palavras (  1.0%) :: 4.1. Polos de Desenvolvimento
+[economia            ]     89 palavras (  2.3%) :: 4.2 Indústria e Comércio
+[economia            ]     59 palavras (  1.5%) :: 4.3. Agropecuária e Agricultura Familiar
+[economia            ]    122 palavras (  3.2%) :: 4.4. Ciência, Tecnologia e Ecossistema de Inovação
+[economia            ]     87 palavras (  2.3%) :: 4.5. Turismo sustentável e Interiorizado
+[economia            ]     21 palavras (  0.5%) :: 4.6 Empreendedorismo
+[gestao_publica      ]     57 palavras (  1.5%) :: EIXO 5 — GOVERNANÇA DIGITAL E GESTÃO PÚBLICA MODERNA
+[gestao_publica      ]     79 palavras (  2.1%) :: 5.1. Servidores Públicos
+[gestao_publica      ]     88 palavras (  2.3%) :: 5.2 Sustentabilidade Fiscal e Contencioso Tributário
+[outros              ]     67 palavras (  1.7%) :: EIXO 6 — DESENVOLVIMENTO TERRITORIAL E INTERIORIZAÇÃO
+[infraestrutura      ]     34 palavras (  0.9%) :: 6.1. Infraestrutura Regional
+[economia            ]     73 palavras (  1.9%) :: 6.2. Cadeias Produtivas
+[outros              ]     98 palavras (  2.6%) :: EIXO 7 — INFRAESTRUTURA, MOBILIDADE E SUSTENTABILIDADE AMBIENTAL
+[infraestrutura      ]     72 palavras (  1.9%) :: 7.2. Infraestrutura para Segurança Hídrica e Saneamento
+[infraestrutura      ]     57 palavras (  1.5%) :: 7.3. Infraestrutura para Mobilidade Urbana
+[infraestrutura      ]     41 palavras (  1.1%) :: 7.4. Infraestrutura para o Porto de Cabedelo
+[economia            ]     18 palavras (  0.5%) :: 7.5. Infraestrutura para Mineração
+[meio_ambiente       ]     14 palavras (  0.4%) :: 7.6. Energia Renovável, Gás e Eletricidade

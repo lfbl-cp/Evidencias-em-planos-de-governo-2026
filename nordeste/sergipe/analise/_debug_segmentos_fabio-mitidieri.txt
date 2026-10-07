@@ -1,0 +1,27 @@
+[outros              ]    857 palavras ( 10.7%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[economia            ]    975 palavras ( 12.1%) :: PERSPECTIVAS PARA O NOVO CICLO
+[economia            ]    201 palavras (  2.5%) :: AGRICULTURA, PECUÁRIA E PESCA
+[assistencia_social  ]    183 palavras (  2.3%) :: ASSISTÊNCIA SOCIAL E COMBATE À POBREZA
+[economia            ]    232 palavras (  2.9%) :: CIÊNCIA, TECNOLOGIA E INOVAÇÃO
+[assistencia_social  ]    441 palavras (  5.5%) :: CULTURA E SERGIPANIDADE
+[economia            ]    576 palavras (  7.2%) :: DESENVOLVIMENTO ECONÔMICO
+[assistencia_social  ]    415 palavras (  5.2%) :: DIREITOS HUMANOS
+[educacao            ]    371 palavras (  4.6%) :: EDUCAÇÃO
+[economia            ]    193 palavras (  2.4%) :: EMPREGO, RENDA E EMPREENDEDORISMO
+[assistencia_social  ]    456 palavras (  5.7%) :: ESPORTE E LAZER
+[gestao_publica      ]    463 palavras (  5.8%) :: GOVERNANÇA ESTRATÉGICA
+[infraestrutura      ]    101 palavras (  1.3%) :: HABITAÇÃO
+[infraestrutura      ]    365 palavras (  4.5%) :: INFRAESTRUTURA
+[assistencia_social  ]     92 palavras (  1.1%) :: JUVENTUDE
+[meio_ambiente       ]    273 palavras (  3.4%) :: MEIO AMBIENTE, SUSTENTABILIDADE E CLIMA
+[assistencia_social  ]    259 palavras (  3.2%) :: MULHERES
+[assistencia_social  ]    112 palavras (  1.4%) :: PRIMEIRA INFÂNCIA
+[assistencia_social  ]     99 palavras (  1.2%) :: PROTEÇÃO ANIMAL
+[saude               ]    463 palavras (  5.8%) :: SAÚDE
+[assistencia_social  ]     61 palavras (  0.8%) :: SEGURANÇA ALIMENTAR E NUTRICIONAL
+[infraestrutura      ]    234 palavras (  2.9%) :: SEGURANÇA HÍDRICA E SANEAMENTO
+[seguranca           ]    116 palavras (  1.4%) :: SEGURANÇA PÚBLICA
+[seguranca           ]    110 palavras (  1.4%) :: SISTEMA DE JUSTIÇA
+[gestao_publica      ]    130 palavras (  1.6%) :: TRANSPARÊNCIA E CONTROLE SOCIAL
+[economia            ]    119 palavras (  1.5%) :: TURISMO
+[gestao_publica      ]    148 palavras (  1.8%) :: VALORIZAÇÃO DE SERVIDORES(AS)

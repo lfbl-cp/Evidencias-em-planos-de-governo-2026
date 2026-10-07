@@ -1,0 +1,23 @@
+{
+  "allyson-bezerra_x_alvaro-dias": {
+    "blocks": [],
+    "total_shared_a": 0,
+    "total_shared_b": 0,
+    "len_a": 48867,
+    "len_b": 229118
+  },
+  "allyson-bezerra_x_cadu-xavier": {
+    "blocks": [],
+    "total_shared_a": 0,
+    "total_shared_b": 0,
+    "len_a": 48867,
+    "len_b": 151390
+  },
+  "alvaro-dias_x_cadu-xavier": {
+    "blocks": [],
+    "total_shared_a": 0,
+    "total_shared_b": 0,
+    "len_a": 229118,
+    "len_b": 151390
+  }
+}

@@ -1,0 +1,40 @@
+[outros              ]    388 palavras (  3.4%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[outros              ]    115 palavras (  1.0%) :: SUMÁRIO
+[outros              ]    359 palavras (  3.2%) :: INTRODUÇÃO
+[gestao_publica      ]     97 palavras (  0.9%) :: PARTE I — GOVERNANÇA, ESTADO DIGITAL E INOVAÇÃO PÚBLICA
+[gestao_publica      ]    340 palavras (  3.0%) :: Seção 1 — Governança, Gestão Pública e Integridade
+[gestao_publica      ]    320 palavras (  2.8%) :: Seção 2 — Fazenda e Tributação
+[gestao_publica      ]    344 palavras (  3.0%) :: Seção 3 — Governo Digital, Inteligência Artificial (IA) e Computação Soberana
+[economia            ]    310 palavras (  2.7%) :: Seção 4 — Inovação e Tecnologia
+[economia            ]     92 palavras (  0.8%) :: PARTE II — DESENVOLVIMENTO ECONÔMICO E TRABALHO
+[economia            ]    351 palavras (  3.1%) :: Seção 5 — Desenvolvimento Econômico
+[economia            ]    417 palavras (  3.7%) :: 4.1. Polos de Desenvolvimento
+[economia            ]    313 palavras (  2.8%) :: Seção 6 — Empreendedorismo e Ambiente de Negócios
+[economia            ]    311 palavras (  2.8%) :: Seção 7 — Agropecuária
+[economia            ]    325 palavras (  2.9%) :: Seção 8 — Turismo
+[economia            ]    301 palavras (  2.7%) :: Seção 9 — Cooperativismo
+[economia            ]    315 palavras (  2.8%) :: Seção 10 — Juventude, Qualificação Profissional e Empregabilidade
+[infraestrutura      ]     83 palavras (  0.7%) :: PARTE III — INFRAESTRUTURA, ÁGUA E MEIO AMBIENTE
+[infraestrutura      ]    316 palavras (  2.8%) :: Seção 11 — Infraestrutura e Logística
+[infraestrutura      ]    321 palavras (  2.8%) :: Seção 12 — Rodovias
+[infraestrutura      ]    332 palavras (  2.9%) :: Seção 13 — Mobilidade Urbana
+[infraestrutura      ]    329 palavras (  2.9%) :: Seção 14 — Recursos Hídricos
+[infraestrutura      ]    334 palavras (  3.0%) :: Seção 15 — Esgotamento Sanitário
+[infraestrutura      ]    328 palavras (  2.9%) :: Seção 16 — Habitação
+[meio_ambiente       ]    445 palavras (  3.9%) :: Seção 17 — Meio Ambiente, Energia e Sustentabilidade
+[infraestrutura      ]     72 palavras (  0.6%) :: 7.2. Infraestrutura para Segurança Hídrica e Saneamento
+[infraestrutura      ]     57 palavras (  0.5%) :: 7.3. Infraestrutura para Mobilidade Urbana
+[infraestrutura      ]     41 palavras (  0.4%) :: 7.4. Infraestrutura para o Porto de Cabedelo
+[economia            ]     18 palavras (  0.2%) :: 7.5. Infraestrutura para Mineração
+[meio_ambiente       ]     14 palavras (  0.1%) :: 7.6. Energia Renovável, Gás e Eletricidade
+[outros              ]     91 palavras (  0.8%) :: PARTE IV — DESENVOLVIMENTO HUMANO E PROTEÇÃO SOCIAL
+[educacao            ]    351 palavras (  3.1%) :: Seção 18 — Educação
+[saude               ]    360 palavras (  3.2%) :: Seção 19 — Saúde
+[assistencia_social  ]    361 palavras (  3.2%) :: Seção 20 — Assistência Social
+[assistencia_social  ]    373 palavras (  3.3%) :: Seção 21 — Mulher, Infância, Juventude, Pessoas com Deficiência e Neurodesenvolv
+[assistencia_social  ]    381 palavras (  3.4%) :: Seção 22 — Cultura
+[assistencia_social  ]    375 palavras (  3.3%) :: Seção 23 — Esporte e Lazer
+[assistencia_social  ]    375 palavras (  3.3%) :: Seção 24 — Proteção e Bem-Estar Animal
+[seguranca           ]     86 palavras (  0.8%) :: PARTE V — SEGURANÇA PÚBLICA E DEFESA CIVIL
+[seguranca           ]    916 palavras (  8.1%) :: Seção 25 — Segurança Pública e Defesa Civil
+[outros              ]    240 palavras (  2.1%) :: FECHAMENTO — COMPROMISSO FINAL

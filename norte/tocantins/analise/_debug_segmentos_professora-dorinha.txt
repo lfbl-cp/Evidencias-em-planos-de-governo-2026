@@ -1,0 +1,36 @@
+[outros              ]      0 palavras (  0.0%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[outros              ]     60 palavras (  0.3%) :: TOCANTINS EM NÚMEROS: COMPREENDER O CONTEXTO PARA
+[outros              ]    293 palavras (  1.7%) :: DEMOGRAFIA E TERRITÓRIO
+[outros              ]    201 palavras (  1.1%) :: POVOS E CULTURAS
+[economia            ]    656 palavras (  3.7%) :: ECONOMIA
+[outros              ]    322 palavras (  1.8%) :: O QUE O CONJUNTO DOS INDICADORES REVELA
+[gestao_publica      ]     43 palavras (  0.2%) :: VALORES ESTRATÉGICOS
+[outros              ]    312 palavras (  1.8%) :: METODOLOGIA DO PLANO
+[outros              ]    564 palavras (  3.2%) :: EIXOS ESTRUTURANTES: O TOCANTINS QUE QUEREMOS COMEÇA
+[educacao            ]   3131 palavras ( 17.8%) :: EIXO 1 – EDUCAÇÃO E CAPITAL HUMANO
+[assistencia_social  ]    199 palavras (  1.1%) :: Juventude
+[assistencia_social  ]    352 palavras (  2.0%) :: Esporte e Lazer
+[saude               ]   1936 palavras ( 11.0%) :: EIXO 2 – SAÚDE E QUALIDADE DE VIDA
+[outros              ]    252 palavras (  1.4%) :: EIXO 3 – SEGURANÇA PÚBLICA, DESENVOLVIMENTO SOCIAL E
+[assistencia_social  ]     60 palavras (  0.3%) :: Governança e institucionalidade dos direitos humanos
+[seguranca           ]    296 palavras (  1.7%) :: Valorização e capacidade das forças de segurança pública
+[seguranca           ]    213 palavras (  1.2%) :: Acesso à justiça, segurança cidadã e política penal
+[seguranca           ]     69 palavras (  0.4%) :: Prevenção da violência e cultura de paz
+[assistencia_social  ]    105 palavras (  0.6%) :: Assistência social, segurança alimentar e inclusão produtiva
+[assistencia_social  ]    215 palavras (  1.2%) :: Direitos das mulheres: proteção e autonomia
+[assistencia_social  ]     97 palavras (  0.6%) :: Igualdade racial e comunidades quilombolas
+[assistencia_social  ]     85 palavras (  0.5%) :: Povos indígenas e comunidades tradicionais
+[assistencia_social  ]    108 palavras (  0.6%) :: Crianças, adolescentes e juventudes
+[assistencia_social  ]    120 palavras (  0.7%) :: Pessoa idosa, pessoa com deficiência e populações em situação de
+[infraestrutura      ]    868 palavras (  4.9%) :: EIXO 4 – INFRAESTRUTURA, HABITAÇÃO E CONECTIVIDADE
+[economia            ]   1246 palavras (  7.1%) :: EIXO 5 – DESENVOLVIMENTO ECONÔMICO E SUSTENTÁVEL
+[infraestrutura      ]    286 palavras (  1.6%) :: Plano Tocantins Multimodal
+[economia            ]    279 palavras (  1.6%) :: Governança e Ambiente Institucional
+[gestao_publica      ]    913 palavras (  5.2%) :: EIXO 6 – DESENVOLVIMENTO REGIONAL E REDUÇÃO DAS
+[economia            ]    798 palavras (  4.5%) :: EIXO 7 – AGROPECUÁRIA E DESENVOLVIMENTO RURAL
+[infraestrutura      ]    127 palavras (  0.7%) :: Logística, infraestrutura rural e segurança hídrica
+[economia            ]    715 palavras (  4.1%) :: Agricultura familiar, cooperativismo e inclusão produtiva
+[meio_ambiente       ]    850 palavras (  4.8%) :: EIXO 8 – MEIO AMBIENTE, SUSTENTABILIDADE E CAUSA ANIMAL
+[assistencia_social  ]    140 palavras (  0.8%) :: Bem-Estar e Proteção Animal
+[assistencia_social  ]    787 palavras (  4.5%) :: EIXO 9 – CULTURA, TURISMO E DESENVOLVIMENTO CRIATIVO
+[gestao_publica      ]    937 palavras (  5.3%) :: EIXO 10 – GOVERNANÇA, TRANSPARÊNCIA E TRANSFORMAÇÃO

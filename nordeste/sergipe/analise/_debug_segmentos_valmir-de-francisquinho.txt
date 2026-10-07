@@ -1,0 +1,38 @@
+[outros              ]   2945 palavras ( 17.4%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[economia            ]    805 palavras (  4.8%) :: 3.1 Gente: Desafios Econômicos, Geração de Emprego e Inserção Social
+[saude               ]   1110 palavras (  6.6%) :: 3.2 Saúde Humanizada e Eficiente
+[educacao            ]   2006 palavras ( 11.8%) :: 3.3 Educação para o Futuro e Inovação Tecnológica
+[educacao            ]    302 palavras (  1.8%) :: 3.3.1 Inovação Tecnológica
+[seguranca           ]   1096 palavras (  6.5%) :: 3.4 Segurança Pública e Cultura de Paz
+[gestao_publica      ]   1669 palavras (  9.8%) :: 3.5 Responsabilidade Fiscal e Modernização da Gestão Pública
+[infraestrutura      ]    583 palavras (  3.4%) :: 3.6 Infraestrutura, Desenvolvimento Regional e Transição Energética
+[infraestrutura      ]     64 palavras (  0.4%) :: 1. Planejamento Territorial e Desenvolvimento Regional
+[infraestrutura      ]     55 palavras (  0.3%) :: 2. Logística e Infraestrutura Estratégica
+[infraestrutura      ]     59 palavras (  0.3%) :: 3. Rodovias e Mobilidade Regional
+[infraestrutura      ]     66 palavras (  0.4%) :: 4. Mobilidade Metropolitana e Transporte Público
+[infraestrutura      ]     70 palavras (  0.4%) :: 5. Infraestrutura Urbana e Qualidade de Vida
+[economia            ]     56 palavras (  0.3%) :: 6. Desenvolvimento Logístico, Industrial e Mineral
+[economia            ]     49 palavras (  0.3%) :: 7. Turismo e Desenvolvimento Territorial
+[infraestrutura      ]     42 palavras (  0.2%) :: 8. Infraestrutura Hídrica e Produção Rural
+[infraestrutura      ]     49 palavras (  0.3%) :: 9. Mobilidade Inteligente e Segurança Viária
+[infraestrutura      ]     61 palavras (  0.4%) :: 10. Infraestrutura Digital e Governo Inteligente
+[economia            ]     92 palavras (  0.5%) :: 11. Desenvolvimento Econômico e Ambiente de Negócios
+[economia            ]    101 palavras (  0.6%) :: 12. Transição Energética
+[meio_ambiente       ]     65 palavras (  0.4%) :: 13. Meio Ambiente e Conservação
+[infraestrutura      ]     64 palavras (  0.4%) :: 14. Recursos Hídricos e Segurança Hídrica
+[infraestrutura      ]     58 palavras (  0.3%) :: 15. Saneamento e Economia Circular
+[meio_ambiente       ]     46 palavras (  0.3%) :: 16. Mudanças Climáticas
+[economia            ]     54 palavras (  0.3%) :: 17. Turismo Sustentável e Patrimônio Natural
+[meio_ambiente       ]     47 palavras (  0.3%) :: 18. Educação Ambiental e Inovação
+[economia            ]     49 palavras (  0.3%) :: 19. Qualificação Profissional para a Nova Economia
+[infraestrutura      ]    221 palavras (  1.3%) :: Projetos Estruturantes Prioritários
+[economia            ]   1178 palavras (  7.0%) :: 3.7 Agricultura, Pecuária e Segurança Alimentar
+[assistencia_social  ]   1143 palavras (  6.7%) :: 3.8 Mulheres, Juventude, Diversidade e Inclusão Social
+[economia            ]   1030 palavras (  6.1%) :: 3.9 Sergipe Empreendedor e Inclusivo
+[outros              ]    295 palavras (  1.7%) :: 3.10 Cultura, Turismo e Identidade Sergipana
+[economia            ]    251 palavras (  1.5%) :: Eixo 1 - Desenvolvimento do Turismo
+[assistencia_social  ]    142 palavras (  0.8%) :: Eixo 2 - Cultura, Patrimônio e Identidade Sergipana
+[assistencia_social  ]    127 palavras (  0.7%) :: Eixo 3 - Economia Criativa e Empreendedorismo Cultural
+[economia            ]    133 palavras (  0.8%) :: Eixo 4 - Qualificação, Governança e Inovação
+[economia            ]    259 palavras (  1.5%) :: Eixo 5 - Turismo Regional, Sustentabilidade e Inclusão
+[outros              ]    504 palavras (  3.0%) :: 4. CONSIDERAÇÕES FINAIS

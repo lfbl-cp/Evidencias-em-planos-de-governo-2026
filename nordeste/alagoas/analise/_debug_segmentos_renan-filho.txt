@@ -1,0 +1,58 @@
+[outros              ]     45 palavras (  4.0%) :: [FRONT MATTER: carta de abertura/sumário/diagnóstico/síntese]
+[saude               ]     21 palavras (  1.9%) :: 1. Ampliar a rede hospitalar do Estado
+[saude               ]     26 palavras (  2.3%) :: 2. Criar uma frota de ambulâncias
+[seguranca           ]     23 palavras (  2.0%) :: 3. Ampliar a integração de operações de órgãos de segurança pública
+[seguranca           ]     23 palavras (  2.0%) :: 4. Implantar Delegacias 24h da Mulher
+[seguranca           ]     11 palavras (  1.0%) :: 5. Criar programa de valorização profissional para os integrantes da segurança
+[seguranca           ]      8 palavras (  0.7%) :: 6. Ampliar a cobertura aérea de combate ao crime
+[assistencia_social  ]     29 palavras (  2.6%) :: 7. Expandir o cofinanciamento estadual de municípios
+[assistencia_social  ]     15 palavras (  1.3%) :: 8. Implantar Centro de Referência de Assistência Social
+[assistencia_social  ]     10 palavras (  0.9%) :: 9. Expandir a interiorização da Rede de Restaurantes Populares
+[seguranca           ]     15 palavras (  1.3%) :: 10. Desenvolver um sistema interoperacional para percurso da rota crítica
+[assistencia_social  ]     24 palavras (  2.1%) :: 11. Apoiar os municípios na criação ou no fortalecimento de seus organismos
+[seguranca           ]     15 palavras (  1.3%) :: 12. Desenvolver ações de prevenção e enfrentamento à misoginia
+[assistencia_social  ]     24 palavras (  2.1%) :: 13. Criar academias públicas ao ar livre
+[assistencia_social  ]     27 palavras (  2.4%) :: 14. Criar Centros Regionais de Desenvolvimento Esportivo
+[outros              ]     23 palavras (  2.0%) :: MISSÃO 2: ECONOMIA INOVADORA
+[educacao            ]     36 palavras (  3.2%) :: 15. Criar o Programa Educação IA
+[educacao            ]     26 palavras (  2.3%) :: 16. Implantar o programa Escola da Hora Tech
+[educacao            ]     17 palavras (  1.5%) :: 17. Instituir o Programa Mãe Estudante
+[educacao            ]      6 palavras (  0.5%) :: 18. Combater o analfabetismo na idade adulta
+[economia            ]     10 palavras (  0.9%) :: 19. Transformar o Jaraguá no bairro de inovação
+[economia            ]      6 palavras (  0.5%) :: 20. Criar um programa de residência tecnológica
+[economia            ]     15 palavras (  1.3%) :: 21. Criar um programa estruturante e de longo prazo para o turismo
+[economia            ]     20 palavras (  1.8%) :: 22. Criar uma política de desenvolvimento da economia criativa
+[economia            ]     10 palavras (  0.9%) :: 23. Implantar Polo de Comércio e Serviços Corporativos
+[economia            ]      8 palavras (  0.7%) :: 24. Fomentar o empreendedorismo de mães e famílias atípicas
+[economia            ]     18 palavras (  1.6%) :: 25. Criar um amplo programa de qualificação profissional
+[economia            ]     13 palavras (  1.2%) :: 26. Eliminar barreiras burocráticas
+[economia            ]     35 palavras (  3.1%) :: 27. Fortalecer a agricultura familiar alagoana
+[economia            ]     21 palavras (  1.9%) :: 28. Estimular a produção de alimentos orgânicos
+[economia            ]     37 palavras (  3.3%) :: 29. Ampliar programas que fomentem a produção e comercialização de alimentos
+[economia            ]     27 palavras (  2.4%) :: 30. Ampliar acesso a sistemas simplificados de irrigação
+[economia            ]     28 palavras (  2.5%) :: 31. Fomentar a ampliação da área de cultivo de grãos
+[economia            ]     18 palavras (  1.6%) :: 32. Fortalecer a cadeia produtiva da fruticultura
+[economia            ]     27 palavras (  2.4%) :: 33. Apoiar a cadeia produtiva do leite
+[economia            ]     25 palavras (  2.2%) :: 34. Expandir programas de melhoramento genético
+[economia            ]     29 palavras (  2.6%) :: 35. Estruturar programa estadual de fomento à pesca e aquicultura
+[economia            ]     39 palavras (  3.5%) :: 36. Fomentar a consolidação e expansão da cadeia produtiva da carcinicultura
+[economia            ]     45 palavras (  4.0%) :: 37. Desenvolver uma política de modernização do setor sucroenergético
+[outros              ]     28 palavras (  2.5%) :: MISSÃO 3: TRANSFORMAÇÃO ECOLÓGICA
+[meio_ambiente       ]     33 palavras (  2.9%) :: 38. Criar a “Agenda 21 de Alagoas”
+[meio_ambiente       ]     10 palavras (  0.9%) :: 39. Criar o Programa de Restauração Florestal
+[meio_ambiente       ]     17 palavras (  1.5%) :: 40. Incentivar a Pesquisa, desenvolvimento e inovação (PD&I)
+[meio_ambiente       ]     12 palavras (  1.1%) :: 41. Fomentar a produção dos Planos de Manejo de Unidades de Conservação
+[meio_ambiente       ]     18 palavras (  1.6%) :: 42. Criar o Plano “Passagem silvestre”
+[meio_ambiente       ]      8 palavras (  0.7%) :: 43. Investir em energias renováveis (solar) na rede pública
+[meio_ambiente       ]      8 palavras (  0.7%) :: 44. Criar o Sistema Estadual de Gestão Ambiental Integrada
+[outros              ]     18 palavras (  1.6%) :: MISSÃO 4: INFRAESTRUTURA REGIONALIZADA
+[infraestrutura      ]     11 palavras (  1.0%) :: 45. Ampliar rodovias duplicadas
+[infraestrutura      ]     22 palavras (  1.9%) :: 46. Realizar estudo para implantar um terminal rodoviário
+[infraestrutura      ]      9 palavras (  0.8%) :: 47. Criar um programa de construção e recuperação de pontes
+[infraestrutura      ]      8 palavras (  0.7%) :: 48. Incluir os povoados no programa Minha Cidade Linda
+[infraestrutura      ]     11 palavras (  1.0%) :: 49. Implantar Programa de Endereçamento Postal
+[infraestrutura      ]     16 palavras (  1.4%) :: 50. Articular junto ao Governo Federal a construção de 5 mil casas
+[outros              ]     22 palavras (  1.9%) :: MISSÃO 5: ESTADO DIGITAL E EFICIENTE
+[gestao_publica      ]      7 palavras (  0.6%) :: 51. Intensificar a transformação digital no Poder Executivo
+[gestao_publica      ]     10 palavras (  0.9%) :: 52. Criar uma política estruturada de Governança de Dados
+[gestao_publica      ]      6 palavras (  0.5%) :: 53. Implementar uma Política de Cidadania Digital

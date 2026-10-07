@@ -1,0 +1,36 @@
+[outros              ]   1410 palavras (  8.9%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[educacao            ]    614 palavras (  3.9%) :: 1.1 - EDUCAÇÃO PÚBLICA, BÁSICA
+[saude               ]    386 palavras (  2.4%) :: 1.2 - SAÚDE PÚBLICA, REGIONALIZAÇÃO DO
+[seguranca           ]    527 palavras (  3.3%) :: 1.3 - SEGURANÇA PÚBLICA, INTELIGÊNCIA
+[seguranca           ]    609 palavras (  3.9%) :: 1.4 - POLÍTICAS PARA AS MULHERES E
+[economia            ]    483 palavras (  3.1%) :: 1.5 - TRABALHO, EMPREGO, RENDA E
+[assistencia_social  ]    718 palavras (  4.6%) :: 1.6 - ASSISTÊNCIA SOCIAL, COMBATE À
+[assistencia_social  ]    216 palavras (  1.4%) :: 1.7 - DIREITOS HUMANOS
+[infraestrutura      ]    429 palavras (  2.7%) :: 1.8 - HABITAÇÃO DE INTERESSE SOCIAL
+[assistencia_social  ]    295 palavras (  1.9%) :: 1.9 - CULTURA, MEMÓRIA, PATRIMÔNIO
+[gestao_publica      ]    239 palavras (  1.5%) :: 1.10 - COMUNICAÇÃO SOCIAL PÚBLICA,
+[assistencia_social  ]    326 palavras (  2.1%) :: 1.11 - ESPORTE, PARADESPORTO, LAZER
+[assistencia_social  ]    784 palavras (  5.0%) :: 1.12 - IGUALDADE RACIAL E AÇÕES
+[assistencia_social  ]    189 palavras (  1.2%) :: 1.13 - DIVERSIDADE SEXUAL E CIDADANIA
+[assistencia_social  ]    298 palavras (  1.9%) :: 1.14 - PRIMEIRA INFÂNCIA E ADOLESCÊNCIA
+[assistencia_social  ]    221 palavras (  1.4%) :: 1.15 - DIREITOS E CUIDADO INTEGRAL
+[assistencia_social  ]    661 palavras (  4.2%) :: 1.16 - INCLUSÃO, ACESSIBILIDADE E DIREITOS
+[economia            ]    222 palavras (  1.4%) :: 1.17 - ECONOMIA SOLIDÁRIA, POPULAR E
+[assistencia_social  ]     83 palavras (  0.5%) :: 1.18 - POLÍTICAS PÚBLICAS PARA AS
+[assistencia_social  ]    502 palavras (  3.2%) :: 1.19 - DIREITOS, PROTEÇÃO
+[infraestrutura      ]    398 palavras (  2.5%) :: 2.1 - TRANSPORTES, LOGÍSTICA
+[infraestrutura      ]    364 palavras (  2.3%) :: 2.2 - ENERGIA, MATRIZ RENOVÁVEL E
+[economia            ]    289 palavras (  1.8%) :: 2.3 - MINERAÇÃO ESTRATÉGICA,
+[infraestrutura      ]    314 palavras (  2.0%) :: 2.4 - SANEAMENTO BÁSICO, RECURSOS
+[meio_ambiente       ]    796 palavras (  5.0%) :: 2.5 - MEIO AMBIENTE, TRANSIÇÃO
+[meio_ambiente       ]    254 palavras (  1.6%) :: 2.6 - DEFESA CIVIL E GESTÃO PREDITIVA
+[infraestrutura      ]    307 palavras (  1.9%) :: 2.7 - MOBILIDADE URBANA METROPOLITANA
+[economia            ]    335 palavras (  2.1%) :: 3.1 - AGRICULTURA FAMILIAR E
+[economia            ]    324 palavras (  2.1%) :: 3.2 - AGROPECUÁRIA SUSTENTÁVEL
+[economia            ]    299 palavras (  1.9%) :: 3.3 - COMÉRCIO, SERVIÇOS, ECONOMIA
+[economia            ]    773 palavras (  4.9%) :: 3.4 - CIÊNCIA, TECNOLOGIA, INOVAÇÃO
+[economia            ]    135 palavras (  0.9%) :: 3.5 - TURISMO SUSTENTÁVEL
+[gestao_publica      ]    269 palavras (  1.7%) :: 4.1 - GESTÃO PÚBLICA, VALORIZAÇÃO DO
+[gestao_publica      ]    729 palavras (  4.6%) :: 4.2 - FINANÇAS PÚBLICAS
+[economia            ]    150 palavras (  1.0%) :: 4.3 - BANCOS PÚBLICOS
+[gestao_publica      ]    832 palavras (  5.3%) :: CONCLUSÃO

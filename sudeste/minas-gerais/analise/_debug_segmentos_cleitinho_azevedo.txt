@@ -1,0 +1,16 @@
+[outros              ]    307 palavras (  8.8%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[gestao_publica      ]    257 palavras (  7.4%) :: PRINCÍPIOS
+[gestao_publica      ]    178 palavras (  5.1%) :: METODOLOGIA DE
+[outros              ]     83 palavras (  2.4%) :: 10 EIXOS ESTRATÉGICOS DE GOVERNO
+[gestao_publica      ]    283 palavras (  8.1%) :: 1. Renegociação da Dívida com a União
+[saude               ]    270 palavras (  7.8%) :: 1. Tabela Mineira de Procedimentos Estratégicos
+[seguranca           ]    300 palavras (  8.6%) :: 1. Policiamento Ostensivo e Territorial
+[educacao            ]    309 palavras (  8.9%) :: 1. Recomposição da Aprendizagem, Alfabetização e Educação Especial
+[economia            ]    308 palavras (  8.9%) :: 1. Ambiente de Negócios Simples e Digital
+[infraestrutura      ]    256 palavras (  7.4%) :: 1. Priorização de Investimentos Públicos sem Novos Pedágios
+[economia            ]    260 palavras (  7.5%) :: 1. Simplificação e Digitalização dos Processos
+[assistencia_social  ]    238 palavras (  6.8%) :: 1. Índice Mineiro de Vulnerabilidade Familiar
+[infraestrutura      ]     65 palavras (  1.9%) :: 1. Aceleração das Metas do Marco Legal do Saneamento
+[meio_ambiente       ]    161 palavras (  4.6%) :: 4. Fiscalização Transparente de Barragens de Mineração
+[assistencia_social  ]     98 palavras (  2.8%) :: 1. Descentralização dos Recursos da Cultura
+[economia            ]    102 palavras (  2.9%) :: 6. Expansão do Turismo Social

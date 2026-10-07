@@ -1,0 +1,17 @@
+[outros              ]    992 palavras ( 10.1%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[gestao_publica      ]    343 palavras (  3.5%) :: Mato Grosso precisa de uma administração pública que transforme orçamento, estru
+[gestao_publica      ]    279 palavras (  2.8%) :: O planejamento estadual precisa deixar de ser uma etapa formal e assumir o papel
+[gestao_publica      ]    261 palavras (  2.7%) :: Uma política fiscal competente e responsável deve proteger o equilíbrio das cont
+[seguranca           ]    722 palavras (  7.4%) :: Mato Grosso enfrenta o avanço das facções, crimes de fronteira, violência urbana
+[assistencia_social  ]    469 palavras (  4.8%) :: Mato Grosso convive com índices inaceitáveis de violência contra a mulher e femi
+[saude               ]    758 palavras (  7.7%) :: A saúde pública precisa funcionar para o paciente, com atendimento oportuno, cui
+[educacao            ]    666 palavras (  6.8%) :: A educação é ambiente de formação e o caminho mais seguro para ampliar oportunid
+[assistencia_social  ]    260 palavras (  2.7%) :: O esporte e o lazer são instrumentos de saúde, convivência, disciplina e desenvo
+[infraestrutura      ]    723 palavras (  7.4%) :: Mato Grosso produz em grande escala, mas ainda enfrenta distâncias, custos logís
+[economia            ]    324 palavras (  3.3%) :: Ciência, tecnologia e inovação são essenciais para gerar conhecimento, aumentar 
+[economia            ]   1051 palavras ( 10.7%) :: Mato Grosso possui uma das economias mais dinâmicas do país, mas precisa transfo
+[economia            ]    365 palavras (  3.7%) :: Mato Grosso reúne Pantanal, Cerrado, Amazônia, rios, cultura, gastronomia e pais
+[assistencia_social  ]    356 palavras (  3.6%) :: A cultura de Mato Grosso expressa a história, a diversidade regional e o modo de
+[infraestrutura      ]    772 palavras (  7.9%) :: Mato Grosso precisa transformar crescimento econômico e populacional em cidades 
+[assistencia_social  ]    687 palavras (  7.0%) :: O desenvolvimento de Mato Grosso precisa alcançar a vida concreta das famílias. 
+[meio_ambiente       ]    774 palavras (  7.9%) :: Mato Grosso precisa conciliar produção, conservação ambiental e segurança jurídi

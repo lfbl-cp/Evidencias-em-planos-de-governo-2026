@@ -1,0 +1,80 @@
+[outros              ]    263 palavras (  1.4%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[outros              ]    753 palavras (  3.9%) :: MENSAGEM INSTITUCIONAL
+[outros              ]    853 palavras (  4.4%) :: CARTA DO CANDIDATO
+[outros              ]    765 palavras (  3.9%) :: CAPÍTULO I
+
+O PARÁ QUE SOMOS
+[outros              ]    790 palavras (  4.1%) :: CAPÍTULO II
+
+O PARÁ QUE QUEREMOS CONSTRUIR
+[gestao_publica      ]    934 palavras (  4.8%) :: CAPÍTULO III
+
+OS PRINCÍPIOS QUE ORIENTARÃO O GOVERNO
+[gestao_publica      ]    836 palavras (  4.3%) :: CAPÍTULO IV
+
+UMA NOVA GOVERNANÇA
+[outros              ]    432 palavras (  2.2%) :: PARTE II
+
+AS GRANDES TRANSFORMAÇÕES DO PARÁ
+[gestao_publica      ]    541 palavras (  2.8%) :: EIXO I
+
+UM ESTADO MODERNO
+[economia            ]   1559 palavras (  8.0%) :: EIXO II
+
+DESENVOLVIMENTO ECONÔMICO, INDUSTRIALIZAÇÃO
+[educacao            ]    937 palavras (  4.8%) :: EIXO III
+
+EDUCAÇÃO: O CAMINHO
+[saude               ]    979 palavras (  5.1%) :: EIXO IV
+
+SAÚDE: CUIDAR DAS PESSOAS
+[seguranca           ]    873 palavras (  4.5%) :: EIXO V
+
+SEGURANÇA PÚBLICA, JUSTIÇA E DEFESA DA VIDA
+[infraestrutura      ]    855 palavras (  4.4%) :: EIXO VI
+
+INFRAESTRUTURA, LOGÍSTICA E INTEGRAÇÃO
+[assistencia_social  ]    906 palavras (  4.7%) :: EIXO VII
+
+DESENVOLVIMENTO HUMANO, CIDADANIA, CULTURA
+[meio_ambiente       ]   1792 palavras (  9.2%) :: EIXO VIII
+
+A AMAZÔNIA COMO VANTAGEM ESTRATÉGICA
+[outros              ]    566 palavras (  2.9%) :: PARTE III
+
+GOVERNAR PARA TRANSFORMAR O PARÁ
+[gestao_publica      ]    755 palavras (  3.9%) :: CAPÍTULO I
+
+GOVERNAR COM AS PESSOAS
+[outros              ]     93 palavras (  0.5%) :: CAPÍTULO II
+
+AS GRANDES MISSÕES DO GOVERNO
+[educacao            ]    128 palavras (  0.7%) :: Missão 1 – Fazer da educação
+[saude               ]    114 palavras (  0.6%) :: Missão 2 – Construir a maior rede regionalizada de saúde
+[infraestrutura      ]     94 palavras (  0.5%) :: Missão 3 – Integrar o território para desenvolver a economia
+[economia            ]     96 palavras (  0.5%) :: Missão 4 – Industrializar o Pará e gerar empregos
+[seguranca           ]     80 palavras (  0.4%) :: Missão 5 – Restabelecer a autoridade do Estado
+[meio_ambiente       ]     49 palavras (  0.3%) :: Missão 6 – Liderar a nova economia da Amazônia
+[outros              ]    229 palavras (  1.2%) :: Missão 7 – Reduzir as desigualdades entre as regiões
+[gestao_publica      ]    722 palavras (  3.7%) :: CAPÍTULO III
+
+UM GOVERNO MODERNO, INTELIGENTE
+[outros              ]    788 palavras (  4.1%) :: CAPÍTULO IV
+
+PARÁ 2030
+[outros              ]    793 palavras (  4.1%) :: CAPÍTULO V
+
+COMPROMISSO COM O PARÁ
+[outros              ]    147 palavras (  0.8%) :: ANEXO I
+
+COMPROMISSOS DOS PRIMEIROS 100 DIAS
+[gestao_publica      ]     83 palavras (  0.4%) :: 1. Reorganização da Administração Pública
+[gestao_publica      ]     68 palavras (  0.4%) :: 2. Programa Estado Presente
+[saude               ]     53 palavras (  0.3%) :: 3. Plano Emergencial para Redução das Filas
+[educacao            ]     50 palavras (  0.3%) :: 4. Educação com início imediato
+[seguranca           ]     45 palavras (  0.2%) :: 5. Segurança Pública
+[economia            ]     67 palavras (  0.3%) :: 6. Desenvolvimento Econômico
+[infraestrutura      ]     46 palavras (  0.2%) :: 7. Infraestrutura
+[meio_ambiente       ]     40 palavras (  0.2%) :: 8. Amazônia e Desenvolvimento Sustentável
+[gestao_publica      ]     46 palavras (  0.2%) :: 9. Transparência e Governo Digital
+[gestao_publica      ]    153 palavras (  0.8%) :: 10. Diálogo Permanente com a Sociedade

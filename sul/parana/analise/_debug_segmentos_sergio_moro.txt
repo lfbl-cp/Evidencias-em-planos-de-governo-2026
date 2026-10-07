@@ -1,0 +1,35 @@
+[outros              ]   2655 palavras ( 11.5%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[outros              ]    609 palavras (  2.6%) :: PILAR 1
+[educacao            ]   1641 palavras (  7.1%) :: TEMÁTICA 1.1 – EDUCAÇÃO
+[assistencia_social  ]    488 palavras (  2.1%) :: TEMÁTICA 1.2 – CULTURA
+[assistencia_social  ]    766 palavras (  3.3%) :: TEMÁTICA 1.3 – ESPORTE
+[saude               ]   2157 palavras (  9.3%) :: TEMÁTICA 1.4 – SAÚDE
+[assistencia_social  ]   1267 palavras (  5.5%) :: TEMÁTICA 1.5 - ASSISTÊNCIA SOCIAL
+[outros              ]    738 palavras (  3.2%) :: PILAR 2
+[economia            ]   1367 palavras (  5.9%) :: TEMÁTICA 2.1 – AGRICULTURA
+[economia            ]    233 palavras (  1.0%) :: TEMÁTICA 2.2 – INDÚSTRIA
+[economia            ]    306 palavras (  1.3%) :: TEMÁTICA 2.3 – COMÉRCIO, SERVIÇOS, EMPREENDEDORISMO E MICRO E
+[economia            ]    602 palavras (  2.6%) :: TEMÁTICA 2.4 – TURISMO
+[economia            ]    655 palavras (  2.8%) :: TEMÁTICA 2.5 – INOVAÇÃO, PESQUISA, TECNOLOGIA E ECONOMIA DIGITAL
+[economia            ]    304 palavras (  1.3%) :: TEMÁTICA 2.6 – INTERNACIONALIZAÇÃO, ATRAÇÃO E RETENÇÃO DE
+[economia            ]    272 palavras (  1.2%) :: TEMÁTICA 2.7 – TRABALHO, QUALIFICAÇÃO E RENDA
+[meio_ambiente       ]    486 palavras (  2.1%) :: TEMÁTICA 2.8 – MEIO AMBIENTE E SUSTENTABILIDADE
+[outros              ]    606 palavras (  2.6%) :: PILAR 3
+[infraestrutura      ]    440 palavras (  1.9%) :: TEMÁTICA 3.1 - HABITAÇÃO E REGULARIZAÇÃO FUNDIÁRIA
+[infraestrutura      ]    255 palavras (  1.1%) :: TEMÁTICA 3.2 - MOBILIDADE URBANA E REGIONAL
+[infraestrutura      ]    364 palavras (  1.6%) :: TEMÁTICA 3.3 - INFRAESTRUTURA URBANA
+[infraestrutura      ]    285 palavras (  1.2%) :: TEMÁTICA 3.4 – SANEAMENTO
+[infraestrutura      ]    934 palavras (  4.0%) :: TEMÁTICA 3.5 - LOGÍSTICA E TRANSPORTES
+[infraestrutura      ]    352 palavras (  1.5%) :: TEMÁTICA 3.6 - ENERGIA E GÁS
+[infraestrutura      ]    152 palavras (  0.7%) :: TEMÁTICA 3.7 - CONECTIVIDADE E TELECOMUNICAÇÕES
+[outros              ]    462 palavras (  2.0%) :: PILAR 4
+[gestao_publica      ]    831 palavras (  3.6%) :: TEMÁTICA 4.1 – MODERNIZAÇÃO DA GESTÃO PÚBLICA
+[gestao_publica      ]    512 palavras (  2.2%) :: TEMÁTICA 4.2 – TRANSPARÊNCIA E INTEGRIDADE
+[outros              ]    645 palavras (  2.8%) :: PILAR 5
+[seguranca           ]    676 palavras (  2.9%) :: TEMÁTICA 5.1 - SEGURANÇA PÚBLICA E COMBATE AO CRIME ORGANIZADO
+[seguranca           ]    504 palavras (  2.2%) :: TEMÁTICA 5.2 - COMBATE À CORRUPÇÃO
+[seguranca           ]    319 palavras (  1.4%) :: TEMÁTICA 5.3 - INTELIGÊNCIA, TECNOLOGIA E PREVENÇÃO
+[seguranca           ]    359 palavras (  1.6%) :: TEMÁTICA 5.4 - SISTEMA PRISIONAL E REINTEGRAÇÃO SOCIAL
+[seguranca           ]    198 palavras (  0.9%) :: TEMÁTICA 5.5 - DEFESA CIVIL E PROTEÇÃO DA VIDA
+[seguranca           ]    270 palavras (  1.2%) :: TEMÁTICA 5.6 - JUSTIÇA E CIDADANIA
+[outros              ]    424 palavras (  1.8%) :: O Paraná construído por todos nós

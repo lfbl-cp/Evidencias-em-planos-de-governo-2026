@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Índice de Base Empírica e densidade de jargão — governos estaduais do Norte 2026</title>
+<style>
+  .viz-root {
+    color-scheme: light;
+    --surface-1: #fcfcfb;
+    --surface-2: #f3f2ee;
+    --text-primary: #0b0b0b;
+    --text-secondary: #52514e;
+    --text-muted: #86847c;
+    --border: #e4e2da;
+    --gridline: #eceae2;
+    --series-1: #2a78d6;
+    --series-2: #eb6834;
+    --series-3: #1baf7a;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:where(:not([data-theme="light"])) .viz-root {
+      color-scheme: dark;
+      --surface-1: #1a1a19;
+      --surface-2: #232320;
+      --text-primary: #ffffff;
+      --text-secondary: #c3c2b7;
+      --text-muted: #8b897f;
+      --border: #33322d;
+      --gridline: #2a2a26;
+      --series-1: #3987e5;
+      --series-2: #d95926;
+      --series-3: #199e70;
+    }
+  }
+  :root[data-theme="dark"] .viz-root {
+    color-scheme: dark;
+    --surface-1: #1a1a19;
+    --surface-2: #232320;
+    --text-primary: #ffffff;
+    --text-secondary: #c3c2b7;
+    --text-muted: #8b897f;
+    --border: #33322d;
+    --gridline: #2a2a26;
+    --series-1: #3987e5;
+    --series-2: #d95926;
+    --series-3: #199e70;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background: var(--surface-1); color: var(--text-primary); }
+  .wrap { max-width: 1040px; margin: 0 auto; padding: 28px 24px 48px; }
+  h1 { font-size: 19px; margin: 0 0 6px; }
+  p.intro { font-size: 13px; color: var(--text-secondary); margin: 0 0 28px; line-height: 1.5; }
+  h2 { font-size: 16px; margin: 0 0 6px; }
+  h3 { font-size: 14px; margin: 30px 0 10px; }
+  p.sub { font-size: 13px; color: var(--text-secondary); margin: 0 0 18px; line-height: 1.5; }
+  section.block { margin-bottom: 48px; padding-bottom: 8px; border-bottom: 1px solid var(--border); }
+  section.block:last-of-type { border-bottom: none; }
+  .legend { display: flex; gap: 18px; margin-bottom: 12px; font-size: 12.5px; color: var(--text-secondary); flex-wrap: wrap; }
+  .legend .item { display: flex; align-items: center; gap: 6px; }
+  .legend .dot { width: 10px; height: 10px; border-radius: 2px; display: inline-block; }
+  .chart-card { background: var(--surface-2); border: 1px solid var(--border); border-radius: 12px; padding: 16px 18px; overflow-x: auto; }
+  .row-label { font-size: 11.5px; fill: var(--text-secondary); }
+  .row-party { font-size: 10px; fill: var(--text-muted); }
+  .val-label { font-size: 11.5px; fill: var(--text-primary); font-variant-numeric: tabular-nums; }
+  .axis-label { font-size: 11px; fill: var(--text-muted); }
+  .gridline { stroke: var(--gridline); stroke-width: 1; }
+  .axis-line { stroke: var(--border); stroke-width: 1; }
+  .bar-row rect { transition: opacity .1s ease; }
+  .bar-row:hover rect { opacity: 0.75; }
+  .tooltip { position: fixed; pointer-events: none; background: var(--text-primary); color: var(--surface-1); font-size: 12px; padding: 6px 9px; border-radius: 6px; max-width: 300px; line-height: 1.4; opacity: 0; transition: opacity .1s ease; z-index: 10; }
+  .tooltip.show { opacity: 1; }
+  .foot { font-size: 11.5px; color: var(--text-muted); margin-top: 14px; line-height: 1.5; }
+  table.stats { width: 100%; border-collapse: collapse; font-size: 12.5px; background: var(--surface-2); border: 1px solid var(--border); border-radius: 12px; overflow: hidden; margin-top: 4px; }
+  table.stats th, table.stats td { text-align: left; padding: 9px 12px; border-bottom: 1px solid var(--border); }
+  table.stats th { color: var(--text-muted); font-weight: 600; font-size: 11px; text-transform: uppercase; letter-spacing: .03em; }
+  table.stats td.num, table.stats th.num { text-align: right; font-variant-numeric: tabular-nums; }
+  table.stats tr:last-child td { border-bottom: none; }
+  table.stats tr.total td { font-weight: 600; border-top: 2px solid var(--border); }
+</style>
+</head>
+<body class="viz-root">
+<div class="wrap">
+  <h1>Governos estaduais do Norte 2026 — planos de governo em números</h1>
+  <p class="intro">12 planos de governo analisados em 6 estados (AC, AM, AP, PA, RO, TO — Roraima ficou de fora desta rodada por ter eleição suplementar, calendário diferente; será tratado à parte na análise nacional). Metodologia idêntica à usada nos 9 estados do Nordeste. Amostra pequena por estado (2 candidatos cada) — leia as estatísticas por categoria com cautela, especialmente onde n=1.</p>
+
+  <div class="legend">
+    <span class="item"><span class="dot" style="background:var(--series-1)"></span>Desafiante</span>
+    <span class="item"><span class="dot" style="background:var(--series-2)"></span>Incumbente (pleno)</span>
+    <span class="item"><span class="dot" style="background:var(--series-3)"></span>Continuidade / sucessão</span>
+  </div>
+
+  <section class="block">
+    <h2>Índice de Base Empírica por candidato</h2>
+    <p class="sub">Proporção de trechos com diagnóstico/efeito mensurável/evidência externa sobre o total de trechos com base empírica + retórica de gestão pública sem evidência.</p>
+    <div class="chart-card">
+      <svg viewBox="0 0 920 506" width="100%" role="img" aria-label="Índice de Base Empírica por candidato, com partido, Norte 2026">
+  <line x1="300.0" y1="36" x2="300.0" y2="472" class="gridline"/><text x="300.0" y="490" text-anchor="middle" class="axis-label">0,0%</text><line x1="440.0" y1="36" x2="440.0" y2="472" class="gridline"/><text x="440.0" y="490" text-anchor="middle" class="axis-label">5,0%</text><line x1="580.0" y1="36" x2="580.0" y2="472" class="gridline"/><text x="580.0" y="490" text-anchor="middle" class="axis-label">10,0%</text><line x1="720.0" y1="36" x2="720.0" y2="472" class="gridline"/><text x="720.0" y="490" text-anchor="middle" class="axis-label">15,0%</text><line x1="860.0" y1="36" x2="860.0" y2="472" class="gridline"/><text x="860.0" y="490" text-anchor="middle" class="axis-label">20,0%</text>
+  <line x1="300" y1="36" x2="300" y2="472" class="axis-line"/>
+  
+    <g class="bar-row" data-tip="Omar Aziz (AM) — PSD — desafiante — 23.8% — 432.989 palavras">
+      <text x="288" y="58.0" text-anchor="end" class="row-label">Omar Aziz (AM)</text>
+      <text x="288" y="70.0" text-anchor="end" class="row-party">PSD</text>
+      <rect x="300" y="46" width="666.4" height="22" rx="4" fill="var(--series-1)"/>
+      <text x="974.4" y="61.0" class="val-label">23,8%</text>
+    </g>
+    <g class="bar-row" data-tip="Marcos Rogério (RO) — PL — desafiante — 10.1% — 42.769 palavras">
+      <text x="288" y="88.0" text-anchor="end" class="row-label">Marcos Rogério (RO)</text>
+      <text x="288" y="100.0" text-anchor="end" class="row-party">PL</text>
+      <rect x="300" y="76" width="282.8" height="22" rx="4" fill="var(--series-1)"/>
+      <text x="590.8" y="91.0" class="val-label">10,1%</text>
+    </g>
+    <g class="bar-row" data-tip="David Almeida (AM) — Avante — desafiante — 5.1% — 18.830 palavras">
+      <text x="288" y="118.0" text-anchor="end" class="row-label">David Almeida (AM)</text>
+      <text x="288" y="130.0" text-anchor="end" class="row-party">Avante</text>
+      <rect x="300" y="106" width="142.8" height="22" rx="4" fill="var(--series-1)"/>
+      <text x="450.8" y="121.0" class="val-label">5,1%</text>
+    </g>
+    <g class="bar-row" data-tip="Vicentinho Júnior (TO) — PSDB — desafiante — 3.3% — 10.180 palavras">
+      <text x="288" y="148.0" text-anchor="end" class="row-label">Vicentinho Júnior (TO)</text>
+      <text x="288" y="160.0" text-anchor="end" class="row-party">PSDB</text>
+      <rect x="300" y="136" width="92.4" height="22" rx="4" fill="var(--series-1)"/>
+      <text x="400.4" y="151.0" class="val-label">3,3%</text>
+    </g>
+    <g class="bar-row" data-tip="Adailton Fúria (RO) — PSD — candidato de continuidade — 2.8% — 31.423 palavras">
+      <text x="288" y="178.0" text-anchor="end" class="row-label">Adailton Fúria (RO)</text>
+      <text x="288" y="190.0" text-anchor="end" class="row-party">PSD</text>
+      <rect x="300" y="166" width="78.4" height="22" rx="4" fill="var(--series-3)"/>
+      <text x="386.4" y="181.0" class="val-label">2,8%</text>
+    </g>
+    <g class="bar-row" data-tip="Professora Dorinha (TO) — União — candidato de continuidade — 2.3% — 17.635 palavras">
+      <text x="288" y="208.0" text-anchor="end" class="row-label">Professora Dorinha (TO)</text>
+      <text x="288" y="220.0" text-anchor="end" class="row-party">União</text>
+      <rect x="300" y="196" width="64.4" height="22" rx="4" fill="var(--series-3)"/>
+      <text x="372.4" y="211.0" class="val-label">2,3%</text>
+    </g>
+    <g class="bar-row" data-tip="Dr. Furlan (AP) — PSD — desafiante — 2.2% — 20.264 palavras">
+      <text x="288" y="238.0" text-anchor="end" class="row-label">Dr. Furlan (AP)</text>
+      <text x="288" y="250.0" text-anchor="end" class="row-party">PSD</text>
+      <rect x="300" y="226" width="61.6" height="22" rx="4" fill="var(--series-1)"/>
+      <text x="369.6" y="241.0" class="val-label">2,2%</text>
+    </g>
+    <g class="bar-row" data-tip="Alan Rick (AC) — Republicanos — desafiante — 2.1% — 12.497 palavras">
+      <text x="288" y="268.0" text-anchor="end" class="row-label">Alan Rick (AC)</text>
+      <text x="288" y="280.0" text-anchor="end" class="row-party">Republicanos</text>
+      <rect x="300" y="256" width="58.8" height="22" rx="4" fill="var(--series-1)"/>
+      <text x="366.8" y="271.0" class="val-label">2,1%</text>
+    </g>
+    <g class="bar-row" data-tip="Hana Ghassan (PA) — MDB — incumbente por sucessão — 2.1% — 16.781 palavras">
+      <text x="288" y="298.0" text-anchor="end" class="row-label">Hana Ghassan (PA)</text>
+      <text x="288" y="310.0" text-anchor="end" class="row-party">MDB</text>
+      <rect x="300" y="286" width="58.8" height="22" rx="4" fill="var(--series-3)"/>
+      <text x="366.8" y="301.0" class="val-label">2,1%</text>
+    </g>
+    <g class="bar-row" data-tip="Roberto Cidade (AM) — União — candidato de continuidade — 1.2% — 7.119 palavras">
+      <text x="288" y="328.0" text-anchor="end" class="row-label">Roberto Cidade (AM)</text>
+      <text x="288" y="340.0" text-anchor="end" class="row-party">União</text>
+      <rect x="300" y="316" width="33.6" height="22" rx="4" fill="var(--series-3)"/>
+      <text x="341.6" y="331.0" class="val-label">1,2%</text>
+    </g>
+    <g class="bar-row" data-tip="Mailza Assis (AC) — PP — incumbente por sucessão — 0.6% — 26.480 palavras">
+      <text x="288" y="358.0" text-anchor="end" class="row-label">Mailza Assis (AC)</text>
+      <text x="288" y="370.0" text-anchor="end" class="row-party">PP</text>
+      <rect x="300" y="346" width="16.8" height="22" rx="4" fill="var(--series-3)"/>
+      <text x="324.8" y="361.0" class="val-label">0,6%</text>
+    </g>
+    <g class="bar-row" data-tip="Clécio Luís (AP) — União — incumbente pleno — 0.6% — 9.876 palavras">
+      <text x="288" y="388.0" text-anchor="end" class="row-label">Clécio Luís (AP)</text>
+      <text x="288" y="400.0" text-anchor="end" class="row-party">União</text>
+      <rect x="300" y="376" width="16.8" height="22" rx="4" fill="var(--series-2)"/>
+      <text x="324.8" y="391.0" class="val-label">0,6%</text>
+    </g>
+    <g class="bar-row" data-tip="Dr. Daniel Santos (PA) — Podemos — desafiante — 0.6% — 19.373 palavras">
+      <text x="288" y="418.0" text-anchor="end" class="row-label">Dr. Daniel Santos (PA)</text>
+      <text x="288" y="430.0" text-anchor="end" class="row-party">Podemos</text>
+      <rect x="300" y="406" width="16.8" height="22" rx="4" fill="var(--series-1)"/>
+      <text x="324.8" y="421.0" class="val-label">0,6%</text>
+    </g>
+    <g class="bar-row" data-tip="Hildon Chaves (RO) — Federação União Progressista e Republicanos — desafiante — 0.5% — 33.296 palavras">
+      <text x="288" y="448.0" text-anchor="end" class="row-label">Hildon Chaves (RO)</text>
+      <text x="288" y="460.0" text-anchor="end" class="row-party">Federação União Progressista e Republicanos</text>
+      <rect x="300" y="436" width="14.0" height="22" rx="4" fill="var(--series-1)"/>
+      <text x="322.0" y="451.0" class="val-label">0,5%</text>
+    </g>
+</svg>
+    </div>
+    <p class="foot">Fonte: análise dos PDFs oficiais de campanha (proposta de governo registrada no TSE) de cada candidato.</p>
+
+    <h3>Estatísticas descritivas por categoria</h3>
+    <table class="stats">
+    <thead>
+      <tr>
+        <th>Categoria</th>
+        <th class="num">n</th>
+        <th class="num">Média</th>
+        <th class="num">Desvio padrão</th>
+        <th class="num">Mediana</th>
+        <th class="num">Mín.</th>
+        <th class="num">Máx.</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+      <td>desafiante</td>
+      <td class="num">8</td>
+      <td class="num">6,0%</td>
+      <td class="num">7.34</td>
+      <td class="num">2,8%</td>
+      <td class="num">0,5%</td>
+      <td class="num">23,8%</td>
+    </tr><tr>
+      <td>candidato de continuidade</td>
+      <td class="num">3</td>
+      <td class="num">2,1%</td>
+      <td class="num">0.67</td>
+      <td class="num">2,3%</td>
+      <td class="num">1,2%</td>
+      <td class="num">2,8%</td>
+    </tr><tr>
+      <td>incumbente por sucessão</td>
+      <td class="num">2</td>
+      <td class="num">1,4%</td>
+      <td class="num">0.75</td>
+      <td class="num">1,4%</td>
+      <td class="num">0,6%</td>
+      <td class="num">2,1%</td>
+    </tr><tr>
+      <td>incumbente pleno</td>
+      <td class="num">1</td>
+      <td class="num">0,6%</td>
+      <td class="num">—</td>
+      <td class="num">0,6%</td>
+      <td class="num">0,6%</td>
+      <td class="num">0,6%</td>
+    </tr>
+      <tr class="total">
+      <td>Total (12 candidatos)</td>
+      <td class="num">14</td>
+      <td class="num">4,1%</td>
+      <td class="num">5.98</td>
+      <td class="num">2,2%</td>
+      <td class="num">0,5%</td>
+      <td class="num">23,8%</td>
+    </tr>
+    </tbody>
+  </table>
+    <p class="foot">Desvio padrão populacional (n no denominador). Amostra do Norte é pequena (2 candidatos por estado): "incumbente pleno" tem n=1 (Clécio Luís/AP) e "incumbente por sucessão" tem n=2 — desvio padrão não é informativo ou é trivial nesses grupos. Trate estes números como descritivos desta amostra específica, não como estimativas robustas de um padrão nacional.</p>
+  </section>
+
+  <section class="block">
+    <h2>Densidade de jargão ("fortalec*" + "ampli*") por candidato</h2>
+    <p class="sub">Ocorrências das famílias de palavras "fortalec-" (fortalecer, fortalecimento...) e "ampli-" (ampliar, ampliação, amplo...) por mil palavras do corpo do plano. Essas duas famílias fazem parte da lista de termos de retórica de gestão pública genérica usada no cálculo do Índice de Base Empírica.</p>
+    <div class="chart-card">
+      <svg viewBox="0 0 920 506" width="100%" role="img" aria-label="Densidade de jargão fortalecer/ampliar por candidato, Norte 2026">
+  <line x1="300.0" y1="36" x2="300.0" y2="472" class="gridline"/><text x="300.0" y="490" text-anchor="middle" class="axis-label">0,0</text><line x1="440.0" y1="36" x2="440.0" y2="472" class="gridline"/><text x="440.0" y="490" text-anchor="middle" class="axis-label">5,0</text><line x1="580.0" y1="36" x2="580.0" y2="472" class="gridline"/><text x="580.0" y="490" text-anchor="middle" class="axis-label">10,0</text><line x1="720.0" y1="36" x2="720.0" y2="472" class="gridline"/><text x="720.0" y="490" text-anchor="middle" class="axis-label">15,0</text><line x1="860.0" y1="36" x2="860.0" y2="472" class="gridline"/><text x="860.0" y="490" text-anchor="middle" class="axis-label">20,0</text>
+  <line x1="300" y1="36" x2="300" y2="472" class="axis-line"/>
+  
+    <g class="bar-row" data-tip="Clécio Luís (AP) — União — incumbente pleno — 19,3 ocorrências/mil palavras ('fortalec*': 97, 'ampli*': 94) — Índice de Base Empírica: 0.6%">
+      <text x="288" y="58.0" text-anchor="end" class="row-label">Clécio Luís (AP)</text>
+      <text x="288" y="70.0" text-anchor="end" class="row-party">União</text>
+      <rect x="300" y="46" width="541.5" height="22" rx="4" fill="var(--series-2)"/>
+      <text x="849.5" y="61.0" class="val-label">19,3</text>
+    </g>
+    <g class="bar-row" data-tip="Mailza Assis (AC) — PP — incumbente por sucessão — 18,8 ocorrências/mil palavras ('fortalec*': 272, 'ampli*': 226) — Índice de Base Empírica: 0.6%">
+      <text x="288" y="88.0" text-anchor="end" class="row-label">Mailza Assis (AC)</text>
+      <text x="288" y="100.0" text-anchor="end" class="row-party">PP</text>
+      <rect x="300" y="76" width="526.7" height="22" rx="4" fill="var(--series-3)"/>
+      <text x="834.7" y="91.0" class="val-label">18,8</text>
+    </g>
+    <g class="bar-row" data-tip="Hana Ghassan (PA) — MDB — incumbente por sucessão — 18,4 ocorrências/mil palavras ('fortalec*': 136, 'ampli*': 173) — Índice de Base Empírica: 2.1%">
+      <text x="288" y="118.0" text-anchor="end" class="row-label">Hana Ghassan (PA)</text>
+      <text x="288" y="130.0" text-anchor="end" class="row-party">MDB</text>
+      <rect x="300" y="106" width="515.5" height="22" rx="4" fill="var(--series-3)"/>
+      <text x="823.5" y="121.0" class="val-label">18,4</text>
+    </g>
+    <g class="bar-row" data-tip="Dr. Furlan (AP) — PSD — desafiante — 15,4 ocorrências/mil palavras ('fortalec*': 178, 'ampli*': 135) — Índice de Base Empírica: 2.2%">
+      <text x="288" y="148.0" text-anchor="end" class="row-label">Dr. Furlan (AP)</text>
+      <text x="288" y="160.0" text-anchor="end" class="row-party">PSD</text>
+      <rect x="300" y="136" width="432.6" height="22" rx="4" fill="var(--series-1)"/>
+      <text x="740.6" y="151.0" class="val-label">15,4</text>
+    </g>
+    <g class="bar-row" data-tip="Alan Rick (AC) — Republicanos — desafiante — 15,1 ocorrências/mil palavras ('fortalec*': 84, 'ampli*': 105) — Índice de Base Empírica: 2.1%">
+      <text x="288" y="178.0" text-anchor="end" class="row-label">Alan Rick (AC)</text>
+      <text x="288" y="190.0" text-anchor="end" class="row-party">Republicanos</text>
+      <rect x="300" y="166" width="423.4" height="22" rx="4" fill="var(--series-1)"/>
+      <text x="731.4" y="181.0" class="val-label">15,1</text>
+    </g>
+    <g class="bar-row" data-tip="Professora Dorinha (TO) — União — candidato de continuidade — 12,0 ocorrências/mil palavras ('fortalec*': 96, 'ampli*': 115) — Índice de Base Empírica: 2.3%">
+      <text x="288" y="208.0" text-anchor="end" class="row-label">Professora Dorinha (TO)</text>
+      <text x="288" y="220.0" text-anchor="end" class="row-party">União</text>
+      <rect x="300" y="196" width="334.9" height="22" rx="4" fill="var(--series-3)"/>
+      <text x="642.9" y="211.0" class="val-label">12,0</text>
+    </g>
+    <g class="bar-row" data-tip="Hildon Chaves (RO) — Federação União Progressista e Republicanos — desafiante — 11,1 ocorrências/mil palavras ('fortalec*': 210, 'ampli*': 160) — Índice de Base Empírica: 0.5%">
+      <text x="288" y="238.0" text-anchor="end" class="row-label">Hildon Chaves (RO)</text>
+      <text x="288" y="250.0" text-anchor="end" class="row-party">Federação União Progressista e Republicanos</text>
+      <rect x="300" y="226" width="311.1" height="22" rx="4" fill="var(--series-1)"/>
+      <text x="619.1" y="241.0" class="val-label">11,1</text>
+    </g>
+    <g class="bar-row" data-tip="Dr. Daniel Santos (PA) — Podemos — desafiante — 10,6 ocorrências/mil palavras ('fortalec*': 116, 'ampli*': 89) — Índice de Base Empírica: 0.6%">
+      <text x="288" y="268.0" text-anchor="end" class="row-label">Dr. Daniel Santos (PA)</text>
+      <text x="288" y="280.0" text-anchor="end" class="row-party">Podemos</text>
+      <rect x="300" y="256" width="296.2" height="22" rx="4" fill="var(--series-1)"/>
+      <text x="604.2" y="271.0" class="val-label">10,6</text>
+    </g>
+    <g class="bar-row" data-tip="Roberto Cidade (AM) — União — candidato de continuidade — 9,0 ocorrências/mil palavras ('fortalec*': 30, 'ampli*': 34) — Índice de Base Empírica: 1.2%">
+      <text x="288" y="298.0" text-anchor="end" class="row-label">Roberto Cidade (AM)</text>
+      <text x="288" y="310.0" text-anchor="end" class="row-party">União</text>
+      <rect x="300" y="286" width="251.7" height="22" rx="4" fill="var(--series-3)"/>
+      <text x="559.7" y="301.0" class="val-label">9,0</text>
+    </g>
+    <g class="bar-row" data-tip="David Almeida (AM) — Avante — desafiante — 8,4 ocorrências/mil palavras ('fortalec*': 86, 'ampli*': 73) — Índice de Base Empírica: 5.1%">
+      <text x="288" y="328.0" text-anchor="end" class="row-label">David Almeida (AM)</text>
+      <text x="288" y="340.0" text-anchor="end" class="row-party">Avante</text>
+      <rect x="300" y="316" width="236.3" height="22" rx="4" fill="var(--series-1)"/>
+      <text x="544.3" y="331.0" class="val-label">8,4</text>
+    </g>
+    <g class="bar-row" data-tip="Adailton Fúria (RO) — PSD — candidato de continuidade — 6,1 ocorrências/mil palavras ('fortalec*': 91, 'ampli*': 100) — Índice de Base Empírica: 2.8%">
+      <text x="288" y="358.0" text-anchor="end" class="row-label">Adailton Fúria (RO)</text>
+      <text x="288" y="370.0" text-anchor="end" class="row-party">PSD</text>
+      <rect x="300" y="346" width="170.2" height="22" rx="4" fill="var(--series-3)"/>
+      <text x="478.2" y="361.0" class="val-label">6,1</text>
+    </g>
+    <g class="bar-row" data-tip="Marcos Rogério (RO) — PL — desafiante — 5,2 ocorrências/mil palavras ('fortalec*': 133, 'ampli*': 89) — Índice de Base Empírica: 10.1%">
+      <text x="288" y="388.0" text-anchor="end" class="row-label">Marcos Rogério (RO)</text>
+      <text x="288" y="400.0" text-anchor="end" class="row-party">PL</text>
+      <rect x="300" y="376" width="145.3" height="22" rx="4" fill="var(--series-1)"/>
+      <text x="453.3" y="391.0" class="val-label">5,2</text>
+    </g>
+    <g class="bar-row" data-tip="Vicentinho Júnior (TO) — PSDB — desafiante — 5,0 ocorrências/mil palavras ('fortalec*': 34, 'ampli*': 17) — Índice de Base Empírica: 3.3%">
+      <text x="288" y="418.0" text-anchor="end" class="row-label">Vicentinho Júnior (TO)</text>
+      <text x="288" y="430.0" text-anchor="end" class="row-party">PSDB</text>
+      <rect x="300" y="406" width="140.3" height="22" rx="4" fill="var(--series-1)"/>
+      <text x="448.3" y="421.0" class="val-label">5,0</text>
+    </g>
+    <g class="bar-row" data-tip="Omar Aziz (AM) — PSD — desafiante — 3,6 ocorrências/mil palavras ('fortalec*': 758, 'ampli*': 786) — Índice de Base Empírica: 23.8%">
+      <text x="288" y="448.0" text-anchor="end" class="row-label">Omar Aziz (AM)</text>
+      <text x="288" y="460.0" text-anchor="end" class="row-party">PSD</text>
+      <rect x="300" y="436" width="100.0" height="22" rx="4" fill="var(--series-1)"/>
+      <text x="408.0" y="451.0" class="val-label">3,6</text>
+    </g>
+</svg>
+    </div>
+    <p class="foot">Eixo: ocorrências por 1.000 palavras do corpo do plano (após o cabeçalho padronizado). Fonte: contagem direta nos textos extraídos dos PDFs oficiais.</p>
+
+    <h3>Estatísticas descritivas por categoria</h3>
+    <table class="stats">
+    <thead>
+      <tr>
+        <th>Categoria</th>
+        <th class="num">n</th>
+        <th class="num">Média</th>
+        <th class="num">Desvio padrão</th>
+        <th class="num">Mediana</th>
+        <th class="num">Mín.</th>
+        <th class="num">Máx.</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+      <td>desafiante</td>
+      <td class="num">8</td>
+      <td class="num">9,3</td>
+      <td class="num">4.26</td>
+      <td class="num">9,5</td>
+      <td class="num">3,6</td>
+      <td class="num">15,4</td>
+    </tr><tr>
+      <td>candidato de continuidade</td>
+      <td class="num">3</td>
+      <td class="num">9,0</td>
+      <td class="num">2.40</td>
+      <td class="num">9,0</td>
+      <td class="num">6,1</td>
+      <td class="num">12,0</td>
+    </tr><tr>
+      <td>incumbente por sucessão</td>
+      <td class="num">2</td>
+      <td class="num">18,6</td>
+      <td class="num">0.20</td>
+      <td class="num">18,6</td>
+      <td class="num">18,4</td>
+      <td class="num">18,8</td>
+    </tr><tr>
+      <td>incumbente pleno</td>
+      <td class="num">1</td>
+      <td class="num">19,3</td>
+      <td class="num">—</td>
+      <td class="num">19,3</td>
+      <td class="num">19,3</td>
+      <td class="num">19,3</td>
+    </tr>
+      <tr class="total">
+      <td>Total (12 candidatos)</td>
+      <td class="num">14</td>
+      <td class="num">11,3</td>
+      <td class="num">5.22</td>
+      <td class="num">10,8</td>
+      <td class="num">3,6</td>
+      <td class="num">19,3</td>
+    </tr>
+    </tbody>
+  </table>
+    <p class="foot">Valores em ocorrências por 1.000 palavras. Desvio padrão populacional.</p>
+  </section>
+</div>
+<div class="tooltip" id="tooltip"></div>
+<script>
+  var tooltip = document.getElementById('tooltip');
+  document.querySelectorAll('.bar-row').forEach(function (el) {
+    el.addEventListener('mousemove', function (e) {
+      tooltip.textContent = el.getAttribute('data-tip');
+      tooltip.style.left = (e.clientX + 14) + 'px';
+      tooltip.style.top = (e.clientY + 14) + 'px';
+      tooltip.classList.add('show');
+    });
+    el.addEventListener('mouseleave', function () {
+      tooltip.classList.remove('show');
+    });
+  });
+</script>
+</body>
+</html>

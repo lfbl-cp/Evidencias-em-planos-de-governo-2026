@@ -1,0 +1,11 @@
+[outros              ]     24 palavras :: [FRONT MATTER: carta de abertura/sumário/intro]
+[assistencia_social  ]    128 palavras :: COMBATE À POBREZA, DESENVOLVIMENTO SOCIAL E REDUÇÃO DAS DESIGUALDADES
+[saude               ]    129 palavras :: SAÚDE
+[educacao            ]    262 palavras :: EDUCAÇÃO
+[economia            ]    149 palavras :: DESENVOLVIMENTO ECONÔMICO, EMPREGO E RENDA
+[infraestrutura      ]    199 palavras :: INFRAESTRUTURA, SANEAMENTO E SUSTENTABILIDADE
+[seguranca           ]    126 palavras :: SEGURANÇA E PROTEÇÃO
+[gestao_publica      ]     76 palavras :: GESTAO EFICIENTE E COMBATE À CORRUPÇÃO
+[economia            ]     84 palavras :: TURISMO, CULTURA E PATRIMÔNIO
+[meio_ambiente       ]     98 palavras :: MEIO AMBIENTE E MUDANÇAS CLIMÁTICAS
+[infraestrutura      ]     66 palavras :: REGULARIZAÇÃO FUNDIÁRIA E HABITAÇÃO

@@ -1,0 +1,20 @@
+[outros              ]   1669 palavras (  3.2%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[outros              ]   1064 palavras (  2.0%) :: 1.1. Um novo ciclo de desenvolvimento para Minas Gerais
+[gestao_publica      ]   2637 palavras (  5.0%) :: 2. FINANÇAS E CAPACIDADE DE INVESTIMENTO
+[saude               ]   4571 palavras (  8.7%) :: 3. SAÚDE
+[educacao            ]   3513 palavras (  6.7%) :: 4. EDUCAÇÃO
+[seguranca           ]   3240 palavras (  6.2%) :: 5. SEGURANÇA PÚBLICA
+[assistencia_social  ]   4670 palavras (  8.9%) :: 6. DESENVOLVIMENTO SOCIAL, TRABALHO E INCLUSÃO
+[economia            ]  10574 palavras ( 20.1%) :: 7. DESENVOLVIMENTO ECONÔMICO
+[gestao_publica      ]   2456 palavras (  4.7%) :: 8. DESENVOLVIMENTO REGIONAL
+[infraestrutura      ]    337 palavras (  0.6%) :: Desenvolvimento Urbano
+[gestao_publica      ]    590 palavras (  1.1%) :: Inteligência Territorial
+[gestao_publica      ]   2120 palavras (  4.0%) :: 9. ESTADO PARCEIRO DOS MUNICÍPIOS
+[infraestrutura      ]   2890 palavras (  5.5%) :: 10. INFRAESTRUTURA PARA O DESENVOLVIMENTO
+[meio_ambiente       ]    659 palavras (  1.3%) :: 11. MEIO AMBIENTE E DESENVOLVIMENTO SUSTENTÁVEL
+[assistencia_social  ]    109 palavras (  0.2%) :: Bem-estar e proteção animal
+[meio_ambiente       ]   1583 palavras (  3.0%) :: Produzir conservando
+[assistencia_social  ]   2226 palavras (  4.2%) :: 12. CULTURA, PATRIMÔNIO E IDENTIDADE MINEIRA
+[gestao_publica      ]   3656 palavras (  6.9%) :: 13. GESTÃO PÚBLICA MODERNA
+[outros              ]   3255 palavras (  6.2%) :: 14. MINAS 2040
+[outros              ]    793 palavras (  1.5%) :: 15. CONCLUSÃO

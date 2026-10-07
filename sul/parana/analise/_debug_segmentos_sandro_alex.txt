@@ -1,0 +1,27 @@
+[outros              ]  11657 palavras ( 19.7%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[educacao            ]   2083 palavras (  3.5%) :: EDUCAÇÃO BÁSICA, DESENVOLVIMENTO HUMANO E TRAJETÓRIA
+[saude               ]   3114 palavras (  5.3%) :: SAÚDE, BEM-ESTAR E LONGEVIDADE
+[seguranca           ]   1940 palavras (  3.3%) :: SEGURANÇA PÚBLICA, ACESSO À JUSTIÇA E DEFESA CIVIL
+[assistencia_social  ]   2552 palavras (  4.3%) :: MULHERES, FAMÍLIAS, PROTEÇÃO SOCIAL E CIDADANIA
+[assistencia_social  ]   1774 palavras (  3.0%) :: CULTURA, ESPORTE E LAZER
+[economia            ]   1965 palavras (  3.3%) :: INDÚSTRIA, COMÉRCIO, SERVIÇOS E AMBIENTE DE NEGÓCIOS
+[economia            ]   1560 palavras (  2.6%) :: TRABALHO, EMPREENDEDORISMO E ECONOMIA DO FUTURO
+[economia            ]   2457 palavras (  4.1%) :: AGROPECUÁRIA,     COOPERATIVISMO,                                        BIOECON
+[economia            ]    803 palavras (  1.4%) :: DESENVOLVIMENTO REGIONAL E POTENCIALIDADES PRODUTIVAS
+[economia            ]   1481 palavras (  2.5%) :: TURISMO, ECONOMIA CRIATIVA E INTERNACIONALIZAÇÃO
+[infraestrutura      ]   3641 palavras (  6.1%) :: INFRAESTRUTURA, ENERGIA E LOGÍSTICA
+[infraestrutura      ]   2743 palavras (  4.6%) :: HABITAÇÃO,   MOBILIDADE,                                  CIDADES            E  
+[meio_ambiente       ]   2696 palavras (  4.5%) :: MEIO AMBIENTE, RECURSOS HÍDRICOS, SANEAMENTO E CLIMA
+[educacao            ]   1329 palavras (  2.2%) :: ENSINO SUPERIOR, CIÊNCIA, TECNOLOGIA E INOVAÇÃO
+[economia            ]   1207 palavras (  2.0%) :: ECONOMIA DIGITAL, CONECTIVIDADE E INTELIGÊNCIA ARTIFICIAL
+[gestao_publica      ]   1172 palavras (  2.0%) :: MODERNIZAÇÃO ADMINISTRATIVA E EFICIÊNCIA
+[gestao_publica      ]   1112 palavras (  1.9%) :: PLANEJAMENTO ESTRATÉGICO E GESTÃO POR RESULTADOS
+[gestao_publica      ]    929 palavras (  1.6%) :: TRANSPARÊNCIA, INTEGRIDADE E CONTROLE SOCIAL
+[gestao_publica      ]    566 palavras (  1.0%) :: GOVERNO DIGITAL, SIMPLIFICAÇÃO E DESBUROCRATIZAÇÃO
+[gestao_publica      ]    974 palavras (  1.6%) :: COOPERAÇÃO FEDERATIVA E ATENDIMENTO AO CIDADÃO
+[gestao_publica      ]    975 palavras (  1.6%) :: INSTITUCIONALIZAÇÃO DE POLÍTICAS DE ESTADO
+[gestao_publica      ]   1278 palavras (  2.2%) :: VISÃO PARANÁ 2055 E PLANEJAMENTO DE LONGO PRAZO
+[gestao_publica      ]    851 palavras (  1.4%) :: DESENVOLVIMENTO INSTITUCIONAL, FORMAÇÃO DE LIDERANÇAS
+[outros              ]   1220 palavras (  2.1%) :: IDENTIDADE, INTEGRAÇÃO REGIONAL E ORGULHO DE SER
+[gestao_publica      ]    359 palavras (  0.6%) :: SUSTENTABILIDADE INTERGERACIONAL E PATRIMÔNIO PÚBLICO
+[outros              ]   6863 palavras ( 11.6%) :: PRA FRENTE SEMPRE, PARANÁ: A LIDERANÇA

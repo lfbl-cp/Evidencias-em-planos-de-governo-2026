@@ -1,0 +1,30 @@
+[outros              ]       2 palavras (  0.0%) :: [FRONT MATTER: capa/cabeçalho/intro]
+[outros              ]    1488 palavras (  0.3%) :: Parte 08. Plano Estratégico de Desenvolvimento
+[gestao_publica      ]     646 palavras (  0.1%) :: Parte 09. Plano Estratégico de Desenvolvimento
+[outros              ]   11532 palavras (  2.7%) :: Parte 05. Plano Estratégico de Desenvolvimento
+[saude               ]   15820 palavras (  3.7%) :: Parte 02. Plano estratégico de desenvolvimento
+[assistencia_social  ]   19081 palavras (  4.4%) :: Parte 03. Plano estratégico de desenvolvimento
+[outros              ]    6065 palavras (  1.4%) :: Parte 05. Plano estratégico de desenvolvimento
+[educacao            ]   40377 palavras (  9.3%) :: Parte 01. Plano Estratégico de Desenvolvimento
+[meio_ambiente       ]   37138 palavras (  8.6%) :: Parte 02. Plano Estratégico de Desenvolvimento
+[assistencia_social  ]   22780 palavras (  5.3%) :: Parte 03. Plano Estratégico de Desenvolvimento
+[educacao            ]    3834 palavras (  0.9%) :: Parte 04. Plano Estratégico de Desenvolvimento
+[seguranca           ]   65640 palavras ( 15.2%) :: Parte 01. Plano estratégico de desenvolvimento
+[saude               ]   24916 palavras (  5.8%) :: Parte 02. Plano estratégico de desenvolvimento
+[economia            ]   24979 palavras (  5.8%) :: Parte 03. Plano estratégico de desenvolvimento
+[economia            ]   42025 palavras (  9.7%) :: Parte 04. Plano estratégico de desenvolvimento
+[meio_ambiente       ]    6654 palavras (  1.5%) :: Parte 05. Plano estratégico de desenvolvimento
+[educacao            ]   14756 palavras (  3.4%) :: Ciência, tecnologia ⏎ e inovação para o ⏎ desenvolvimento
+[gestao_publica      ]    7880 palavras (  1.8%) :: Inteligência Artificial e ⏎  transformação digital
+[economia            ]    7755 palavras (  1.8%) :: Economia criativa e ⏎ empreendedorismo
+[economia            ]   13252 palavras (  3.1%) :: Atração de investimentos ⏎ e ambiente de negócios
+[seguranca           ]    9448 palavras (  2.2%) :: Parte 01. Plano estratégico de desenvolvimento
+[educacao            ]    3985 palavras (  0.9%) :: Parte 04. Plano Estratégico de Desenvolvimento
+[educacao            ]    3650 palavras (  0.8%) :: Parte 05. Plano Estratégico de Desenvolvimento
+[educacao            ]     529 palavras (  0.1%) :: Parte 04. Plano Estratégico de Desenvolvimento
+[educacao            ]    2181 palavras (  0.5%) :: Parte 05. Plano Estratégico de Desenvolvimento
+[infraestrutura      ]   19769 palavras (  4.6%) :: Parte 06. Plano Estratégico de Desenvolvimento
+[gestao_publica      ]   17249 palavras (  4.0%) :: Parte 07. Plano Estratégico de Desenvolvimento
+[assistencia_social  ]    1950 palavras (  0.5%) :: Parte 08. Plano Estratégico de Desenvolvimento
+[assistencia_social  ]     559 palavras (  0.1%) :: Parte 05. Plano Estratégico de Desenvolvimento
+[assistencia_social  ]    7049 palavras (  1.6%) :: Parte 08. Plano Estratégico de Desenvolvimento

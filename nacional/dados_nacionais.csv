@@ -1,0 +1,59 @@
+ranking_nacional,nome,partido,uf,estado,regiao,categoria,indice_base_empirica_pct,indice_base_empirica_legado_pct,total_palavras,n_com_base_empirica,n_retorica_sem_evidencia,n_compromisso_sem_base,slug
+1,ACM Neto,União Brasil,BA,Bahia,Nordeste,desafiante,29.0,25.6,75226,99,288,242,acm-neto
+2,Omar Aziz,PSD,AM,Amazonas,Norte,desafiante,23.8,18.4,432989,864,3832,2770,omar-aziz
+3,Felipe Camarão,PT,MA,Maranhão,Nordeste,desafiante,21.9,19.3,26704,42,176,150,felipe-camarao
+4,Marcos Rogério,PL,RO,Rondônia,Norte,desafiante,10.1,7.7,42769,35,422,313,marcos-rogerio
+5,Daniel Vilela,MDB,GO,Goiás,Centro-Oeste,incumbente por sucessão,8.4,5.4,18804,19,333,207,daniel_vilela
+6,João Henrique Caldas (JHC),PSDB,AL,Alagoas,Nordeste,desafiante,8.2,9.3,13814,11,107,123,jhc
+7,Cícero Lucena,MDB,PB,Paraíba,Nordeste,desafiante,7.5,15.1,17272,25,141,309,cicero-lucena
+8,Rafael Fonteles,PT,PI,Piauí,Nordeste,incumbente pleno,7.4,9.6,12083,21,197,262,rafael-fonteles
+9,Sandro Alex,PSD,PR,Paraná,Sul,desafiante,6.6,3.4,59301,32,901,451,sandro_alex
+10,Tarcísio de Freitas,Republicanos,SP,São Paulo,Sudeste,incumbente pleno,5.9,4.2,21046,12,273,190,tarcisio_de_freitas
+11,Juliana Brizola,PDT,RS,Rio Grande do Sul,Sul,desafiante,5.7,2.2,15780,4,182,66,juliana_brizola
+12,David Almeida,Avante,AM,Amazonas,Norte,desafiante,5.1,4.9,18830,15,291,282,david-almeida
+13,Otaviano Pivetta,Republicanos,MT,Mato Grosso,Centro-Oeste,incumbente por sucessão,5.0,3.2,19701,9,275,171,otaviano-pivetta
+14,João Rodrigues,PSD,SC,Santa Catarina,Sul,desafiante,4.5,3.5,6428,4,110,84,joao-rodrigues
+15,Fábio Trad,PT,MS,Mato Grosso do Sul,Centro-Oeste,desafiante,4.3,4.0,13286,9,217,202,fabio_trad
+16,Lorenzo Pazolini,Republicanos,ES,Espírito Santo,Sudeste,desafiante,4.3,4.3,11224,8,179,177,lorenzo_pazolini
+17,Eduardo Paes,PSD,RJ,Rio de Janeiro,Sudeste,desafiante,4.2,8.3,1952,1,11,23,eduardo_paes
+18,Fábio Mitidieri,PSD,SE,Sergipe,Nordeste,incumbente pleno,3.8,3.0,8045,5,163,128,fabio-mitidieri
+19,Raquel Lyra,PSD,PE,Pernambuco,Nordeste,incumbente pleno,3.5,4.0,27771,16,381,437,raquel-lyra
+20,Vicentinho Júnior,PSDB,TO,Tocantins,Norte,desafiante,3.3,3.6,10180,4,106,117,vicentinho-junior
+21,Eduardo Riedel,PP,MS,Mato Grosso do Sul,Centro-Oeste,incumbente pleno,3.2,2.5,14989,9,352,270,eduardo_riedel
+22,Luciano Zucco,PL,RS,Rio Grande do Sul,Sul,desafiante,3.1,3.2,28644,12,361,381,luciano_zucco
+23,Adailton Fúria,PSD,RO,Rondônia,Norte,candidato de continuidade,2.8,3.6,31423,12,322,413,adailton-furia
+24,Jerônimo Rodrigues,PT,BA,Bahia,Nordeste,incumbente pleno,2.6,2.8,15450,8,276,302,jeronimo-rodrigues
+25,Cleitinho Azevedo,Republicanos,MG,Minas Gerais,Sudeste,desafiante,2.6,1.8,3475,1,54,37,cleitinho_azevedo
+26,Ricardo Ferraço,MDB,ES,Espírito Santo,Sudeste,incumbente por sucessão,2.4,2.0,33472,13,637,531,ricardo_ferraco
+27,Elmano de Freitas,PT,CE,Ceará,Nordeste,incumbente pleno,2.3,1.4,18517,7,485,300,elmano-de-freitas
+28,Professora Dorinha,União,TO,Tocantins,Norte,candidato de continuidade,2.3,4.3,17635,13,288,555,professora-dorinha
+29,Eduardo Braide,PSD,MA,Maranhão,Nordeste,desafiante,2.2,3.7,1341,1,26,45,eduardo-braide
+30,Dr. Furlan,PSD,AP,Amapá,Norte,desafiante,2.2,2.3,20264,9,382,392,dr-furlan
+31,Alan Rick,Republicanos,AC,Acre,Norte,desafiante,2.1,3.1,12497,6,186,276,alan-rick
+32,Hana Ghassan,MDB,PA,Pará,Norte,incumbente por sucessão,2.1,2.9,16781,9,299,417,hana-ghassan
+33,Fernando Haddad,PT,SP,São Paulo,Sudeste,desafiante,2.0,3.0,5285,1,32,49,fernando_haddad
+34,Jorginho Mello,PL,SC,Santa Catarina,Sul,incumbente pleno,1.8,1.9,3353,1,53,55,jorginho-mello
+35,José Roberto Arruda,PSD,DF,Distrito Federal,Centro-Oeste,desafiante,1.7,1.4,40651,10,722,591,arruda
+36,Valmir de Francisquinho,Republicanos,SE,Sergipe,Nordeste,desafiante,1.6,1.9,16946,9,468,547,valmir-de-francisquinho
+37,Douglas Ruas,PL,RJ,Rio de Janeiro,Sudeste,desafiante,1.6,1.0,9504,1,96,61,douglas_ruas
+38,Álvaro Dias,PL,RN,Rio Grande do Norte,Nordeste,desafiante,1.5,1.7,30516,9,514,589,alvaro-dias
+39,Orleans Brandão,MDB,MA,Maranhão,Nordeste,candidato de continuidade,1.4,3.1,7280,3,94,219,orleans-brandao
+40,Wellington Fagundes,PL,MT,Mato Grosso,Centro-Oeste,desafiante,1.4,2.3,9802,4,167,292,wellington-fagundes
+41,Roberto Cidade,União,AM,Amazonas,Norte,candidato de continuidade,1.2,1.6,7119,1,62,82,roberto-cidade
+42,Sergio Moro,PL,PR,Paraná,Sul,desafiante,1.2,1.1,23134,3,273,248,sergio_moro
+43,Marconi Perillo,PSDB,GO,Goiás,Centro-Oeste,desafiante,1.1,1.0,24053,4,394,362,marconi_perillo
+44,Joel Rodrigues,PP,PI,Piauí,Nordeste,desafiante,0.9,1.5,34769,5,337,536,joel-rodrigues
+45,Efraim Filho,PL,PB,Paraíba,Nordeste,desafiante,0.7,0.9,11297,1,113,144,efraim-filho
+46,Allyson Bezerra,União Brasil,RN,Rio Grande do Norte,Nordeste,desafiante,0.6,1.2,6535,1,85,158,allyson-bezerra
+47,Cadu Xavier,PT,RN,Rio Grande do Norte,Nordeste,candidato de continuidade,0.6,0.4,20664,1,256,173,cadu-xavier
+48,Mailza Assis,PP,AC,Acre,Norte,incumbente por sucessão,0.6,0.5,26480,3,576,535,mailza-assis
+49,Clécio Luís,União,AP,Amapá,Norte,incumbente pleno,0.6,0.6,9876,1,173,162,clecio-luis
+50,Dr. Daniel Santos,Podemos,PA,Pará,Norte,desafiante,0.6,0.3,19373,1,354,171,dr-daniel-santos
+51,Hildon Chaves,Federação União Progressista e Republicanos,RO,Rondônia,Norte,desafiante,0.5,0.5,33296,3,554,572,hildon-chaves
+52,Celina Leão,PP,DF,Distrito Federal,Centro-Oeste,incumbente por sucessão,0.4,0.4,12231,1,282,254,celina_leao
+53,Alexandre Kalil,PDT,MG,Minas Gerais,Sudeste,desafiante,0.4,0.4,52612,2,504,537,alexandre_kalil
+54,João Campos,PSB,PE,Pernambuco,Nordeste,desafiante,0.3,0.5,14961,1,197,340,joao-campos
+55,Renan Filho,MDB,AL,Alagoas,Nordeste,candidato de continuidade,0.0,0.0,1129,0,18,43,renan-filho
+56,Ciro Gomes,PSDB,CE,Ceará,Nordeste,desafiante,0.0,0.0,9103,0,179,59,ciro-gomes
+57,Requião Filho,PDT,PR,Paraná,Sul,desafiante,0.0,0.0,3885,0,41,92,requiao_filho
+58,Lucas Ribeiro,PP,PB,Paraíba,Nordeste,incumbente por sucessão,0.0,0.0,3837,0,82,128,lucas-ribeiro

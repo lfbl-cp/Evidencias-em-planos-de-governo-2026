@@ -1,0 +1,42 @@
+[outros              ]   1549 palavras (  5.4%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[seguranca           ]   1107 palavras (  3.9%) :: SEGURANÇA PÚBLICA
+[seguranca           ]   1034 palavras (  3.6%) :: SISTEMA PRISIONAL
+[meio_ambiente       ]    884 palavras (  3.1%) :: DEFESA CIVIL E
+[economia            ]    789 palavras (  2.8%) :: DEFESA AGROPECUÁRIA,
+[assistencia_social  ]    118 palavras (  0.4%) :: PROMOVER O BEM-ESTAR DOS ANIMAIS DE PRODUÇÃO
+[seguranca           ]   1109 palavras (  3.9%) :: PROTEÇÃO ÀS MULHERES,
+[saude               ]   1179 palavras (  4.1%) :: SAÚDE
+
+A saúde pública do Rio Grande do Sul enfrenta
+[educacao            ]   1123 palavras (  3.9%) :: EDUCAÇÃO
+
+A educação pública gaúcha convive
+[assistencia_social  ]    884 palavras (  3.1%) :: PRIMEIRA INFÂNCIA
+
+Os primeiros anos de vida
+[assistencia_social  ]    844 palavras (  2.9%) :: FAMÍLIA, DESENVOLVIMENTO SOCIAL
+[assistencia_social  ]    881 palavras (  3.1%) :: ESPORTE, CULTURA
+[economia            ]    809 palavras (  2.8%) :: DESENVOLVIMENTO ECONÔMICO
+E AMBIENTE DE NEGÓCIOS
+[economia            ]    817 palavras (  2.9%) :: AGROPECUÁRIA
+E AGROINDÚSTRIA
+[economia            ]    788 palavras (  2.8%) :: INOVAÇÃO, CIÊNCIA
+[economia            ]    873 palavras (  3.0%) :: TURISMO E
+[economia            ]    743 palavras (  2.6%) :: TRABALHO, EMPREENDEDORISMO
+[infraestrutura      ]    804 palavras (  2.8%) :: INFRAESTRUTURA LOGÍSTICA
+[infraestrutura      ]    819 palavras (  2.9%) :: MOBILIDADE E TRANSPORTE
+[infraestrutura      ]    797 palavras (  2.8%) :: HABITAÇÃO E
+[infraestrutura      ]    844 palavras (  2.9%) :: ENERGIA E INFRAESTRUTURA
+[infraestrutura      ]    850 palavras (  3.0%) :: CONCESSÕES, PPPs
+[gestao_publica      ]    758 palavras (  2.6%) :: GESTÃO PÚBLICA
+E GOVERNANÇA
+[gestao_publica      ]    754 palavras (  2.6%) :: PLANEJAMENTO, FINANÇAS E
+[gestao_publica      ]    822 palavras (  2.9%) :: TRANSFORMAÇÃO DIGITAL
+[gestao_publica      ]    823 palavras (  2.9%) :: PESSOAS, MERITOCRACIA
+[gestao_publica      ]    835 palavras (  2.9%) :: INTEGRIDADE, TRANSPARÊNCIA
+[gestao_publica      ]    850 palavras (  3.0%) :: MUNICIPALISMO E
+[gestao_publica      ]    828 palavras (  2.9%) :: RELAÇÕES INSTITUCIONAIS
+[meio_ambiente       ]    758 palavras (  2.6%) :: DESENVOLVIMENTO SUSTENTÁVEL
+E GESTÃO AMBIENTAL
+[economia            ]    819 palavras (  2.9%) :: POSICIONAMENTO INTERNACIONAL
+[outros              ]   1752 palavras (  6.1%) :: PROJETOS E PROGRAMAS ESTRATÉGICOS

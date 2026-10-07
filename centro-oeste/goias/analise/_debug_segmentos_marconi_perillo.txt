@@ -1,0 +1,16 @@
+[outros              ]   2329 palavras (  9.7%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[educacao            ]   1434 palavras (  6.0%) :: 4.1 Educação, Ciência e Tecnologia
+[saude               ]   2116 palavras (  8.8%) :: 4.2 Saúde
+[seguranca           ]   1933 palavras (  8.0%) :: 4.3 Segurança Pública
+[economia            ]   2069 palavras (  8.6%) :: 4.4 Desenvolvimento Econômico e Trabalho
+[economia            ]   2142 palavras (  8.9%) :: 4.5 Agronegócio, Agricultura Familiar e
+[infraestrutura      ]   1978 palavras (  8.2%) :: 4.6 Infraestrutura, Logística e Desenvolvimento
+[meio_ambiente       ]   2058 palavras (  8.6%) :: 4.7 Meio Ambiente
+[assistencia_social  ]    907 palavras (  3.8%) :: 4.8 Desenvolvimento Social, Habitação e Cidadania
+[infraestrutura      ]   1084 palavras (  4.5%) :: 43 Ampliar o acesso à moradia digna e à regularização fundiária
+[assistencia_social  ]   1534 palavras (  6.4%) :: 4.9 Cultura, Esporte e Turismo
+[economia            ]    533 palavras (  2.2%) :: 50 Fazer do turismo um motor de desenvolvimento regional
+[gestao_publica      ]   1931 palavras (  8.0%) :: 4.10 Governança e Gestão Pública
+[gestao_publica      ]    584 palavras (  2.4%) :: 5. Pacto com os 246 Municípios
+[gestao_publica      ]    766 palavras (  3.2%) :: 6. Responsabilidade Fiscal, Resultados e Transparência
+[outros              ]    655 palavras (  2.7%) :: 7. Compromisso Final - Goiás 2030

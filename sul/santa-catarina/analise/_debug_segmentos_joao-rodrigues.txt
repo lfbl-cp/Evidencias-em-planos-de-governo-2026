@@ -1,0 +1,28 @@
+[outros              ]    169 palavras (  2.6%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[gestao_publica      ]    635 palavras (  9.9%) :: 1. FUNDAMENTOS DO PLANO DE GOVERNO 2027
+[gestao_publica      ]    754 palavras ( 11.7%) :: 2. PLANO ESTRUTURAL DE GOVERNO
+[seguranca           ]   1017 palavras ( 15.8%) :: 3. SEGURANÇA PÚBLICA
+[saude               ]    835 palavras ( 13.0%) :: 4. SAÚDE
+[educacao            ]    422 palavras (  6.6%) :: 5. EDUCAÇÃO E DESENVOLVIMENTO HUMANO
+[assistencia_social  ]     58 palavras (  0.9%) :: 5.4 Esporte e Lazer
+[assistencia_social  ]     65 palavras (  1.0%) :: 5.5 Cultura
+[outros              ]     72 palavras (  1.1%) :: A educação, o esporte, o lazer e a cultura formam um conjunto indissociável
+[educacao            ]     57 palavras (  0.9%) :: O resgate da UDESC como instituição oficial de ensino superior do Estado
+[economia            ]    519 palavras (  8.1%) :: 6. AGRICULTURA E DESENVOLVIMENTO ECONÔMICO
+[infraestrutura      ]     37 palavras (  0.6%) :: e implementadas parcerias para financiar investimentos e infraestrutura pública 
+[infraestrutura      ]     47 palavras (  0.7%) :: Um robusto programa de captação, armazenagem e uso de água na agricultura
+[economia            ]    116 palavras (  1.8%) :: O produtor rural catarinense é um dos pilares
+[infraestrutura      ]    493 palavras (  7.7%) :: 7. INFRAESTRUTURA, MOBILIDADE, LOGÍSTICA E
+[assistencia_social  ]     44 palavras (  0.7%) :: 8. DESENVOLVIMENTO E REINSERÇÃO SOCIAL
+[economia            ]     39 palavras (  0.6%) :: O empreendedorismo, a pequena e a microempresa e os polos
+[assistencia_social  ]     38 palavras (  0.6%) :: A reinserção social de pessoas em situação de rua
+[outros              ]     58 palavras (  0.9%) :: O desenvolvimento econômico e a inclusão social não são agendas opostas
+[assistencia_social  ]     52 palavras (  0.8%) :: Os idosos e as pessoas em situação de maior vulnerabilidade receberão atenção es
+[outros              ]      2 palavras (  0.0%) :: Principais eixos:
+[economia            ]     15 palavras (  0.2%) :: Fortalecer o empreendedorismo, a pequena e microempresa
+[economia            ]     13 palavras (  0.2%) :: Atrair investimentos estratégicos para geração de empregos
+[assistencia_social  ]     21 palavras (  0.3%) :: Ampliar e fortalecer a rede de assistência e promoção social, com atenção
+[assistencia_social  ]     16 palavras (  0.2%) :: Desenvolver programas de reinserção social integrados
+[gestao_publica      ]    289 palavras (  4.5%) :: 9. GESTÃO INTEGRADA E INOVADORA
+[gestao_publica      ]    216 palavras (  3.4%) :: 10. DESENVOLVIMENTO REGIONAL E CIDADES
+[outros              ]    329 palavras (  5.1%) :: COMPROMISSO FINAL

@@ -1,0 +1,67 @@
+[outros              ]      8 palavras (  0.1%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[outros              ]    783 palavras (  8.2%) :: Carta de
+Compromisso
+[seguranca           ]   1546 palavras ( 16.3%) :: Eixo 1
+[outros              ]    611 palavras (  6.4%) :: Eixo 2
+[saude               ]    173 palavras (  1.8%) :: Compromissos
+FILA CURTA, CIRURGIA RÁPIDA
+[saude               ]    158 palavras (  1.7%) :: Compromissos
+SAÚDE PERTO DE CASA
+[saude               ]    173 palavras (  1.8%) :: Compromissos
+SAÚDE INTEGRAL DA MULHER
+[assistencia_social  ]    160 palavras (  1.7%) :: Compromissos
+ATENÇÃO À PESSOA COM
+[educacao            ]    226 palavras (  2.4%) :: Compromissos
+APRENDIZAGEM NOTA 10
+[educacao            ]     83 palavras (  0.9%) :: Compromissos
+APRENDIZAGEM NOTA 10
+[educacao            ]    217 palavras (  2.3%) :: Compromissos
+ESCOLA PROTEGIDA
+[infraestrutura      ]    178 palavras (  1.9%) :: Compromissos
+PROPRIEDADE GARANTIDA E SEGURA
+[assistencia_social  ]    174 palavras (  1.8%) :: Compromissos
+POLÍTICAS SOCIAIS E AUTONOMIA
+[economia            ]    496 palavras (  5.2%) :: Eixo 3
+[economia            ]    196 palavras (  2.1%) :: Compromissos
+INVESTE AQUI
+[economia            ]    162 palavras (  1.7%) :: Compromissos
+TODO O RIO CRESCENDO
+[infraestrutura      ]    211 palavras (  2.2%) :: Compromissos
+RJ INTEGRADO
+[infraestrutura      ]    110 palavras (  1.2%) :: Compromissos
+RJ INTEGRADO
+[economia            ]    265 palavras (  2.8%) :: Compromissos
+DA SERRA AO MAR
+[economia            ]    178 palavras (  1.9%) :: Compromissos
+DA SERRA AO MAR
+[economia            ]    210 palavras (  2.2%) :: Compromissos
+RIO CRIATIVO
+[economia            ]    202 palavras (  2.1%) :: Compromissos
+EMPREENDE RJ
+[economia            ]     87 palavras (  0.9%) :: Compromissos
+EMPREENDE RJ
+[economia            ]    209 palavras (  2.2%) :: Compromissos
+AGRO GRANDE
+[outros              ]    402 palavras (  4.2%) :: Eixo 4
+[infraestrutura      ]    172 palavras (  1.8%) :: Compromissos
+ESTADO PARCEIRO DAS CIDADES
+[infraestrutura      ]     72 palavras (  0.8%) :: Compromissos
+ESTADO PARCEIRO DAS CIDADES
+[infraestrutura      ]    210 palavras (  2.2%) :: Compromissos
+NOVOS CORREDORES DE MOBILIDADE
+[infraestrutura      ]    183 palavras (  1.9%) :: Compromissos
+BILHETE ÚNICO
+[infraestrutura      ]    192 palavras (  2.0%) :: Compromissos
+RODOVIAS RJ
+[infraestrutura      ]    247 palavras (  2.6%) :: Compromissos
+CONCESSÕES: SERVIÇOS
+[infraestrutura      ]    212 palavras (  2.2%) :: Compromissos
+CONCESSÕES: SERVIÇOS
+[meio_ambiente       ]    228 palavras (  2.4%) :: Compromissos
+PROTEÇÃO CONTRA TRAGÉDIAS
+[meio_ambiente       ]    241 palavras (  2.5%) :: Compromissos
+RJ VERDE PRODUTIVO
+[meio_ambiente       ]    136 palavras (  1.4%) :: Compromissos
+RJ VERDE PRODUTIVO
+[outros              ]    393 palavras (  4.1%) :: Considerações
+Finais

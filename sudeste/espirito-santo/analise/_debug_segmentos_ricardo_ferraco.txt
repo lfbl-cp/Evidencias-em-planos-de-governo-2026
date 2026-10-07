@@ -1,0 +1,26 @@
+[outros              ]      0 palavras (  0.0%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[outros              ]   1282 palavras (  3.8%) :: APRESENTAÇÃO
+[outros              ]    226 palavras (  0.7%) :: DIRETRIZES DO PROGRAMA
+[outros              ]    217 palavras (  0.6%) :: EIXO 1 —
+[educacao            ]   2020 palavras (  6.0%) :: 1.1 — EDUCAÇÃO E QUALIFICAÇÃO
+[saude               ]   1498 palavras (  4.5%) :: 1.2 — SAÚDE
+[seguranca           ]   2698 palavras (  8.1%) :: 1.3 — SEGURANÇA PÚBLICA E DEFESA DA VIDA
+[assistencia_social  ]   3467 palavras ( 10.4%) :: 1.4 — PROTEÇÃO SOCIAL, DIREITOS
+[infraestrutura      ]    197 palavras (  0.6%) :: 1.4.10 — HABITAÇÃO DE INTERESSE SOCIAL E
+[infraestrutura      ]   1876 palavras (  5.6%) :: 1.5 — MOBILIDADE E SEGURANÇA NO TRÂNSITO
+[assistencia_social  ]   1498 palavras (  4.5%) :: 1.6 — CULTURA
+[assistencia_social  ]   1575 palavras (  4.7%) :: 1.7 — ESPORTE
+[assistencia_social  ]    259 palavras (  0.8%) :: 1.8 — PROTEÇÃO E BEM-ESTAR ANIMAL
+[outros              ]    272 palavras (  0.8%) :: EIXO 2.
+[economia            ]   1162 palavras (  3.5%) :: 2.1 — COMPETITIVIDADE, AMBIENTE DE
+[economia            ]   1800 palavras (  5.4%) :: 2.2 — AGROPECUÁRIA, INFRAESTRUTURA
+[infraestrutura      ]   2143 palavras (  6.4%) :: 2.3 — INFRAESTRUTURA, MACRODRENAGEM
+[economia            ]   1304 palavras (  3.9%) :: 2.4 — TURISMO
+[meio_ambiente       ]   3704 palavras ( 11.1%) :: 2.5 — MEIO AMBIENTE E DESENVOLVIMENTO
+[economia            ]   1452 palavras (  4.3%) :: 2.6 — ECONOMIA AZUL
+[outros              ]    355 palavras (  1.1%) :: EIXO 3 —
+[gestao_publica      ]    901 palavras (  2.7%) :: 3.1 — GESTÃO FISCAL COMO PLATAFORMA
+[economia            ]    676 palavras (  2.0%) :: 3.2 — CIÊNCIA, TECNOLOGIA E INOVAÇÃO
+[gestao_publica      ]    706 palavras (  2.1%) :: 3.3 — GESTÃO DE PESSOAS
+[gestao_publica      ]   1566 palavras (  4.7%) :: 3.4 — GOVERNO COMO PLATAFORMA
+[gestao_publica      ]    618 palavras (  1.8%) :: 3.5 — GOVERNANÇA, INTEGRIDADE

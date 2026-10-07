@@ -1,0 +1,16 @@
+[outros              ]      0 palavras (  0.0%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[outros              ]    153 palavras (  1.2%) :: SÍNTESE GERAL
+[outros              ]    518 palavras (  3.9%) :: DIAGNÓSTICO GERAL
+[gestao_publica      ]    637 palavras (  4.8%) :: 1 - GESTÃO PÚBLICA MODERNA COM TRANSPARÊNCIA E
+[economia            ]   1244 palavras (  9.4%) :: 2 - DESENVOLVIMENTO ECÔNOMICO SUSTENTÁVEL
+[economia            ]    660 palavras (  5.0%) :: 3 - NOVA POLÍTICA ESTADUAL DE INCENTIVOS FISCAIS
+[saude               ]    799 palavras (  6.0%) :: 4 - SAÚDE PÚBLICA EFICIENTE E ACESSÍVEL
+[seguranca           ]    800 palavras (  6.0%) :: 5 - SEGURANÇA PÚBLICA CIDADÃ E TECNOLÓGICA
+[economia            ]    778 palavras (  5.9%) :: 6 - TRABALHO DIGNO E GERAÇÃO DE RENDA
+[educacao            ]   1013 palavras (  7.6%) :: 7 - EDUCAÇÃO PARA O FUTURO
+[infraestrutura      ]    980 palavras (  7.4%) :: 8 - INFRAESTRUTURA                    PLANEJADA        E    INDUTORA          DE
+[assistencia_social  ]   1044 palavras (  7.9%) :: 9 - CULTURA, ESPORTE E LAZER VALORIZADOS E COM AMPLO
+[assistencia_social  ]   1478 palavras ( 11.1%) :: 10 - ESTADO CUIDADOR E INOVADOR NA ASSISTÊNCIA
+[economia            ]   1166 palavras (  8.8%) :: 11 - DESENVOLVIMENTO AGRÁRIO COM AGRICULTURA
+[meio_ambiente       ]   1073 palavras (  8.1%) :: 12 - MEIO AMBIENTE COM PANTANAL, SERRA DA
+[economia            ]    943 palavras (  7.1%) :: 13 - TURISMO SUSTENTÁVEL E AGREGADOR DE VALOR

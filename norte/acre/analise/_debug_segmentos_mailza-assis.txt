@@ -1,0 +1,14 @@
+[outros              ]   1868 palavras (  7.1%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[educacao            ]   2112 palavras (  8.0%) :: EIXO 1
+[assistencia_social  ]    151 palavras (  0.6%) :: PROGRAMA 5 – Cultura, Conhecimento e Desenvolvimento
+[educacao            ]    217 palavras (  0.8%) :: PROGRAMA 6 – Governança, Gestão e Cooperação
+[saude               ]   2642 palavras ( 10.0%) :: EIXO 2
+[seguranca           ]   2672 palavras ( 10.1%) :: EIXO 3
+[assistencia_social  ]   2591 palavras (  9.8%) :: EIXO 4
+[economia            ]   2464 palavras (  9.3%) :: EIXO 5
+[economia            ]   2842 palavras ( 10.7%) :: EIXO 6
+[infraestrutura      ]   2044 palavras (  7.7%) :: EIXO 7
+[infraestrutura      ]   1851 palavras (  7.0%) :: EIXO 8
+[meio_ambiente       ]   2015 palavras (  7.6%) :: EIXO 9
+[gestao_publica      ]   2610 palavras (  9.9%) :: EIXO 10
+[outros              ]    401 palavras (  1.5%) :: O ACRE QUE VAMOS CONSTRUIR JUNTOS

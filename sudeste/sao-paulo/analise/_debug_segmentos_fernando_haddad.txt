@@ -1,0 +1,50 @@
+[outros              ]    927 palavras ( 17.5%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[seguranca           ]    202 palavras (  3.8%) :: 2. PRIORIDADE Nº 1: SP PROTEGE COM IMPUNIDADE ZERO
+[seguranca           ]    116 palavras (  2.2%) :: Nas ruas, a proposta é integrar
+[seguranca           ]     91 palavras (  1.7%) :: Cada ocorrência será tratada
+[seguranca           ]    157 palavras (  3.0%) :: Nas casas, o objetivo é proteger mulheres
+[seguranca           ]    123 palavras (  2.3%) :: No andar de cima, o objetivo é combater
+[seguranca           ]     75 palavras (  1.4%) :: Valorização de quem nos protege.
+[seguranca           ]     60 palavras (  1.1%) :: Câmeras corporais com gravação contínua.
+[seguranca           ]    126 palavras (  2.4%) :: O Meu Celular de Volta
+[seguranca           ]     95 palavras (  1.8%) :: Golpe Zero.
+[seguranca           ]     52 palavras (  1.0%) :: Segurança no campo.
+[seguranca           ]    104 palavras (  2.0%) :: O estado inteiro nos territórios.
+[seguranca           ]    114 palavras (  2.2%) :: A cadeia que corta o ciclo do crime.
+[educacao            ]     99 palavras (  1.9%) :: 3. EDUCAÇÃO: A PORTA DA PROSPERIDADE
+[educacao            ]     79 palavras (  1.5%) :: Ninguém para trás.
+[educacao            ]     79 palavras (  1.5%) :: Escola completa, com profissão.
+[educacao            ]     96 palavras (  1.8%) :: Universidade pública, patrimônio de São Paulo.
+[educacao            ]    113 palavras (  2.1%) :: O professor no centro.
+[educacao            ]     48 palavras (  0.9%) :: Educação com liderança.
+[economia            ]    153 palavras (  2.9%) :: 4. PROSPERIDADE PARA TODO MUNDO
+[economia            ]     97 palavras (  1.8%) :: O trabalho que rende.
+[economia            ]     85 palavras (  1.6%) :: O pequeno que cresce.
+[economia            ]    128 palavras (  2.4%) :: O campo que enriquece.
+[economia            ]    132 palavras (  2.5%) :: A aposta na inteligência artificial.
+[economia            ]     56 palavras (  1.1%) :: Atravessando os quatro compromissos
+[saude               ]    114 palavras (  2.2%) :: 5. SAÚDE NA HORA CERTA
+[saude               ]    124 palavras (  2.3%) :: Consulta, exame e cirurgia com menor tempo de espera.
+[saude               ]     76 palavras (  1.4%) :: O remédio e o socorro na hora certa.
+[saude               ]     74 palavras (  1.4%) :: A sua saúde nas suas mãos.
+[saude               ]     45 palavras (  0.9%) :: O cuidado que chega antes da doença.
+[saude               ]    134 palavras (  2.5%) :: Uma rede só, com o estado de volta à coordenação.
+[outros              ]     48 palavras (  0.9%) :: 6. SÃO PAULO POR INTEIRO
+[assistencia_social  ]     75 palavras (  1.4%) :: Igualdade e respeito.
+[infraestrutura      ]     54 palavras (  1.0%) :: Moradia digna.
+[infraestrutura      ]     57 palavras (  1.1%) :: Mobilidade que liberta tempo.
+[infraestrutura      ]     56 palavras (  1.1%) :: Água e saneamento para todos.
+[meio_ambiente       ]     68 palavras (  1.3%) :: Preparo para o clima que mudou.
+[assistencia_social  ]     53 palavras (  1.0%) :: Cultura que pertence a todos.
+[assistencia_social  ]     49 palavras (  0.9%) :: Esporte como política pública.
+[economia            ]     46 palavras (  0.9%) :: Turismo que gera renda.
+[assistencia_social  ]     52 palavras (  1.0%) :: Proteção social e segurança alimentar.
+[assistencia_social  ]     46 palavras (  0.9%) :: Respeito a quem envelhece.
+[assistencia_social  ]     48 palavras (  0.9%) :: Acessibilidade e inclusão.
+[gestao_publica      ]     33 palavras (  0.6%) :: 7. UM GOVERNO QUE FUNCIONA
+[gestao_publica      ]    102 palavras (  1.9%) :: Gestão com liderança e instituições que ficam.
+[gestao_publica      ]    131 palavras (  2.5%) :: O estado que funciona na vida das pessoas.
+[gestao_publica      ]     96 palavras (  1.8%) :: Contrato vale, e vale para os dois lados.
+[gestao_publica      ]     54 palavras (  1.0%) :: O estado no controle das tecnologias.
+[gestao_publica      ]     94 palavras (  1.8%) :: Transparência, contas prestadas e escuta.
+[gestao_publica      ]    149 palavras (  2.8%) :: Responsabilidade com o dinheiro do paulista.

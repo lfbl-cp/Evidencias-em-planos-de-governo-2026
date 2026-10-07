@@ -1,0 +1,29 @@
+[outros              ]     27 palavras (  1.4%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[outros              ]    860 palavras ( 44.1%) :: CARTA DE ABERTURA
+[seguranca           ]     79 palavras (  4.0%) :: Devolver a segurança e o direito de ir e vir das pessoas.
+[outros              ]     11 palavras (  0.6%) :: Melhorar a qualidade dos serviços públicos de saúde, educação e
+transporte.
+[saude               ]     35 palavras (  1.8%) :: Recuperar os hospitais e UPAs estaduais
+[educacao            ]     29 palavras (  1.5%) :: Ampliar o ensino técnico profissionalizante em tempo integral, fazer as Faetecs
+[infraestrutura      ]     65 palavras (  3.3%) :: No transporte, vamos colocar a Supervia
+[economia            ]     70 palavras (  3.6%) :: Destravar a economia para gerar mais oportunidades de trabalho e renda.
+[gestao_publica      ]     85 palavras (  4.4%) :: Governar para todos e em parceria com todos os municípios.
+[gestao_publica      ]     48 palavras (  2.5%) :: Colocar a máquina pública estadual em ordem.
+[outros              ]    114 palavras (  5.8%) :: Assumimos esses compromissos com uma condição
+[outros              ]      6 palavras (  0.3%) :: Compromissos centrais
+do governo Eduardo Paes
+[seguranca           ]     64 palavras (  3.3%) :: Reduzir a violência no estado
+[seguranca           ]     42 palavras (  2.2%) :: Estancar o crescimento territorial do crime organizado
+[seguranca           ]     27 palavras (  1.4%) :: Eliminar imediatamente as indicações de políticos
+[saude               ]     26 palavras (  1.3%) :: Recuperar os serviços públicos de saúde do estado
+[saude               ]     26 palavras (  1.3%) :: Ampliar a rede e o atendimento nas regiões distantes
+[saude               ]     26 palavras (  1.3%) :: Contratar mais médicos e especialistas e oferecer
+[educacao            ]     37 palavras (  1.9%) :: Expandir o ensino médio profissionalizante em tempo integral
+[assistencia_social  ]     15 palavras (  0.8%) :: Apoiar as prefeituras na educação inclusiva
+[economia            ]     37 palavras (  1.9%) :: Fazer o estado voltar a atrair empresas
+[infraestrutura      ]     30 palavras (  1.5%) :: Investir na melhoria do transporte metropolitano
+[infraestrutura      ]     18 palavras (  0.9%) :: Iniciar as obras da Linha 3 do metrô
+[infraestrutura      ]     30 palavras (  1.5%) :: Recuperar as estradas do interior
+[meio_ambiente       ]     28 palavras (  1.4%) :: Implantar um grande plano de obras para combater as enchentes
+[gestao_publica      ]     38 palavras (  1.9%) :: Colocar as contas públicas em ordem
+[gestao_publica      ]     79 palavras (  4.0%) :: Governar em parceria com os prefeitos dos 92 municípios

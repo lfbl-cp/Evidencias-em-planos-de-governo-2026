@@ -1,0 +1,31 @@
+[outros              ]   2131 palavras ( 11.3%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[seguranca           ]    456 palavras (  2.4%) :: tranquilidade de caminhar por ruas seguras, dormir de portas abertas e
+[assistencia_social  ]    488 palavras (  2.6%) :: garantia de que cada pessoa tenha condições reais de sonhar com o
+[educacao            ]    490 palavras (  2.6%) :: goiana transformou histórias e construiu uma base sólida para
+[saude               ]    443 palavras (  2.4%) :: precisava de atendimento médico especializado antes de 2019
+[gestao_publica      ]    382 palavras (  2.0%) :: reflexo imediato de um Estado em colapso fiscal recaía sobre a rotina de
+[economia            ]    654 palavras (  3.5%) :: prosperidade que entra pela porta de casa de cada trabalhador,
+[infraestrutura      ]    453 palavras (  2.4%) :: Ligar o campo ao mercado e aproximar as pessoas das oportunidades é o
+[economia            ]    373 palavras (  2.0%) :: Cada laboratório conectado, cada pesquisa financiada e cada nova
+[assistencia_social  ]    428 palavras (  2.3%) :: Ver praças revitalizadas cheias de vida, festivais culturais movimentando
+[meio_ambiente       ]    446 palavras (  2.4%) :: eixo estratégico que conecta o crescimento econômico à conservação
+[outros              ]    259 palavras (  1.4%) :: O PRÓXIMO CICLO: DESAFIOS E OPORTUNIDADES
+[economia            ]    489 palavras (  2.6%) :: Brasil vive a maior transformação da sua história. Com a Emenda
+[meio_ambiente       ]    123 palavras (  0.7%) :: Secas mais prolongadas, chuvas mais intensas e incêndios florestais
+[economia            ]    782 palavras (  4.2%) :: conjuntura internacional tem passado por um período de
+[outros              ]    454 palavras (  2.4%) :: 06 EIXOS ESTRATÉGICOS
+[educacao            ]    855 palavras (  4.5%) :: | Educação Integral Goiás
+[saude               ]   1112 palavras (  5.9%) :: | Regionalização da Saúde: Atendimento Mais Perto das Pessoas
+[assistencia_social  ]    356 palavras (  1.9%) :: | Desenvolvimento Social: Proteção e Emancipação das Famílias
+[infraestrutura      ]    197 palavras (  1.0%) :: | Habitação: Moradia Digna e Segurança para as Famílias
+[assistencia_social  ]    333 palavras (  1.8%) :: | Esporte para Todos: Formação, Inclusão e Alto Rendimento
+[economia            ]     16 palavras (  0.1%) :: | Goiás Inova: Ciência, Tecnologia e Empreendedorismo para
+[educacao            ]   1357 palavras (  7.2%) :: Gestão           Escolar,        Valorização   e       Desenvolvimento        do
+[economia            ]    673 palavras (  3.6%) :: | Agropecuária Forte, Segura, Sustentável e Inovadora
+[gestao_publica      ]    226 palavras (  1.2%) :: | Autonomia Fiscal e Modernização Tributária Municipal
+[infraestrutura      ]    708 palavras (  3.8%) :: | Desenvolvimento Regional: Mais Oportunidades em Todas as
+[meio_ambiente       ]    198 palavras (  1.1%) :: | Goiás Resiliente e Verde: Adaptação Climática e Novos
+[seguranca           ]    943 palavras (  5.0%) :: | Trânsito Seguro Goiás: Mais Prevenção, Menos Acidentes
+[gestao_publica      ]   2063 palavras ( 11.0%) :: | Goiás Planejado: Gestão Estratégica, Avaliação de Políticas
+[gestao_publica      ]    409 palavras (  2.2%) :: GOVERNANÇA E MONITORAMENTO DO PLANO DE
+[outros              ]    507 palavras (  2.7%) :: Nenhum governo transforma um

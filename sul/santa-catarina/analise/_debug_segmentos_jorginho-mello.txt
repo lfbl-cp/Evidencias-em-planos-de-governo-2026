@@ -1,0 +1,44 @@
+[outros              ]     18 palavras (  0.5%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[outros              ]    326 palavras (  9.7%) :: RESULTADOS QUE PREPARAM O FUTURO
+[outros              ]    297 palavras (  8.9%) :: UM ESTADO QUE RECUPEROU A CAPACIDADE DE REALIZAR
+[educacao            ]     25 palavras (  0.7%) :: Mais de 71 mil estudantes no curso da universidade que
+[educacao            ]     11 palavras (  0.3%) :: Aumento em mais de 300% no número de alunos no
+[educacao            ]     24 palavras (  0.7%) :: Maior programa de qualificação tecnológica do Estado,
+[educacao            ]     27 palavras (  0.8%) :: Primeiro Estado do País a garantir que 100% das 14.100
+[saude               ]     16 palavras (  0.5%) :: Santa Catarina bateu recorde histórico e tornou-se o
+[saude               ]     14 palavras (  0.4%) :: Maior expansão de leitos de UTI de sua história, abrindo
+[saude               ]     23 palavras (  0.7%) :: Pioneirismo na criação de habilitações estaduais de alta
+[assistencia_social  ]     26 palavras (  0.8%) :: Maior iniciativa nacional de castração e proteção
+[infraestrutura      ]     25 palavras (  0.7%) :: Avanço aéreo inédito ao abrir rotas internacionais diretas
+[infraestrutura      ]     24 palavras (  0.7%) :: Mais de 1.000 quilômetros de estradas rurais produtivas
+[infraestrutura      ]     30 palavras (  0.9%) :: Maior investimento rodoviário da história catarinense,
+[seguranca           ]     19 palavras (  0.6%) :: Estado Mais Seguro do País: menores níveis históricos
+[seguranca           ]     24 palavras (  0.7%) :: Investimento histórico na modernização com o
+[outros              ]     39 palavras (  1.2%) :: Maior investimento já realizado por um Governo do Estado
+[infraestrutura      ]     17 palavras (  0.5%) :: Maior obra de dragagem portuária em execução no País,
+[infraestrutura      ]     19 palavras (  0.6%) :: Maior programa de desassoreamento de rios do Brasil,
+[economia            ]     35 palavras (  1.0%) :: Setor pesqueiro recebeu o maior pacote de investimentos
+[economia            ]     22 palavras (  0.7%) :: Incentivo a novas fontes de energia destravou R$ 3,5
+[infraestrutura      ]     16 palavras (  0.5%) :: Construção de 5.740 moradias, alcançando a adesão
+[gestao_publica      ]     30 palavras (  0.9%) :: Primeira redução de custos do Governo do Estado em
+[economia            ]     25 palavras (  0.7%) :: Pronampe SC: maior programa de crédito subsidiado da
+[gestao_publica      ]     25 palavras (  0.7%) :: Quatro anos de gestão
+[outros              ]    359 palavras ( 10.7%) :: INTRODUÇÃO
+[outros              ]    337 palavras ( 10.1%) :: INTRODUÇÃO
+[outros              ]    218 palavras (  6.5%) :: PLANO DE GOVERNO “FÉ NO TRABALHO E PÉ NA TÁBUA” - 2027-2030
+[infraestrutura      ]    158 palavras (  4.7%) :: 1. INFRAESTRUTURA, LOGÍSTICA E MOBILIDADE
+[seguranca           ]    158 palavras (  4.7%) :: 2. SEGURANÇA PÚBLICA, GESTÃO PENAL, PROTEÇÃO E DEFESA CIVIL
+[infraestrutura      ]     46 palavras (  1.4%) :: •Proteção e Defesa Civil:
+[saude               ]    141 palavras (  4.2%) :: 3. SAÚDE E BEM-ESTAR
+[infraestrutura      ]     29 palavras (  0.9%) :: •Programa Casa Catarina +22
+[assistencia_social  ]     29 palavras (  0.9%) :: •Manutenção do cofinanciamento estadual
+[educacao            ]    143 palavras (  4.3%) :: 4. EDUCAÇÃO, QUALIFICAÇÃO PROFISSIONAL E TECNOLOGIA
+[economia            ]     50 palavras (  1.5%) :: 5. AGRO, PESCA, MEIO AMBIENTE E O CRESCIMENTO DO CAMPO
+[infraestrutura      ]     23 palavras (  0.7%) :: •Estrada Boa Rural e infraestrutura no campo:
+[economia            ]     86 palavras (  2.6%) :: •Fortalecimento do Financia Agro SC e Água no Campo:
+[meio_ambiente       ]     32 palavras (  1.0%) :: •Manter e ampliar o programa Mais Verde
+[economia            ]     77 palavras (  2.3%) :: 6. LIBERDADE ECONÔMICA, GESTÃO EFICIENTE E MUNICIPALISMO
+[gestao_publica      ]    121 palavras (  3.6%) :: •Municipalismo "Pé na Tábua":
+[assistencia_social  ]    137 palavras (  4.1%) :: 7. CULTURA, TURISMO E ESPORTE
+[economia            ]     15 palavras (  0.4%) :: •Fortalecer a movimentação turística orgânica
+[infraestrutura      ]     37 palavras (  1.1%) :: •Conexões aéreas:

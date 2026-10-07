@@ -1,0 +1,41 @@
+[outros              ]   3119 palavras (  9.4%) :: [FRONT MATTER: carta de abertura/sumário/diagnóstico/metodologia]
+[gestao_publica      ]    368 palavras (  1.1%) :: CIDADANIA E COMBATE À
+CORRUPÇÃO
+[assistencia_social  ]    165 palavras (  0.5%) :: Expandir as ações itinerantes de cidadania
+[seguranca           ]   3982 palavras ( 12.0%) :: SEGURANÇA PÚBLICA
+[saude               ]   2227 palavras (  6.7%) :: SAÚDE PÚBLICA
+[educacao            ]   1792 palavras (  5.4%) :: EDUCAÇÃO PÚBLICA
+[assistencia_social  ]   4017 palavras ( 12.1%) :: ASSISTÊNCIA SOCIAL
+[economia            ]    232 palavras (  0.7%) :: AGROPECUÁRIA E CADEIAS
+PRODUTIVAS
+[infraestrutura      ]   3319 palavras ( 10.0%) :: INFRAESTRUTURA
+[infraestrutura      ]   1544 palavras (  4.6%) :: HABITAÇÃO E
+DESENVOLVIMENTO TERRITORIAL
+[assistencia_social  ]   2184 palavras (  6.6%) :: CULTURA
+[assistencia_social  ]   1074 palavras (  3.2%) :: ESPORTE E LAZER
+[economia            ]   1436 palavras (  4.3%) :: INDÚSTRIA, COMÉRCIO,
+EMPREENDEDORISMO E
+INOVAÇÃO
+[economia            ]   1780 palavras (  5.3%) :: TURISMO
+[meio_ambiente       ]   1429 palavras (  4.3%) :: DESENVOLVIMENTO AMBIENTAL E
+SUSTENTÁVEL
+[gestao_publica      ]   1261 palavras (  3.8%) :: MODERNIZAÇÃO DA
+ADMINISTRAÇÃO PÚBLICA E
+CIDADANIA
+[outros              ]    222 palavras (  0.7%) :: PLANO TÁTICO
+100 PRIMEIROS DIAS
+[gestao_publica      ]    687 palavras (  2.1%) :: ORGANIZAR O GOVERNO E FORTALECER A CAPACIDADE DE
+EXECUÇÃO
+[outros              ]     83 palavras (  0.2%) :: CONHECER A REALIDADE E COLOCAR AS PRIORIDADES EM
+EXECUÇÃO
+[seguranca           ]    204 palavras (  0.6%) :: DESTRAVAR A EXECUÇÃO DOS RECURSOS DA SEGURANÇA PÚBLICA
+[saude               ]    463 palavras (  1.4%) :: MOBILIZAR A SAÚDE PARA FAZER AS FILAS ANDAREM
+[educacao            ]    180 palavras (  0.5%) :: ESTRUTURAR A GOVERNANÇA DAS AQUISIÇÕES DA EDUCAÇÃO
+[infraestrutura      ]     77 palavras (  0.2%) :: INVENTARIAR 100% DA MALHA RODOVIÁRIA E DAS PONTES ESTADUAIS
+[economia            ]     81 palavras (  0.2%) :: CRIAR O MAPA DAS CADEIAS PRODUTIVAS POR TERRITÓRIO
+[outros              ]     87 palavras (  0.3%) :: PREPARAR RONDÔNIA PARA CRESCER E ENTREGAR MELHOR
+[economia            ]    269 palavras (  0.8%) :: LEVANTAR OS MAIORES GARGALOS DO AMBIENTE DE NEGÓCIOS
+[assistencia_social  ]     80 palavras (  0.2%) :: CRIAR O MAPA ÚNICO DE VULNERABILIDADE SOCIAL
+[gestao_publica      ]     83 palavras (  0.2%) :: PRIORIZAR OS SERVIÇOS PÚBLICOS DIGITAIS MAIS UTILIZADOS
+[outros              ]    139 palavras (  0.4%) :: AO FINAL DOS 100 DIAS
+[outros              ]    712 palavras (  2.1%) :: ENCERRAMENTO

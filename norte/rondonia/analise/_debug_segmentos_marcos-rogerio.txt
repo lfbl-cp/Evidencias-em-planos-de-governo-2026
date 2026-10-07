@@ -1,0 +1,15 @@
+[outros              ]   5321 palavras ( 12.4%) :: [FRONT MATTER: carta de abertura/sumário/diagnóstico/metodologia]
+[saude               ]   4840 palavras ( 11.3%) :: EIXO 1 - SAÚDE: PESSOAS EM PRIMEIRO LUGAR
+[educacao            ]   2626 palavras (  6.1%) :: EIXO 2 - EDUCAÇÃO E INOVAÇÃO: PREPARANDO PARA O AMANHÃ
+[assistencia_social  ]   3207 palavras (  7.5%) :: EIXO 3 - DESENVOLVIMENTO SOCIAL E CIDADANIA
+[assistencia_social  ]   2004 palavras (  4.7%) :: EIXO 4 - CULTURA, ESPORTE E LAZER
+[seguranca           ]   8101 palavras ( 18.9%) :: EIXO 5 - SEGURANÇA PÚBLICA: PAZ NO CAMPO, SEGURANÇA NA
+            CIDADE E COMB
+[economia            ]   5035 palavras ( 11.8%) :: EIXO 6 - DESENVOLVIMENTO ECONÔMICO
+[infraestrutura      ]   4168 palavras (  9.7%) :: EIXO 7 - INFRAESTRUTURA E LOGÍSTICA
+[meio_ambiente       ]   1772 palavras (  4.1%) :: EIXO 8 - MEIO AMBIENTE
+[assistencia_social  ]    535 palavras (  1.3%) :: PROTEÇÃO ANIMAL
+[infraestrutura      ]   1806 palavras (  4.2%) :: EIXO 9 - DESENVOLVIMENTO URBANO E MUNICIPALISMO
+[gestao_publica      ]   3055 palavras (  7.1%) :: EIXO 10 - GESTÃO ESTRATÉGICA, FINANÇAS/ECONOMIA E
+                     VALORIZAÇ
+[outros              ]    299 palavras (  0.7%) :: VIII. A MUDANÇA DA QUAL RONDÔNIA PRECISA

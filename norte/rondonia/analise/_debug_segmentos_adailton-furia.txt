@@ -1,0 +1,78 @@
+[outros              ]   2425 palavras (  7.7%) :: [FRONT MATTER: carta de abertura/sumário/diagnóstico/metodologia]
+[outros              ]    590 palavras (  1.9%) :: 1. Proteger
+a Vida.
+[saude               ]   2404 palavras (  7.7%) :: 1.1 Saúde Perto de Quem
+Precisa
+[educacao            ]   1451 palavras (  4.6%) :: 1.2 Educação para a Vida e o
+Futuro
+[assistencia_social  ]   1152 palavras (  3.7%) :: 1.3 Cuidado, Direitos e
+Cidadania
+[seguranca           ]   1749 palavras (  5.6%) :: 1.4 Rondônia Segura e de Paz
+[assistencia_social  ]    740 palavras (  2.4%) :: 1.5 Mulher Protegida,
+Autônoma e Saudável
+[outros              ]    487 palavras (  1.5%) :: 2. Dar força a
+quem trabalha e
+produz.
+[economia            ]    843 palavras (  2.7%) :: 2.1 Campo Forte: Agricultura
+Familiar e Agroindústria
+[economia            ]    944 palavras (  3.0%) :: 2.2 Bioeconomia, Cadeias e
+Novos Mercados
+[economia            ]   1218 palavras (  3.9%) :: 2.3 Trabalho, Negócios e
+Renda
+[economia            ]   1081 palavras (  3.4%) :: 2.4 Indústria, Comércio,
+Turismo e Inovação
+[assistencia_social  ]   1304 palavras (  4.1%) :: 2.5 Cultura, Esporte e
+Juventude
+[outros              ]    597 palavras (  1.9%) :: 3. Abrir caminhos
+para viver
+bem, produzir e
+preservar.
+[infraestrutura      ]   1008 palavras (  3.2%) :: 3.1 Rondônia Conectada:
+Energia e Internet
+[infraestrutura      ]   3032 palavras (  9.6%) :: 3.2 Estradas e Logística que
+Aproximam
+[infraestrutura      ]    853 palavras (  2.7%) :: 3.3 Água, Saneamento e
+Proteção Climática
+[meio_ambiente       ]    378 palavras (  1.2%) :: II Resíduos, proteção da água e adaptação
+climática
+[infraestrutura      ]   1494 palavras (  4.8%) :: 3.4 Moradia, Cidades e Terra
+Regular
+[meio_ambiente       ]   1038 palavras (  3.3%) :: 3.5 Floresta Viva e
+Desenvolvimento
+Responsável
+[outros              ]    448 palavras (  1.4%) :: 4. Governar para
+Entregar Mais.
+[economia            ]    845 palavras (  2.7%) :: 4.1 Ciência, Talentos e
+Inovação
+[gestao_publica      ]   1134 palavras (  3.6%) :: 4.2 Serviço Público que
+Resolve
+[gestao_publica      ]    809 palavras (  2.6%) :: 4.3 Contas em Ordem e Futuro
+Protegido
+[gestao_publica      ]   1383 palavras (  4.4%) :: 4.4 Planejar, Investir e Prestar
+Contas
+[gestao_publica      ]   1193 palavras (  3.8%) :: 4.5 Governo Íntegro e
+Municípios Fortes
+[outros              ]    108 palavras (  0.3%) :: Os primeiros
+100 dias
+[saude               ]    149 palavras (  0.5%) :: SAÚDE
+
+
+
+▪
+[educacao            ]     79 palavras (  0.3%) :: EDUCAÇÃO
+
+
+
+▪
+[seguranca           ]    116 palavras (  0.4%) :: SEGURANÇA PÚBLICA
+
+
+
+▪
+[gestao_publica      ]    105 palavras (  0.3%) :: GOVERNAR PARA ENTREGAR
+
+
+
+▪
+[outros              ]    266 palavras (  0.8%) :: O futuro de Rondônia
+começa com confiança.

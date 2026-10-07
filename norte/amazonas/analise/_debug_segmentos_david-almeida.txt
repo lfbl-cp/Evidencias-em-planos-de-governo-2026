@@ -1,0 +1,14 @@
+[outros              ]    9432 palavras ( 50.1%) :: [FRONT MATTER: capa/cabeçalho/intro]
+[gestao_publica      ]    1283 palavras (  6.8%) :: EIXO 1: GESTÃO PÚBLICA EFICIENTE E TRANSPARENTE
+[economia            ]    1543 palavras (  8.2%) :: EIXO 2: DESENVOLVIMENTO ECONÔMICO SUSTENTÁVEL E INOVAÇÃO
+[infraestrutura      ]     484 palavras (  2.6%) :: EIXO 3: INFRAESTRUTURA E LOGÍSTICA PARA A INTEGRAÇÃO REGIONAL
+[educacao            ]     800 palavras (  4.2%) :: EIXO 4: EDUCAÇÃO TRANSFORMADORA
+[saude               ]    1088 palavras (  5.8%) :: EIXO 5: SAÚDE DESCENTRALIZADA E REGONALIZADA
+[seguranca           ]     830 palavras (  4.4%) :: EIXO 6: SEGURANÇA INTEGRADA
+[assistencia_social  ]     794 palavras (  4.2%) :: EIXO 7: DESENVOLVIMENTO SOCIAL, CIDADANIA E DIREITOS HUMANOS
+[infraestrutura      ]     145 palavras (  0.8%) :: HABITAÇÃO E REGULARIZAÇÃO FUNDIÁRIA
+[assistencia_social  ]     164 palavras (  0.9%) :: ESPORTE E LAZER
+[meio_ambiente       ]     760 palavras (  4.0%) :: EIXO 8: MEIO AMBIENTE, SUSTENTABILIDADE E TRANSIÇÃO CLIMÁTICA
+[assistencia_social  ]      54 palavras (  0.3%) :: Meu Pet Amazonas
+[economia            ]    1109 palavras (  5.9%) :: EIXO 9: INTERIOR FORTE E SUSTENTÁVEL
+[outros              ]     344 palavras (  1.8%) :: 7. MENSAGEM FINAL

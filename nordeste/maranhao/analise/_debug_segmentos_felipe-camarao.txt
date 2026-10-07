@@ -1,0 +1,36 @@
+[outros              ]   4678 palavras :: [FRONT MATTER: carta de abertura/sumário/intro]
+[economia            ]    611 palavras :: O Maranhão ocupa, no desenvolvimento nacional, uma posição paradoxal
+[economia            ]    471 palavras :: Por matriz de desenvolvimento entende-se o arranjo dominante
+[economia            ]    595 palavras :: As matrizes existentes produzem um padrão de desigualdades
+[economia            ]    415 palavras :: Uma matriz socioeconômica não se caracteriza apenas pela riqueza
+[educacao            ]    272 palavras :: O capital humano: o gargalo educacional que trava
+[saude               ]    163 palavras :: A saúde: reproduzir a vida e a força de trabalho
+[seguranca           ]    288 palavras :: A violência letal: o custo humano e econômico que a matriz
+[infraestrutura      ]    217 palavras :: O passivo sanitário e habitacional: infraestrutura de vida
+[gestao_publica      ]    566 palavras :: A capacidade de Estado: a pré-condição de que a matriz saia
+[meio_ambiente       ]   1112 palavras :: Há um eixo que atravessa
+[assistencia_social  ]   1303 palavras :: Se o quadro social mostrou que o Maranhão movimenta riquezas
+[educacao            ]   4149 palavras :: O terceiro eixo transversal responde à pergunta
+[outros              ]     60 palavras :: Bloco 1 — Políticas finalísticas
+[educacao            ]     60 palavras :: 1. Escola Digna
+[educacao            ]     48 palavras :: 2. /EMA em todas as
+[educacao            ]     90 palavras :: 3. Maranhão que Aprende
+[saude               ]     85 palavras :: Maranhão Saúde para
+[saude               ]     71 palavras :: Culdado maternos Gestante
+[saude               ]     43 palavras :: 6. Sorfrir em toda a
+[assistencia_social  ]     94 palavras :: Instituir o programa estruturante Reconstruir a Cultura
+[seguranca           ]     71 palavras :: 8. Wikia Protegida
+[assistencia_social  ]    123 palavras :: 9. Pasto Maranianda
+[saude               ]     41 palavras :: 10, Maranhão de Todos
+[assistencia_social  ]     75 palavras :: 11, SUAS forte
+[infraestrutura      ]     70 palavras :: 12. Obras em todos os
+[assistencia_social  ]     98 palavras :: 14. Esporte em Todo Canto
+[assistencia_social  ]    892 palavras :: Bloco 2 — Combate às desigualdades e promoção da inclusão
+[economia            ]    594 palavras :: Bloco 3 — Desenvolvimento socioeconômico
+[meio_ambiente       ]    590 palavras :: Bloco 4 — Território, ambiente e povos
+[gestao_publica      ]   5431 palavras :: Bloco 5 — Capacidade de Estado
+[outros              ]    739 palavras :: Bloco 1. GARANTIR direitos fundamentais
+[assistencia_social  ]    794 palavras :: Bloco 2. PROMOVER igualdade e inclusão
+[economia            ]    521 palavras :: Bloco 3. DESENVOLVER trabalho e inovação
+[meio_ambiente       ]    548 palavras :: Bloco 4. FORTALECER territórios e povos
+[gestao_publica      ]    726 palavras :: Bloco 5. AMPLIAR a capacidade do Estado

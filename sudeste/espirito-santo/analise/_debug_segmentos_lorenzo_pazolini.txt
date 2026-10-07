@@ -1,0 +1,21 @@
+[outros              ]      0 palavras (  0.0%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[outros              ]    432 palavras (  3.8%) :: É TEMPO DE PAZ
+[outros              ]    286 palavras (  2.5%) :: Introdução
+[outros              ]    409 palavras (  3.6%) :: I - Espírito Santo das Pessoas
+[educacao            ]   1406 palavras ( 12.5%) :: 1.1 Educação
+[seguranca           ]    820 palavras (  7.3%) :: 1.2 Segurança Pública
+[saude               ]    835 palavras (  7.4%) :: 1.3 Saúde
+[assistencia_social  ]    630 palavras (  5.6%) :: 1.4 Assistência Social e Cidadania
+[assistencia_social  ]    484 palavras (  4.3%) :: 1.5 Esporte e Lazer
+[outros              ]    368 palavras (  3.3%) :: II - Espírito Santo Competitivo
+[economia            ]    889 palavras (  7.9%) :: 2.1 Economia, Emprego e Renda
+[economia            ]    435 palavras (  3.9%) :: 2.2 Agricultura, Aquicultura e Pesca
+[economia            ]    506 palavras (  4.5%) :: 2.3 Turismo, Cultura e Economia Criativa
+[economia            ]    513 palavras (  4.6%) :: 2.4 Ciência, Tecnologia e Inovação
+[infraestrutura      ]    533 palavras (  4.7%) :: 2.5 Infraestrutura e Mobilidade
+[outros              ]    303 palavras (  2.7%) :: III - Espírito Santo Sustentável
+[infraestrutura      ]    516 palavras (  4.6%) :: 3.1 Urbanismo, Saneamento e Habitação
+[meio_ambiente       ]    658 palavras (  5.9%) :: 3.2 Meio Ambiente e Sustentabilidade
+[outros              ]    305 palavras (  2.7%) :: IV – Espírito Santo que entrega
+[gestao_publica      ]    534 palavras (  4.8%) :: 4.1 Governança, Gestão e Estratégia
+[gestao_publica      ]    362 palavras (  3.2%) :: 4.2 Tecnologia e Inovação na Gestão

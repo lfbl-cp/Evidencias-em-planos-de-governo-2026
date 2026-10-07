@@ -1,0 +1,29 @@
+[outros              ]    551 palavras (  4.5%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[assistencia_social  ]    377 palavras (  3.1%) :: FAMÍLIA
+[assistencia_social  ]    551 palavras (  4.5%) :: MULHERES
+[assistencia_social  ]    275 palavras (  2.2%) :: PESSOA IDOSA
+[assistencia_social  ]    386 palavras (  3.2%) :: JUVENTUDE
+[assistencia_social  ]    303 palavras (  2.5%) :: PESSOAS COM DEFICIÊNCIA, ACESSIBILIDADE E INCLUSÃO
+[assistencia_social  ]    319 palavras (  2.6%) :: DESENVOLVIMENTO SOCIAL E SUPERAÇÃO DAS VULNERABILIDADES
+[assistencia_social  ]    178 palavras (  1.5%) :: SEGURANÇA ALIMENTAR
+[saude               ]    525 palavras (  4.3%) :: SAÚDE 
+[educacao            ]    643 palavras (  5.3%) :: EDUCAÇÃO 
+[seguranca           ]    544 palavras (  4.4%) :: SEGURANÇA PÚBLICA
+[assistencia_social  ]    404 palavras (  3.3%) :: ESPORTE E LAZER
+[assistencia_social  ]    230 palavras (  1.9%) :: IGUALDADE, RESPEITO E CIDADANIA
+[infraestrutura      ]    382 palavras (  3.1%) :: HABITAÇÃO E REGULARIZAÇÃO FUNDIÁRIA
+[infraestrutura      ]    511 palavras (  4.2%) :: INFRAESTRUTURA, SANEAMENTO, ILUMINAÇÃO E OBRAS PÚBLICAS
+[infraestrutura      ]    532 palavras (  4.3%) :: MOBILIDADE URBANA
+[meio_ambiente       ]    555 palavras (  4.5%) :: SUSTENTABILIDADE E MEIO AMBIENTE
+[assistencia_social  ]    309 palavras (  2.5%) :: PROTEÇÃO ANIMAL
+[economia            ]    541 palavras (  4.4%) :: DESENVOLVIMENTO ECONÔMICO, TRABALHO E RENDA
+[economia            ]    373 palavras (  3.0%) :: FEIRAS
+[economia            ]    541 palavras (  4.4%) :: AGRICULTURA
+[economia            ]    351 palavras (  2.9%) :: TURISMO
+[assistencia_social  ]    459 palavras (  3.8%) :: CULTURA E ECONOMIA CRIATIVA
+[economia            ]    502 palavras (  4.1%) :: PATRIMÔNIO ESTRATÉGICO
+[gestao_publica      ]    307 palavras (  2.5%) :: ENTORNO
+[gestao_publica      ]    467 palavras (  3.8%) :: GESTÃO DE PESSOAS E VALORIZAÇÃO DOS SERVIDORES
+[gestao_publica      ]    403 palavras (  3.3%) :: TRANSFORMAÇÃO DIGITAL, GOVERNO INTELIGENTE E INOVAÇÃO
+[gestao_publica      ]    312 palavras (  2.6%) :: PLANEJAMENTO, ORÇAMENTO, GESTÃO E GOVERNANÇA
+[gestao_publica      ]    400 palavras (  3.3%) :: SOCIEDADE CIVIL E GOVERNO DE PROXIMIDADE

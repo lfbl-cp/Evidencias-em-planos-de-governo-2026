@@ -1,0 +1,8 @@
+[outros              ]   1519 palavras ( 12.2%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[economia            ]   2097 palavras ( 16.8%) :: EIXO 1
+[infraestrutura      ]   2074 palavras ( 16.6%) :: EIXO 2
+[educacao            ]   1109 palavras (  8.9%) :: EIXO 3
+[assistencia_social  ]   1937 palavras ( 15.5%) :: EIXO 4
+[saude               ]   1612 palavras ( 12.9%) :: EIXO 5
+[seguranca           ]    916 palavras (  7.3%) :: EIXO 6
+[gestao_publica      ]   1233 palavras (  9.9%) :: EIXO 7

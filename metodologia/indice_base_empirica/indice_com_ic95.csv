@@ -1,0 +1,58 @@
+estado,nome,indice_pct,n_classificado,ic95_wilson_lo,ic95_wilson_hi,ic95_largura
+distrito-federal,Celina Leão,0.4,283,0.06,1.97,1.91
+distrito-federal,José Roberto Arruda,1.4,732,0.74,2.5,1.76
+goias,Daniel Vilela,5.4,352,3.48,8.28,4.8
+goias,Marconi Perillo,1.0,398,0.39,2.56,2.17
+mato-grosso-do-sul,Eduardo Riedel,2.5,361,1.32,4.67,3.35
+mato-grosso-do-sul,Fábio Trad,4.0,226,2.11,7.39,5.28
+mato-grosso,Otaviano Pivetta,3.2,284,1.68,5.91,4.23
+mato-grosso,Wellington Fagundes,2.3,171,0.91,5.86,4.95
+alagoas,João Henrique Caldas (JHC),10.1,119,5.86,16.8,10.94
+alagoas,Renan Filho,0.0,18,0,17.59,17.59
+bahia,Jerônimo Rodrigues,2.8,284,1.43,5.46,4.03
+bahia,ACM Neto,25.6,387,21.49,30.15,8.66
+ceara,Elmano de Freitas,1.4,492,0.69,2.91,2.22
+ceara,Ciro Gomes,0.0,179,0,2.1,2.1
+maranhao,Orleans Brandão,3.1,97,1.06,8.7,7.64
+maranhao,Eduardo Braide,3.7,27,0.66,18.28,17.62
+maranhao,Felipe Camarão,19.3,218,14.58,25.02,10.44
+pernambuco,Raquel Lyra,4.0,397,2.5,6.45,3.95
+pernambuco,João Campos,0.5,198,0.09,2.8,2.71
+piaui,Rafael Fonteles,10.0,219,6.73,14.74,8.01
+piaui,Joel Rodrigues,1.5,342,0.63,3.38,2.75
+rio-grande-do-norte,Allyson Bezerra,1.2,86,0.21,6.3,6.09
+rio-grande-do-norte,Álvaro Dias,1.7,523,0.91,3.24,2.33
+rio-grande-do-norte,Cadu Xavier,0.4,257,0.07,2.17,2.1
+sergipe,Fábio Mitidieri,3.0,168,1.28,6.78,5.5
+sergipe,Valmir de Francisquinho,1.9,477,1.0,3.55,2.55
+acre,Mailza Assis,0.5,579,0.18,1.51,1.33
+acre,Alan Rick,3.1,192,1.44,6.65,5.21
+amapa,Clécio Luís,0.6,174,0.1,3.18,3.08
+amapa,Dr. Furlan,2.3,391,1.22,4.32,3.1
+amazonas,Omar Aziz,18.5,4704,17.45,19.67,2.22
+amazonas,Roberto Cidade,1.6,63,0.28,8.46,8.18
+amazonas,David Almeida,4.9,306,2.99,7.93,4.94
+para,Hana Ghassan,2.9,308,1.54,5.46,3.92
+para,Dr. Daniel Santos,0.3,355,0.05,1.58,1.53
+rondonia,Adailton Fúria,3.9,335,2.28,6.53,4.25
+rondonia,Marcos Rogério,8.1,459,5.9,10.91,5.01
+rondonia,Hildon Chaves,0.9,559,0.38,2.08,1.7
+tocantins,Professora Dorinha,4.3,301,2.54,7.25,4.71
+tocantins,Vicentinho Júnior,3.6,110,1.42,8.98,7.56
+espirito-santo,Ricardo Ferraço,2.0,650,1.17,3.39,2.22
+espirito-santo,Lorenzo Pazolini,4.3,187,2.18,8.21,6.03
+minas-gerais,Cleitinho Azevedo,1.8,55,0.32,9.61,9.29
+minas-gerais,Alexandre Kalil,0.4,506,0.11,1.43,1.32
+rio-de-janeiro,Douglas Ruas,1.0,97,0.18,5.61,5.43
+sao-paulo,Tarcísio de Freitas,4.2,285,2.42,7.21,4.79
+sao-paulo,Fernando Haddad,3.0,33,0.54,15.32,14.78
+parana,Sergio Moro,1.1,276,0.37,3.15,2.78
+parana,Requião Filho,0.0,41,0,8.57,8.57
+parana,Sandro Alex,3.4,933,2.44,4.8,2.36
+rio-grande-do-sul,Luciano Zucco,3.2,373,1.85,5.54,3.69
+rio-grande-do-sul,Juliana Brizola,2.2,186,0.84,5.4,4.56
+santa-catarina,Jorginho Mello,1.9,54,0.33,9.77,9.44
+santa-catarina,João Rodrigues,3.5,114,1.37,8.68,7.31
+PB(piloto),Cícero Lucena,15.1,166,10.41,21.29,10.88
+PB(piloto),Efraim Filho,0.9,114,0.16,4.8,4.64
+PB(piloto),Lucas Ribeiro,0.0,82,0,4.48,4.48

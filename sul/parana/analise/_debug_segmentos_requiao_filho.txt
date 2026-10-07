@@ -1,0 +1,13 @@
+[outros              ]    441 palavras ( 11.4%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[gestao_publica      ]    307 palavras (  7.9%) :: 1. Governo presente para cuidar das pessoas e proteger
+[gestao_publica      ]    282 palavras (  7.3%) :: 2. Apoio aos municípios e desenvolvimento regional
+[saude               ]    308 palavras (  7.9%) :: 3. Saúde pública e regionalização do atendimento
+[educacao            ]    344 palavras (  8.9%) :: 4. Educação, ciência e ensino superior
+[seguranca           ]    289 palavras (  7.4%) :: 5. Segurança pública, justiça e defesa civil
+[economia            ]    261 palavras (  6.7%) :: 6. Trabalho, renda e desenvolvimento econômico
+[economia            ]    264 palavras (  6.8%) :: 7. Agricultura e desenvolvimento rural
+[infraestrutura      ]    284 palavras (  7.3%) :: 8. Infraestrutura, logística e mobilidade
+[infraestrutura      ]    266 palavras (  6.8%) :: 9. Habitação, cidades e planejamento urbano
+[meio_ambiente       ]    266 palavras (  6.8%) :: 10. Meio ambiente, água, saneamento e clima
+[assistencia_social  ]    280 palavras (  7.2%) :: 11. Proteção social, igualdade, direitos e ciclos de vida
+[assistencia_social  ]    293 palavras (  7.5%) :: 12. Cultura, esporte e turismo

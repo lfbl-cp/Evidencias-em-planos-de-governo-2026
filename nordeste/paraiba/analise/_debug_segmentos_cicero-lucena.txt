@@ -1,0 +1,34 @@
+[outros              ]   1428 palavras (  8.3%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[outros              ]     16 palavras (  0.1%) :: SÍNTESE DO PLANO — OS COMPROMISSOS COM A PARAÍBA
+[outros              ]    269 palavras (  1.6%) :: 1. O PONTO DE PARTIDA
+[seguranca           ]    179 palavras (  1.0%) :: 2.1 SEGURANÇA COM VALORIZAÇÃO PROFISSIONAL, INTELIGÊNCIA, PREVENÇÃO E RESPOSTA
+[saude               ]    145 palavras (  0.8%) :: 2.2 DESCENTRALIZAÇÃO DA SAÚDE: FILA MENOR, CUIDADO MAIS PERTO
+[educacao            ]    111 palavras (  0.6%) :: 2.3 ESCOLA DO FUTURO: PARA APRENDER, PERMANECER E TRABALHAR
+[educacao            ]    176 palavras (  1.0%) :: 2.4 EDUCAÇÃO SUPERIOR: UEPB PROTAGONISTA DO DESENVOLVIMENTO
+[economia            ]    151 palavras (  0.9%) :: 2.5 MAIS EMPREGOS E NOVOS NEGÓCIOS, NUMA ECONOMIA POR COMPETÊNCIAS
+[gestao_publica      ]     90 palavras (  0.5%) :: 2.6 GOVERNO MUNICIPALISTA E DIGITAL
+[infraestrutura      ]    162 palavras (  0.9%) :: 2.7 A PARAÍBA COM SEGURANÇA HÍDRICA
+[infraestrutura      ]    122 palavras (  0.7%) :: 2.8 CRONOGRAMA DE OBRAS POR UMA PARAÍBA INTEGRADA
+[meio_ambiente       ]    142 palavras (  0.8%) :: 3. PARAÍBA VERDE: SUSTENTABILIDADE E RESPEITO AO MEIO AMBIENTE
+[outros              ]    116 palavras (  0.7%) :: 4. AS TRÊS FORMAS DE EXECUTAR O QUE ESTE PLANO PROPÕE
+[outros              ]      2 palavras (  0.0%) :: EIXOS TEMÁTICOS
+[seguranca           ]   1207 palavras (  7.0%) :: EIXO 1 — SEGURANÇA PÚBLICA E DEFESA SOCIAL
+[saude               ]   2143 palavras ( 12.4%) :: EIXO 2 — SAÚDE
+[educacao            ]    288 palavras (  1.7%) :: EIXO 3 — EDUCAÇÃO E CULTURA
+[assistencia_social  ]    185 palavras (  1.1%) :: Compromissos com a cultura:
+[educacao            ]   1013 palavras (  5.9%) :: Propostas, Programas e Ações
+[assistencia_social  ]    349 palavras (  2.0%) :: Cultura: financiamento e fomento
+[infraestrutura      ]    465 palavras (  2.7%) :: EIXO 4 — RECURSOS HÍDRICOS
+[economia            ]   1063 palavras (  6.2%) :: EIXO 5 — AGRICULTURA, PESCA E DESENVOLVIMENTO RURAL
+[assistencia_social  ]    531 palavras (  3.1%) :: EIXO 6 — ASSISTÊNCIA SOCIAL E COMBATE À POBREZA
+[economia            ]    511 palavras (  3.0%) :: EIXO 7 — CIÊNCIA, TECNOLOGIA E INOVAÇÃO
+[economia            ]   1244 palavras (  7.2%) :: EIXO 8 — DESENVOLVIMENTO ECONÔMICO, RECURSOS MINERAIS E EMPREENDEDORISMO
+[assistencia_social  ]    575 palavras (  3.3%) :: EIXO 9 — DIREITOS HUMANOS, MULHERES E INCLUSÃO SOCIAL
+[assistencia_social  ]    644 palavras (  3.7%) :: EIXO 10 — ESPORTE E LAZER
+[gestao_publica      ]    498 palavras (  2.9%) :: EIXO 11 — GESTÃO PÚBLICA, GOVERNANÇA E TRANSFORMAÇÃO DIGITAL
+[infraestrutura      ]    676 palavras (  3.9%) :: EIXO 12 — HABITAÇÃO, URBANISMO E DESENVOLVIMENTO REGIONAL
+[infraestrutura      ]    729 palavras (  4.2%) :: EIXO 13 — INFRAESTRUTURA, MOBILIDADE E LOGÍSTICA
+[meio_ambiente       ]    614 palavras (  3.6%) :: EIXO 14 — MEIO AMBIENTE E SUSTENTABILIDADE
+[economia            ]    683 palavras (  4.0%) :: EIXO 15 — TURISMO, ECONOMIA CRIATIVA E EVENTOS
+[assistencia_social  ]    704 palavras (  4.1%) :: EIXO 16 — PROTEÇÃO E BEM-ESTAR ANIMAL
+[outros              ]     41 palavras (  0.2%) :: CONSIDERAÇÕES FINAIS

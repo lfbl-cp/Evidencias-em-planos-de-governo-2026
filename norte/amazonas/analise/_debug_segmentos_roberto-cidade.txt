@@ -1,0 +1,47 @@
+[outros              ]     621 palavras (  8.7%) :: [FRONT MATTER: capa/cabeçalho/intro]
+[seguranca           ]     108 palavras (  1.5%) :: COMPROMISSO 01
+[seguranca           ]     114 palavras (  1.6%) :: COMPROMISSO 02
+[seguranca           ]     104 palavras (  1.5%) :: COMPROMISSO 03
+[seguranca           ]     102 palavras (  1.4%) :: COMPROMISSO 04
+[seguranca           ]     117 palavras (  1.6%) :: COMPROMISSO 05
+[seguranca           ]     104 palavras (  1.5%) :: COMPROMISSO 06
+[seguranca           ]     124 palavras (  1.7%) :: COMPROMISSO 07
+[seguranca           ]     106 palavras (  1.5%) :: COMPROMISSO 08
+[seguranca           ]     125 palavras (  1.8%) :: COMPROMISSO 09
+[seguranca           ]     252 palavras (  3.5%) :: COMPROMISSO 10
+[saude               ]     122 palavras (  1.7%) :: COMPROMISSO 11
+[saude               ]      94 palavras (  1.3%) :: COMPROMISSO 12
+[saude               ]     109 palavras (  1.5%) :: COMPROMISSO 13
+[saude               ]     103 palavras (  1.4%) :: COMPROMISSO 14
+[saude               ]     117 palavras (  1.6%) :: COMPROMISSO 15
+[saude               ]     125 palavras (  1.8%) :: COMPROMISSO 16
+[saude               ]     114 palavras (  1.6%) :: COMPROMISSO 17
+[saude               ]     126 palavras (  1.8%) :: COMPROMISSO 18
+[saude               ]     143 palavras (  2.0%) :: COMPROMISSO 19
+[educacao            ]     111 palavras (  1.6%) :: COMPROMISSO 20
+[educacao            ]     124 palavras (  1.7%) :: COMPROMISSO 21
+[educacao            ]     125 palavras (  1.8%) :: COMPROMISSO 22
+[educacao            ]     117 palavras (  1.6%) :: COMPROMISSO 23
+[gestao_publica      ]     244 palavras (  3.4%) :: COMPROMISSO 24
+[assistencia_social  ]     160 palavras (  2.2%) :: COMPROMISSO 25
+[assistencia_social  ]     138 palavras (  1.9%) :: COMPROMISSO 26
+[assistencia_social  ]     132 palavras (  1.9%) :: COMPROMISSO 27
+[assistencia_social  ]     127 palavras (  1.8%) :: COMPROMISSO 28
+[assistencia_social  ]     129 palavras (  1.8%) :: COMPROMISSO 29
+[assistencia_social  ]     119 palavras (  1.7%) :: COMPROMISSO 30
+[assistencia_social  ]     120 palavras (  1.7%) :: COMPROMISSO 31
+[infraestrutura      ]     225 palavras (  3.2%) :: COMPROMISSO 32
+[economia            ]     129 palavras (  1.8%) :: COMPROMISSO 33
+[economia            ]     209 palavras (  2.9%) :: COMPROMISSO 34
+[economia            ]     105 palavras (  1.5%) :: COMPROMISSO 35
+[economia            ]     250 palavras (  3.5%) :: COMPROMISSO 36
+[economia            ]     119 palavras (  1.7%) :: COMPROMISSO 37
+[economia            ]     193 palavras (  2.7%) :: COMPROMISSO 38
+[economia            ]     108 palavras (  1.5%) :: COMPROMISSO 39
+[economia            ]     264 palavras (  3.7%) :: COMPROMISSO 40
+[assistencia_social  ]     258 palavras (  3.6%) :: COMPROMISSO 41
+[meio_ambiente       ]     229 palavras (  3.2%) :: COMPROMISSO 42
+[infraestrutura      ]     152 palavras (  2.1%) :: COMPROMISSO 43
+[infraestrutura      ]     141 palavras (  2.0%) :: COMPROMISSO 44
+[gestao_publica      ]     103 palavras (  1.4%) :: governo ⏎  QUEENTREGA
+[outros              ]      58 palavras (  0.8%) :: COMPROMISSOS ⏎       UM SÓ PROPÓSITO

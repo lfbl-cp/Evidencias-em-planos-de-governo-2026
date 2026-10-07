@@ -1,0 +1,29 @@
+[outros              ]    328 palavras (  1.8%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[outros              ]    637 palavras (  3.4%) :: APRESENTAÇÃO
+[outros              ]    251 palavras (  1.4%) :: CONTEXTOS E AVANÇOS
+[assistencia_social  ]    247 palavras (  1.3%) :: AMPLIAÇÃO DA PROTEÇÃO SOCIAL
+[gestao_publica      ]    297 palavras (  1.6%) :: FORTALECIMENTO DAS INSTITUIÇÕES PÚBLICAS E
+[seguranca           ]    238 palavras (  1.3%) :: SEGURANÇA PÚBLICA
+[saude               ]    221 palavras (  1.2%) :: SAÚDE PÚBLICA
+[educacao            ]    352 palavras (  1.9%) :: EDUCAÇÃO É A BASE PARA A SOCIEDADE DO CONHECIMENTO
+[assistencia_social  ]    316 palavras (  1.7%) :: CULTURA COMO VETOR ECONÔMICO E IDENTITÁRIO
+[infraestrutura      ]    679 palavras (  3.7%) :: INVESTIMENTO EM INFRAESTRUTURAS
+[outros              ]    635 palavras (  3.4%) :: Os avanços alcançados nos últimos anos constituem uma base sólida
+[gestao_publica      ]    773 palavras (  4.2%) :: GESTÃO ESTRATÉGICA, GOVERNANÇA INTERFEDERA-
+[assistencia_social  ]   1911 palavras ( 10.3%) :: ACOLHIMENTO, PROTEÇÃO SOCIAL E CUIDADOS
+[seguranca           ]   1062 palavras (  5.7%) :: SEGURANÇA PÚBLICA E PREVENÇÃO ÀS VIOLÊNCIAS
+[economia            ]   2435 palavras ( 13.2%) :: DESENVOLVIMENTO ECONÔMICO E INCLUSÃO
+[meio_ambiente       ]   1342 palavras (  7.2%) :: RESILIÊNCIA AMBIENTAL E
+[assistencia_social  ]    291 palavras (  1.6%) :: PROTEÇÃO E BEM-ESTAR ANIMAL
+[infraestrutura      ]    440 palavras (  2.4%) :: SEGURANÇA HÍDRICA E SANEAMENTO AMBIENTAL
+[infraestrutura      ]    248 palavras (  1.3%) :: GOVERNANÇA FUNDIÁRIA E TITULAÇÃO DE TERRAS
+[infraestrutura      ]    237 palavras (  1.3%) :: HABITAÇÃO
+[infraestrutura      ]    112 palavras (  0.6%) :: CIDADES SUSTENTÁVEIS
+[infraestrutura      ]    178 palavras (  1.0%) :: MOBILIDADE, ACESSIBILIDADE, TRANSPORTE PÚBLICO E
+[saude               ]   1210 palavras (  6.5%) :: PROMOÇÃO DA SAÚDE, BEM-ESTAR E ENVELHECI-
+[assistencia_social  ]    152 palavras (  0.8%) :: SEGURANÇA ALIMENTAR E NUTRICIONAL
+[infraestrutura      ]     96 palavras (  0.5%) :: SEGURANÇA VIÁRIA
+[assistencia_social  ]     55 palavras (  0.3%) :: BEM-ESTAR
+[assistencia_social  ]    535 palavras (  2.9%) :: ESPORTE
+[educacao            ]   2178 palavras ( 11.8%) :: EDUCAÇÃO TRANSFORMADORA, VALORIZAÇÃO DA
+[assistencia_social  ]   1061 palavras (  5.7%) :: CULTURA E PATRIMÔNIO

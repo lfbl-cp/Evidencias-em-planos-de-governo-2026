@@ -1,0 +1,50 @@
+[outros              ]    349 palavras (  2.3%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[outros              ]    631 palavras (  4.2%) :: INTRODUÇÃO
+[outros              ]     93 palavras (  0.6%) :: O QUE FOI FEITO
+[economia            ]    439 palavras (  2.9%) :: Economia e Competitividade
+[assistencia_social  ]    305 palavras (  2.0%) :: Redução da Pobreza e Inclusão Social
+[saude               ]    110 palavras (  0.7%) :: Saúde Pública
+[educacao            ]    124 palavras (  0.8%) :: Educação
+[seguranca           ]     90 palavras (  0.6%) :: Segurança Pública
+[gestao_publica      ]     83 palavras (  0.6%) :: Governança e Modernização do Estado
+[infraestrutura      ]    254 palavras (  1.7%) :: Infraestrutura e Logística
+[meio_ambiente       ]    217 palavras (  1.4%) :: Meio Ambiente
+[infraestrutura      ]    164 palavras (  1.1%) :: MS Ativo Municipalismo
+[infraestrutura      ]    100 palavras (  0.7%) :: Saneamento e Sustentabilidade
+[assistencia_social  ]    125 palavras (  0.8%) :: Ensino Superior e Programas Sociais
+[outros              ]    172 palavras (  1.1%) :: Números que Resumem o Mandato
+[outros              ]    284 palavras (  1.9%) :: Mas a obra não está concluída
+[outros              ]    615 palavras (  4.1%) :: sta dimensão reúne o conjunto de políticas
+[seguranca           ]    372 palavras (  2.5%) :: 1.1 SEGURANÇA PÚBLICA, JUSTIÇA E PREVENÇÃO DA VIOLÊNCIA
+[assistencia_social  ]    555 palavras (  3.7%) :: 1.2 PROTEÇÃO SOCIAL, CIDADANIA, EQUIDADE E INCLUSÃO PRODUTIVA
+[saude               ]    304 palavras (  2.0%) :: 1.3 SAÚDE PÚBLICA, REGIONALIZAÇÃO, SAÚDE DIGITAL E VIGILÂNCIA EM SAÚDE
+[educacao            ]    410 palavras (  2.7%) :: 1.4 EDUCAÇÃO BÁSICA, TÉCNICA E PROFISSIONAL
+[assistencia_social  ]    240 palavras (  1.6%) :: 1.5 CULTURA, PATRIMÔNIO, ECONOMIA CRIATIVA E DESENVOLVIMENTO COMUNITÁRIO
+[assistencia_social  ]    472 palavras (  3.1%) :: 1.6 ESPORTE, JUVENTUDE E DESENVOLVIMENTO HUMANO
+[outros              ]    629 palavras (  4.2%) :: ato Grosso do Sul vive um novo ciclo de
+[economia            ]    291 palavras (  1.9%) :: 2.1 CIÊNCIA, TECNOLOGIA E ECOSSISTEMAS DE INOVAÇÃO
+[economia            ]    392 palavras (  2.6%) :: 2.2 EMPREGO, RENDA E QUALIFICAÇÃO PROFISSIONAL
+[economia            ]    407 palavras (  2.7%) :: 2.3 AGROPECUÁRIA, AGROINDÚSTRIA E AGRO 5.0
+[economia            ]    213 palavras (  1.4%) :: 2.4 INDÚSTRIA, COMÉRCIO E SERVIÇOS
+[economia            ]    250 palavras (  1.7%) :: 2.5 TURISMO DE NATUREZA, CULTURAL E DE NEGÓCIOS
+[economia            ]    222 palavras (  1.5%) :: 2.6 BIOECONOMIA, ECONOMIA VERDE E ECONOMIA CIRCULAR
+[economia            ]    389 palavras (  2.6%) :: 2.7 AMBIENTE DE NEGÓCIOS, COMPETITIVIDADE E TRANSFORMAÇÃO ECONÔMICA
+[outros              ]    414 palavras (  2.8%) :: sta dimensão reúne as políticas responsáveis pela
+[infraestrutura      ]    276 palavras (  1.8%) :: 3.1 LOGÍSTICA E INTEGRAÇÃO TERRITORIAL
+[infraestrutura      ]    294 palavras (  2.0%) :: 3.2 CIDADES, HABITAÇÃO E DESENVOLVIMENTO URBANO
+[infraestrutura      ]    234 palavras (  1.6%) :: 3.3 SANEAMENTO BÁSICO E RESÍDUOS SÓLIDOS
+[meio_ambiente       ]    242 palavras (  1.6%) :: 3.4 CLIMA, ENERGIA E TRANSIÇÃO ENERGÉTICA
+[infraestrutura      ]    206 palavras (  1.4%) :: 3.5 CONECTIVIDADE DIGITAL E INFRAESTRUTURA TECNOLÓGICA
+[meio_ambiente       ]    203 palavras (  1.4%) :: 3.6 PROTEÇÃO E VALORIZAÇÃO DOS ATIVOS AMBIENTAIS, CONSERVAÇÃO E BIODIVER-
+[infraestrutura      ]    226 palavras (  1.5%) :: 3.7 RECURSOS HÍDRICOS E SEGURANÇA HÍDRICA
+[meio_ambiente       ]    256 palavras (  1.7%) :: 3.8 LICENCIAMENTO AMBIENTAL, GESTÃO TERRITORIAL E SEGURANÇA JURÍDICA
+[outros              ]    243 palavras (  1.6%) :: sta dimensão é voltada ao fortalecimento
+[gestao_publica      ]    344 palavras (  2.3%) :: 4.1 GOVERNANÇA E GESTÃO PÚBLICA ORIENTADA A RESULTADOS
+[gestao_publica      ]    336 palavras (  2.2%) :: 4.2 TRANSFORMAÇÃO DIGITAL E EXPERIÊNCIA DO CIDADÃO
+[gestao_publica      ]    210 palavras (  1.4%) :: 4.3 DADOS, INTELIGÊNCIA E MONITORAMENTO
+[gestao_publica      ]   1270 palavras (  8.5%) :: 4.4 GESTÃO FISCAL E EFICIÊNCIA DO GASTO PÚBLICO
+[gestao_publica      ]    244 palavras (  1.6%) :: 4.5 TRANSPARÊNCIA, INTEGRIDADE E CONTROLE
+[gestao_publica      ]    199 palavras (  1.3%) :: 4.6 GESTÃO DE PESSOAS E LIDERANÇA PÚBLICA
+[gestao_publica      ]    198 palavras (  1.3%) :: 4.7 COMPRAS PÚBLICAS E GESTÃO CONTRATUAL
+[outros              ]    293 palavras (  2.0%) :: O Compromisso
+que Organiza Tudo

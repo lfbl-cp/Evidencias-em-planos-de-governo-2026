@@ -1,0 +1,19 @@
+[outros              ]    295 palavras :: [FRONT MATTER: carta de abertura/sumário/intro]
+[gestao_publica      ]    367 palavras :: GESTÃO E PLANEJAMENTO
+[economia            ]    528 palavras :: ATRAÇÃO DE INVESTIMENTOS E INOVAÇÃO
+[seguranca           ]    712 palavras :: SEGURANÇA PÚBLICA E DEFESA CIVIL
+[infraestrutura      ]    320 palavras :: INFRAESTRUTURA E LOGÍSTICA
+[infraestrutura      ]    207 palavras :: MOBILIDADE URBANA
+[infraestrutura      ]    182 palavras :: CIDADES
+[saude               ]    897 palavras :: SAÚDE
+[educacao            ]    803 palavras :: EDUCAÇÃO
+[assistencia_social  ]    254 palavras :: PRIMEIRA INFÂNCIA
+[economia            ]    481 palavras :: PRODUÇÃO, TRABALHO E RENDA
+[meio_ambiente       ]    362 palavras :: MEIO AMBIENTE E SUSTENTABILIDADE
+[economia            ]    220 palavras :: TURISMO
+[assistencia_social  ]    356 palavras :: CULTURA
+[assistencia_social  ]    178 palavras :: ESPORTE
+[assistencia_social  ]    367 palavras :: JUVENTUDE
+[assistencia_social  ]    456 palavras :: DESENVOLVIMENTO SOCIAL E DIREITOS HUMANOS
+[assistencia_social  ]    166 palavras :: COMBATE À FOME E ERRADICAÇÃO DA POBREZA
+[assistencia_social  ]    129 palavras :: PROTEÇÃO E BEM-ESTAR ANIMAL

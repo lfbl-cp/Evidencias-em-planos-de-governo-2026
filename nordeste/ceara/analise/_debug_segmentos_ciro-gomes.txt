@@ -1,0 +1,37 @@
+[outros              ]   1223 palavras ( 13.4%) :: [FRONT MATTER: carta de abertura/sumário/intro]
+[outros              ]    120 palavras (  1.3%) :: EIXO 01
+[saude               ]     98 palavras (  1.1%) :: O Ceará construiu, ao longo das últimas décadas, experiências
+[educacao            ]     77 palavras (  0.8%) :: Na educação, o Ceará tornou-se referência nacional ao construir
+[educacao            ]    123 palavras (  1.4%) :: Embora os indicadores de aprendizagem permaneçam satisfatórios,
+[educacao            ]     74 palavras (  0.8%) :: A ciência, a tecnologia e a inovação passaram a representar fatores
+[educacao            ]     78 palavras (  0.9%) :: A educação superior também enfrenta novos desafios.
+[outros              ]     81 palavras (  0.9%) :: As transformações tecnológicas em curso
+[educacao            ]     71 palavras (  0.8%) :: Analisar a implantação de Centros de Ciências e Descobrimento,
+[saude               ]    114 palavras (  1.3%) :: Apesar desses avanços, observa-se um processo de perda inequívoca
+[saude               ]     24 palavras (  0.3%) :: eletrônico estadual, inteligência de dados e monitoramento
+[educacao            ]     88 palavras (  1.0%) :: Na educação, iniciaremos uma nova geração de políticas
+[educacao            ]     52 palavras (  0.6%) :: A ciência, a tecnologia e a inovação passarão a ocupar posição
+[saude               ]     71 palavras (  0.8%) :: Na saúde, fortaleceremos a regionalização do Sistema Único de
+[outros              ]      6 palavras (  0.1%) :: desenvolvimento humano e econômico do Ceará.
+[outros              ]     62 palavras (  0.7%) :: O Ceará que queremos é um Estado que cuida das pessoas desde
+[educacao            ]     37 palavras (  0.4%) :: As universidades estaduais serão valorizadas como patrimônio
+[outros              ]     42 palavras (  0.5%) :: Promoveremos uma ampla transformação digital dos sistemas de
+[outros              ]     23 palavras (  0.3%) :: Nosso governo promoverá uma nova etapa de desenvolvimento
+[assistencia_social  ]   1194 palavras ( 13.1%) :: EIXO 02
+[economia            ]    373 palavras (  4.1%) :: EIXO 03
+[economia            ]     94 palavras (  1.0%) :: No campo, os desafios permanecem igualmente significativos.
+[economia            ]     85 palavras (  0.9%) :: O turismo, uma das principais vocações econômicas do Ceará,
+[economia            ]     93 palavras (  1.0%) :: Nos últimos anos, a iniciativa privada cearense abriu caminhos
+[meio_ambiente       ]     96 palavras (  1.1%) :: Os desafios ambientais também se tornaram mais complexos.
+[infraestrutura      ]    101 palavras (  1.1%) :: A segurança hídrica continuará sendo uma das questões estratégicas
+[economia            ]    157 palavras (  1.7%) :: As transformações econômicas em curso no mundo representam
+[economia            ]     42 palavras (  0.5%) :: Consolidaremos o Complexo Industrial e Portuário do Pecém
+[economia            ]     44 palavras (  0.5%) :: Fortaleceremos o desenvolvimento do interior do Estado,
+[economia            ]     57 palavras (  0.6%) :: O desenvolvimento agrário será tratado como política estratégica de
+[economia            ]     59 palavras (  0.6%) :: O turismo passará a ser desenvolvido como política permanente
+[meio_ambiente       ]    189 palavras (  2.1%) :: A política ambiental será orientada pelo princípio do desenvolvimento
+[infraestrutura      ]     49 palavras (  0.5%) :: A segurança hídrica continuará sendo prioridade estratégica
+[outros              ]     86 palavras (  0.9%) :: O Ceará reúne todas as condições para voltar a liderar o
+[infraestrutura      ]   1053 palavras ( 11.6%) :: EIXO 04
+[seguranca           ]   1624 palavras ( 17.8%) :: EIXO 05
+[gestao_publica      ]   1243 palavras ( 13.7%) :: EIXO 06
