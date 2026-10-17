@@ -1,0 +1,13 @@
+# Dados brutos grandes e/ou regeneraveis -- nao versionados (ver nota abaixo)
+propostas/
+dados_tse/
+
+# Cache de execucao Python
+programs/__pycache__/
+*.pyc
+
+# Arquivos temporarios de SO/editor
+.DS_Store
+
+# NOTA (17/10/2026): propostas/ e dados_tse/ ficam de fora do repositorio
+# por tamanho e porque sao dados de origem reobteniveis das fontes oficiais.
