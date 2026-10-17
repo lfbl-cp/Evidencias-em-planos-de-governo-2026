@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "data": "2026-10-09",
+    "papel": "revisor adversarial, 2a rodada do pipeline (codificador cego -> revisor adversarial -> validador independente)",
+    "insumos": [
+      "analise/kappa_gabarito_v2.json (N=204, motor CORRIGIDO; campo pilar_b_antigo = valor pre-correcao)",
+      "analise/kappa_codificador_llm.json (N=204, LLM cego, inalterado desde 25/09/2026)",
+      "analise/kappa_relatorio_falhas.json (relatorio da 1a rodada, usado so como referencia/format, nao como insumo do recalculo)",
+      "programs/motor_indice_base_empirica.py (is_efeito, PASSADO_RE, FUTURO_RE, has_real_number, _is_list_marker_match)"
+    ],
+    "metodo": "kappa recalculado do zero a partir dos rotulos brutos (formula de Cohen via p_o/p_e, nao copiado do codigo-comentario do motor); confirmado que kappa_gabarito_v2.pilar_b_antigo == kappa_gabarito.pilar_b (0 mismatches, 204/204) e que as frases nao mudaram (0 mismatches de texto) antes de comparar; releitura frase-a-frase de TODAS as 8 discordancias remanescentes do Pilar B (nao so uma amostra, porque o universo e pequeno); teste direto do mecanismo PASSADO_RE/FUTURO_RE com frases construidas (fora da amostra de 204) para procurar regressao latente."
+  },
+  "resumo_matrizes_confusao": {
+    "pilar_a": {"concordam_true": 19, "concordam_false": 145, "motor_true_llm_false": 21, "motor_false_llm_true": 19, "observacao": "idêntico ao relatório de 25/09 — is_efeito não toca em Pilar A, como esperado; serve de controle negativo."},
+    "pilar_b_ANTIGO_sanity_check": {"concordam_true": 15, "concordam_false": 162, "motor_true_llm_false": 27, "motor_false_llm_true": 0, "observacao": "recalculado a partir de pilar_b_antigo; reproduz exatamente os 27 FP / 0 FN e kappa=0,469 do relatório de 25/09 — confirma que a base de comparação está correta antes de julgar a correção."},
+    "pilar_b_NOVO": {"concordam_true": 15, "concordam_false": 181, "motor_true_llm_false": 8, "motor_false_llm_true": 0, "observacao": "27 FP caíram para 8; 0 FN tanto antes quanto depois (motor nunca passou a 'perder' uma promessa que o LLM capturou) — não há esse tipo de regressão nesta amostra."},
+    "pilar_c": {"concordam_true": 40, "concordam_false": 139, "motor_true_llm_false": 18, "motor_false_llm_true": 7, "observacao": "idêntico ao relatório de 25/09 — controle negativo, EVIDENCIA_RE não foi tocado por esta correção."}
+  },
+  "kappa": {
+    "pilar_b_antigo": {"p_o": 0.868, "p_e": 0.751, "kappa": 0.469, "interpretacao": "moderada"},
+    "pilar_b_novo": {"p_o": 0.961, "p_e": 0.830, "kappa": 0.769, "interpretacao": "substancial"},
+    "delta_kappa": 0.300,
+    "confirmacao_numero_relatado_pelo_usuario": "CONFIRMADO de forma independente: kappa recalculado = 0,7689 (arredonda para 0,769, o mesmo número que o usuário reportou ter medido em testes preliminares). Cálculo feito do zero (p_o=0,9608, p_e=0,8303) com cohen_kappa manual, não copiado de nenhum número já existente no código ou em relatório anterior.",
+    "ressalva": "0,769 é 'substancial' na escala de Landis & Koch (0,61-0,80), não 'quase perfeita' (>0,80) — é uma melhora real e grande (+0,30), mas ainda deixa 8 discordâncias em 204 frases (seção abaixo), e a amostra de 204 é pequena para generalizar com confiança alta para o corpus inteiro (~quase mil candidaturas, dezenas de milhares de frases)."
+  },
+  "discordancias": [
+    {
+      "id": "S0062",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "Ofertar mamografia a todas as mulheres goianas na faixa etária maior de 40 anos para redução do",
+      "veredito": "llm_correto",
+      "justificativa": "O número presente (40) é um critério de ELEGIBILIDADE (faixa etária que recebe o exame), não a magnitude do efeito prometido; a frase é cortada antes de qualquer número que quantificasse a 'redução' em si. has_real_number() não distingue 'número que é a meta' de 'número que é outra coisa qualquer na frase' — continua sendo o mesmo defeito de fundo do Padrão #2 (corrigido para numeração de lista), só que para outro tipo de número irrelevante. Já estava documentado no Padrão #3 do relatório original (25/09) e NÃO foi tocado por esta correção."
+    },
+    {
+      "id": "S0065",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "humanidade, tenha a redução do número de visitantes, de mais de 60% a cada ano.",
+      "veredito": "ambiguo",
+      "justificativa": "Fragmento cortado no início; 'tenha' é subjuntivo, compatível tanto com uma leitura de meta/desejo futuro ('para que... tenha a redução') quanto com uma leitura de preocupação sobre um declínio já em curso. PASSADO_RE não tem esse verbo na lista (não é claramente passado), então não é um bug claro de tempo verbal — é genuinamente ambíguo pela fragmentação, mesma categoria do Padrão #4/#11 do relatório original ('frases cortadas por extração de PDF')."
+    },
+    {
+      "id": "S0067",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "seja, redução de R$ 17 bilhões.",
+      "veredito": "ambiguo",
+      "justificativa": "Fragmento mínimo ('ou seja, redução de R$ 17 bilhões'), sem verbo nem marcador de tempo algum; pode ser tanto a reafirmação de um valor já alcançado (diagnóstico) quanto o detalhamento de uma meta futura já introduzida antes do corte. O relatório original de 25/09 já havia classificado este mesmo caso como 'ambíguo' (Padrão #11, 'genuinamente indecidível') — mantenho o mesmo veredito de forma independente."
+    },
+    {
+      "id": "S0070",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "mulheres não negras Queda de 10,8%.",
+      "veredito": "llm_correto",
+      "justificativa": "Fragmento telegráfico tipo legenda de tabela/gráfico ('[categoria] Queda de X%'), SEM NENHUM VERBO. O mecanismo da correção (PASSADO_RE/FUTURO_RE) é ancorado em verbos — não tem como ajudar aqui, porque não há verbo para checar. Isso é um subtipo novo, não coberto pelo Padrão #1 original (que descrevia frases com verbo no passado): aqui a frase nem chega a ter tempo verbal, é um rótulo de dado estatístico, ainda assim o motor conta como promessa."
+    },
+    {
+      "id": "S0115",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "meta de transformação através de um governo Inovativo - 360 º.",
+      "veredito": "llm_correto",
+      "justificativa": "'meta de' dispara EFEITO_RE (gatilho forte de B) e '360' passa o has_real_number() porque tem 3 dígitos e não casa o formato de rótulo de lista (_is_list_marker_match exige token de 1-2 dígitos) — mas '360º' aqui é o clichê retórico 'governo 360 graus', não uma magnitude de meta. Já documentado no Padrão #3 original (25/09) e NÃO corrigido por esta rodada."
+    },
+    {
+      "id": "S0156",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "O Censo escolar 2025 apontou uma redução de 38,4 mil matrículas na educação básica do RS.",
+      "veredito": "llm_correto",
+      "justificativa": "ACHADO MAIS IMPORTANTE DESTA REVISÃO. Frase no passado, claro diagnóstico histórico ('o Censo... apontou uma redução de') — exatamente o fenômeno que o Padrão #1 (tempo verbal) deveria cobrir. Mas o verbo 'apontou' NÃO está na lista fixa de PASSADO_RE (que tem 'apresentou', 'registrou', 'teve' etc., mas não 'apontou'/'revelou'/'indicou'/'mostrou'/'demonstrou'/'constatou'). Além disso 'censo (?:19|20)\\d{2}' em PASSADO_RE exige adjacência direta 'censo' + ano, e aqui há a palavra 'escolar' no meio ('Censo escolar 2025'), quebrando esse casamento também. Resultado: PASSADO_RE não dispara, FUTURO_RE também não, e o motor classifica como B=True por padrão. Esta é a prova mais clara de que a correção generalizou para os verbos efetivamente testados/citados no comentário do código, mas não para variações de verbo ou de ordem de palavras fora desse conjunto — exatamente o risco de 'overfitting nos 16 exemplos documentados' que a tarefa pediu para investigar."
+    },
+    {
+      "id": "S0169",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "Restauração com aumento de capacidade da PR-170, entre o Rio Jordão e a BR-153",
+      "veredito": "llm_correto",
+      "justificativa": "'aumento de' dispara EFEITO_RE; os números '170' e '153' são CÓDIGOS DE RODOVIA (PR-170, BR-153), não a magnitude do aumento prometido. _is_list_marker_match não reconhece esse formato (3 dígitos, precedido de sigla de rodovia, não de 'objetivo/meta/eixo/...'), então has_real_number() aceita como número real. Já documentado no Padrão #3 original (25/09) e NÃO corrigido."
+    },
+    {
+      "id": "S0172",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "global deve aumentar entre 2,5°C e 2,9°C até o fim do século – um patamar considerado extremamente",
+      "veredito": "llm_correto",
+      "justificativa": "Trata-se de uma projeção CIENTÍFICA/GLOBAL de aquecimento (contexto, não compromisso de governo estadual) — 'até o fim do século' até dispara FUTURO_RE, reforçando o falso-positivo em vez de evitá-lo. O motor não distingue 'efeito que é a meta do candidato' de 'número citado como contexto/diagnóstico mundial fora do controle de qualquer governador'. Já documentado no Padrão #3 original (25/09) e NÃO corrigido."
+    }
+  ],
+  "padroes_recorrentes": [
+    {
+      "id": "padrao_A_regressao_tempo_verbal_nao_generalizado",
+      "descricao": "PASSADO_RE é uma lista fixa de verbos/expressões de passado, não um detector de tempo verbal de fato. Qualquer verbo de relato no passado que não esteja literalmente na lista (ex.: 'apontou', e por extensão prováveis 'revelou', 'indicou', 'mostrou', 'demonstrou', 'constatou', 'detectou', 'verificou') não é reconhecido, e a frase volta a ser classificada como B=True mesmo sendo claramente um diagnóstico histórico — o mesmo bug que o Padrão #1 original descrevia, só que para um verbo fora do conjunto testado. Evidência direta de que a correção generalizou para os verbos efetivamente citados no comentário do código (8 exemplos lidos), mas não para a classe semântica inteira de 'verbo de relato no passado'.",
+      "afeta": "motor",
+      "severidade": "alta — é o tipo exato de bug sistemático e direcional que motivou a correção, ainda presente",
+      "n_casos": 1,
+      "n_casos_observacao": "1 caso confirmado na amostra de 204 (S0156); como a lista de verbos faltantes é claramente incompleta e o fenômeno 'citar um censo/pesquisa que apontou/revelou/indicou um dado histórico' é comum em planos de governo, a prevalência real no corpus completo (~900 candidaturas) é provavelmente maior do que esta amostra pequena sugere.",
+      "exemplos_ids": ["S0156"]
+    },
+    {
+      "id": "padrao_B_numero_irrelevante_nao_coberto",
+      "descricao": "has_real_number()/_is_list_marker_match() só filtra números que SINTATICAMENTE parecem rótulo de lista/seção (1-2 dígitos, precedido de 'objetivo/meta/eixo/item/art.' ou espaço duplo). Não filtra números que são irrelevantes à magnitude do efeito por outros motivos: (a) critério de elegibilidade/idade ('maior de 40 anos'), (b) código de rodovia/lei/artigo com 3+ dígitos ('PR-170', 'BR-153'), (c) número estilístico/retórico usado como clichê de marca ('governo 360º'), (d) variação de um fenômeno global fora do controle do candidato (aquecimento '2,5°C a 2,9°C'). Isto é EXATAMENTE o Padrão #3 já documentado no relatório original de 25/09 (4 casos: S0062, S0115, S0169, S0172) — a correção desta rodada tratou explicitamente só os Padrões #1 e #2 (conforme o próprio comentário no código-fonte, linhas ~205-236 de motor_indice_base_empirica.py) e deixou o Padrão #3 intocado, apesar de já estar catalogado no mesmo relatório que motivou a correção.",
+      "afeta": "motor",
+      "severidade": "média-alta — mesmo mecanismo problemático do Padrão #2 (número que não é a magnitude real), só que para uma classe mais heterogênea de números espúrios, mais difícil de resolver com uma regra sintática simples",
+      "n_casos": 4,
+      "exemplos_ids": ["S0062", "S0115", "S0169", "S0172"]
+    },
+    {
+      "id": "padrao_C_fragmento_tipo_legenda_sem_verbo",
+      "descricao": "Fragmentos telegráficos no estilo de legenda de tabela/gráfico ('[categoria] Queda de X%', sem sujeito nem verbo flexionado) não têm NENHUM marcador de tempo verbal para o PASSADO_RE/FUTURO_RE detectar — o mecanismo de tempo verbal é estruturalmente inaplicável a uma frase sem verbo. Isso é um subtipo novo, não equivalente ao Padrão #1 original (que descrevia frases com verbo no passado mal reconhecido); aqui não há verbo para reconhecer. Provavelmente comum em documentos que reproduzem tabelas/infográficos extraídos como texto corrido pelo pdftotext.",
+      "afeta": "motor",
+      "severidade": "média — mecanismo de correção é por natureza inaplicável a este subtipo, provavelmente vai precisar de uma heurística diferente (ex.: ausência de qualquer verbo flexionado na frase) em vez de expandir a lista de PASSADO_RE",
+      "n_casos": 1,
+      "exemplos_ids": ["S0070"]
+    },
+    {
+      "id": "padrao_D_risco_latente_regressao_ano_futuro_sem_ate",
+      "descricao": "RISCO DE REGRESSÃO CONFIRMADO POR TESTE DIRETO DO MECANISMO, não observado nesta amostra de 204 frases (portanto não entra nas contagens de FP/FN acima, mas é reportado porque a tarefa pede caça ativa a regressões). PASSADO_RE inclui o padrão genérico 'em (?:19|20)\\d{2}' para capturar frases como 'em 2021' referindo-se ao passado — mas esse padrão casa IGUALMENTE com um ano futuro quando a frase usa 'em AAAA' em vez de 'até AAAA' para expressar uma meta (FUTURO_RE só reconhece explicitamente 'até AAAA', não 'em AAAA'). Testado diretamente contra o motor (fora da amostra de 204, frases construídas para teste de estresse): a frase 'Em 2030, aumentaremos a cobertura vacinal para 95% da população.' — um Pilar B genuíno e inequívoco (verbo no futuro, meta numérica clara, ano-alvo explícito) — é classificada como is_efeito=False (falso negativo) só porque usa 'Em 2030' em vez de 'Até 2030'. O mesmo ocorre com 'Em 2027 reduziremos a mortalidade infantil em 20%.'. Isto é precisamente o tipo de regressão que a tarefa pediu para procurar ativamente (verdadeiro-positivo que pode virar falso-negativo indevido) — não aparece nesta amostra de 204 porque nenhuma frase da amostra usa essa construção específica, mas 'Em AAAA, [verbo no futuro]...' é uma forma comum e natural de expressar metas em português, e deve aparecer no corpus completo (~900 candidaturas).",
+      "afeta": "motor",
+      "severidade": "alta (risco), não observada nesta amostra — é um defeito de desenho do regex (PASSADO_RE não diferencia ano passado de ano futuro), que só não se manifestou aqui por falta de frases desse formato na amostra de 204",
+      "n_casos": 0,
+      "n_casos_observacao": "0 casos na amostra de 204 frases (daí não aparecer nas discordâncias acima) — confirmado apenas por teste direto da função is_efeito() com frases construídas fora da amostra. Recomenda-se testar esse cenário especificamente antes de reprocessar o corpus completo.",
+      "exemplos_ids": []
+    }
+  ],
+  "controle_de_regressao": {
+    "resultado": "Nenhuma regressão real detectada DENTRO da amostra de 204 frases: motor_false_llm_true (falso-negativo) permanece em 0 tanto antes quanto depois da correção, e nenhum dos 15 verdadeiro-positivos pré-correção virou falso-negativo pós-correção (checado individualmente, ver script de verificação). As 19 frases que passaram de motor=True para motor=False todas tinham llm=False, ou seja, 19 correções genuínas, 0 regressões.",
+    "mas": "Isso NÃO significa que a correção é livre de risco de regressão em geral — ver padrao_D acima, que é uma regressão latente confirmada por teste direto do mecanismo, só não presente nesta amostra específica. A ausência de regressão observada é uma propriedade desta amostra de 204 frases, não uma garantia do mecanismo."
+  },
+  "avaliacao_overfitting": {
+    "pergunta": "A correção 'overfitou' nos 16 exemplos documentados (8 do Padrão #1 + 8 do Padrão #2) sem generalizar bem para o resto da amostra?",
+    "resposta": "Parcialmente sim, de forma mensurável. Dos 27 falso-positivos originais do Pilar B: os 8 exemplos citados do Padrão #1 e os 8 do Padrão #2 (16 no total, exatamente os citados/lidos no relatório de 25/09 e no comentário do código da correção) foram 100% corrigidos. Mas o Padrão #1 tinha n_casos=14 (não 8) — ou seja, 6 casos do MESMO padrão não estavam entre os exemplos citados; desses 6, 3 foram corrigidos 'de brinde' (S0015, S0063, S0064, por coincidência de outros gatilhos de PASSADO_RE) e 3 permanecem quebrados (S0065, S0070, S0156) porque usam formas verbais ('tenha', fragmento sem verbo, 'apontou') fora da lista. O Padrão #3, inteiro (4 casos, 100% dos seus exemplos), não foi tocado — nem citado no comentário da correção como algo a resolver, apesar de estar no mesmo relatório de 25/09 que motivou a correção. Isso é evidência concreta de generalização parcial: o padrão mais fácil de descrever com uma lista de palavras-gatilho (verbos específicos) generalizou bem para os casos citados e razoavelmente para vizinhos próximos, mas não para variações de vocabulário fora da lista nem para a classe de erro estruturalmente diferente (números irrelevantes) que já estava documentada e foi deixada de lado."
+  },
+  "recomendacoes": [
+    "Pilar B pode ser reportado no artigo com a ressalva de que kappa subiu de 0,469 (moderada) para 0,769 (substancial) — melhora real e grande, documentada e reprodutível.",
+    "Antes de reprocessar o corpus completo (ou ao menos antes de finalizar o artigo), tratar o padrao_D (risco de regressão 'em AAAA futuro') — é o item de maior risco porque pode introduzir falso-negativo em exatamente o tipo de frase que o índice deveria capturar (promessa futura com meta numérica). Sugestão mínima: fazer FUTURO_RE reconhecer 'em (?:19|20)\\d{2}' também, e resolver o conflito dando precedência a FUTURO quando o verbo da própria frase já está no futuro/subjuntivo de meta (ex.: conjugações '-emos', '-eremos', '-aremos' já presentes em EFEITO_RE).",
+    "Expandir PASSADO_RE com verbos de relato adicionais (apontou, revelou, indicou, mostrou, demonstrou, constatou, verificou, detectou) e tornar 'censo/pnad + ano' tolerante a uma palavra intermediária (ex.: 'censo escolar 2025').",
+    "O Padrão #3 do relatório original (números irrelevantes: idade, código de rodovia/lei, número retórico, fenômeno global) continua sem solução — não é um problema fácil de resolver com mais entradas em uma lista fixa, porque a variedade de 'números que não são a magnitude da meta' é maior que a de verbos de tempo. Pode exigir uma heurística de proximidade (o número precisa estar na mesma cláusula do verbo-gatilho de efeito, não só na mesma frase) em vez de apenas filtrar formatos de rótulo de lista.",
+    "Re-rodar esta mesma checagem de regressão/overfitting depois de qualquer futura correção adicional, antes de reprocessar o painel multiciclo inteiro — o padrão aqui (correção resolve bem os exemplos citados, generaliza parcialmente para vizinhos, não toca em padrões documentados mas não citados no comentário da correção) provavelmente vai se repetir."
+  ]
+}

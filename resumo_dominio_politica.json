@@ -1,0 +1,226 @@
+{
+  "por_ciclo": [
+    {
+      "dominio": "saude",
+      "ano": 2014,
+      "n_candidatos_que_falam_do_tema": 151,
+      "n_candidatos_total": 205,
+      "pct_que_falam_do_tema": 73.7,
+      "indice_medio": 3.99,
+      "indice_mediano": 0.0
+    },
+    {
+      "dominio": "saude",
+      "ano": 2018,
+      "n_candidatos_que_falam_do_tema": 151,
+      "n_candidatos_total": 179,
+      "pct_que_falam_do_tema": 84.4,
+      "indice_medio": 4.49,
+      "indice_mediano": 0.0
+    },
+    {
+      "dominio": "saude",
+      "ano": 2022,
+      "n_candidatos_que_falam_do_tema": 207,
+      "n_candidatos_total": 232,
+      "pct_que_falam_do_tema": 89.2,
+      "indice_medio": 4.46,
+      "indice_mediano": 0.0
+    },
+    {
+      "dominio": "saude",
+      "ano": 2026,
+      "n_candidatos_que_falam_do_tema": 199,
+      "n_candidatos_total": 218,
+      "pct_que_falam_do_tema": 91.3,
+      "indice_medio": 3.38,
+      "indice_mediano": 0.0
+    },
+    {
+      "dominio": "educacao",
+      "ano": 2014,
+      "n_candidatos_que_falam_do_tema": 162,
+      "n_candidatos_total": 205,
+      "pct_que_falam_do_tema": 79.0,
+      "indice_medio": 2.02,
+      "indice_mediano": 0.0
+    },
+    {
+      "dominio": "educacao",
+      "ano": 2018,
+      "n_candidatos_que_falam_do_tema": 163,
+      "n_candidatos_total": 179,
+      "pct_que_falam_do_tema": 91.1,
+      "indice_medio": 2.34,
+      "indice_mediano": 0.0
+    },
+    {
+      "dominio": "educacao",
+      "ano": 2022,
+      "n_candidatos_que_falam_do_tema": 213,
+      "n_candidatos_total": 232,
+      "pct_que_falam_do_tema": 91.8,
+      "indice_medio": 4.22,
+      "indice_mediano": 0.0
+    },
+    {
+      "dominio": "educacao",
+      "ano": 2026,
+      "n_candidatos_que_falam_do_tema": 194,
+      "n_candidatos_total": 218,
+      "pct_que_falam_do_tema": 89.0,
+      "indice_medio": 4.12,
+      "indice_mediano": 0.0
+    },
+    {
+      "dominio": "seguranca",
+      "ano": 2014,
+      "n_candidatos_que_falam_do_tema": 131,
+      "n_candidatos_total": 205,
+      "pct_que_falam_do_tema": 63.9,
+      "indice_medio": 2.27,
+      "indice_mediano": 0.0
+    },
+    {
+      "dominio": "seguranca",
+      "ano": 2018,
+      "n_candidatos_que_falam_do_tema": 153,
+      "n_candidatos_total": 179,
+      "pct_que_falam_do_tema": 85.5,
+      "indice_medio": 6.4,
+      "indice_mediano": 0.0
+    },
+    {
+      "dominio": "seguranca",
+      "ano": 2022,
+      "n_candidatos_que_falam_do_tema": 173,
+      "n_candidatos_total": 232,
+      "pct_que_falam_do_tema": 74.6,
+      "indice_medio": 6.36,
+      "indice_mediano": 0.0
+    },
+    {
+      "dominio": "seguranca",
+      "ano": 2026,
+      "n_candidatos_que_falam_do_tema": 169,
+      "n_candidatos_total": 218,
+      "pct_que_falam_do_tema": 77.5,
+      "indice_medio": 8.28,
+      "indice_mediano": 0.0
+    },
+    {
+      "dominio": "economia",
+      "ano": 2014,
+      "n_candidatos_que_falam_do_tema": 182,
+      "n_candidatos_total": 205,
+      "pct_que_falam_do_tema": 88.8,
+      "indice_medio": 3.95,
+      "indice_mediano": 0.0
+    },
+    {
+      "dominio": "economia",
+      "ano": 2018,
+      "n_candidatos_que_falam_do_tema": 169,
+      "n_candidatos_total": 179,
+      "pct_que_falam_do_tema": 94.4,
+      "indice_medio": 3.95,
+      "indice_mediano": 0.0
+    },
+    {
+      "dominio": "economia",
+      "ano": 2022,
+      "n_candidatos_que_falam_do_tema": 203,
+      "n_candidatos_total": 232,
+      "pct_que_falam_do_tema": 87.5,
+      "indice_medio": 4.37,
+      "indice_mediano": 0.0
+    },
+    {
+      "dominio": "economia",
+      "ano": 2026,
+      "n_candidatos_que_falam_do_tema": 205,
+      "n_candidatos_total": 218,
+      "pct_que_falam_do_tema": 94.0,
+      "indice_medio": 4.0,
+      "indice_mediano": 0.0
+    },
+    {
+      "dominio": "meio_ambiente",
+      "ano": 2014,
+      "n_candidatos_que_falam_do_tema": 118,
+      "n_candidatos_total": 205,
+      "pct_que_falam_do_tema": 57.6,
+      "indice_medio": 0.92,
+      "indice_mediano": 0.0
+    },
+    {
+      "dominio": "meio_ambiente",
+      "ano": 2018,
+      "n_candidatos_que_falam_do_tema": 123,
+      "n_candidatos_total": 179,
+      "pct_que_falam_do_tema": 68.7,
+      "indice_medio": 1.14,
+      "indice_mediano": 0.0
+    },
+    {
+      "dominio": "meio_ambiente",
+      "ano": 2022,
+      "n_candidatos_que_falam_do_tema": 159,
+      "n_candidatos_total": 232,
+      "pct_que_falam_do_tema": 68.5,
+      "indice_medio": 4.36,
+      "indice_mediano": 0.0
+    },
+    {
+      "dominio": "meio_ambiente",
+      "ano": 2026,
+      "n_candidatos_que_falam_do_tema": 152,
+      "n_candidatos_total": 218,
+      "pct_que_falam_do_tema": 69.7,
+      "indice_medio": 11.58,
+      "indice_mediano": 0.0
+    }
+  ],
+  "geral": [
+    {
+      "dominio": "seguranca",
+      "n_candidatos_que_falam_do_tema": 626,
+      "n_candidatos_total": 834,
+      "pct_que_falam_do_tema": 75.1,
+      "indice_medio": 6.03,
+      "indice_mediano": 0.0
+    },
+    {
+      "dominio": "meio_ambiente",
+      "n_candidatos_que_falam_do_tema": 552,
+      "n_candidatos_total": 834,
+      "pct_que_falam_do_tema": 66.2,
+      "indice_medio": 4.9,
+      "indice_mediano": 0.0
+    },
+    {
+      "dominio": "economia",
+      "n_candidatos_que_falam_do_tema": 759,
+      "n_candidatos_total": 834,
+      "pct_que_falam_do_tema": 91.0,
+      "indice_medio": 4.07,
+      "indice_mediano": 0.0
+    },
+    {
+      "dominio": "saude",
+      "n_candidatos_que_falam_do_tema": 708,
+      "n_candidatos_total": 834,
+      "pct_que_falam_do_tema": 84.9,
+      "indice_medio": 4.06,
+      "indice_mediano": 0.0
+    },
+    {
+      "dominio": "educacao",
+      "n_candidatos_que_falam_do_tema": 732,
+      "n_candidatos_total": 834,
+      "pct_que_falam_do_tema": 87.8,
+      "indice_medio": 3.29,
+      "indice_mediano": 0.0
+    }
+  ]
+}

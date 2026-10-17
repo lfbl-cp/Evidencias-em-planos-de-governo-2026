@@ -1,0 +1,345 @@
+[
+  {
+    "partido": "PCO",
+    "n_nominal": 42,
+    "n_efetivo": 7,
+    "maior_cluster": 18,
+    "reducao_pct": 83.3
+  },
+  {
+    "partido": "PCB",
+    "n_nominal": 30,
+    "n_efetivo": 26,
+    "maior_cluster": 5,
+    "reducao_pct": 13.3
+  },
+  {
+    "partido": "PSDB",
+    "n_nominal": 43,
+    "n_efetivo": 41,
+    "maior_cluster": 2,
+    "reducao_pct": 4.7
+  },
+  {
+    "partido": "PSOL",
+    "n_nominal": 79,
+    "n_efetivo": 78,
+    "maior_cluster": 2,
+    "reducao_pct": 1.3
+  },
+  {
+    "partido": "PT",
+    "n_nominal": 61,
+    "n_efetivo": 60,
+    "maior_cluster": 2,
+    "reducao_pct": 1.6
+  },
+  {
+    "partido": "PRTB",
+    "n_nominal": 22,
+    "n_efetivo": 21,
+    "maior_cluster": 2,
+    "reducao_pct": 4.5
+  },
+  {
+    "partido": "PSTU",
+    "n_nominal": 60,
+    "n_efetivo": 59,
+    "maior_cluster": 2,
+    "reducao_pct": 1.7
+  },
+  {
+    "partido": "PR",
+    "n_nominal": 6,
+    "n_efetivo": 5,
+    "maior_cluster": 2,
+    "reducao_pct": 16.7
+  },
+  {
+    "partido": "AGIR",
+    "n_nominal": 9,
+    "n_efetivo": 8,
+    "maior_cluster": 2,
+    "reducao_pct": 11.1
+  },
+  {
+    "partido": "DEMOCRATA",
+    "n_nominal": 8,
+    "n_efetivo": 7,
+    "maior_cluster": 2,
+    "reducao_pct": 12.5
+  },
+  {
+    "partido": "DEM",
+    "n_nominal": 9,
+    "n_efetivo": 9,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "PATRIOTA",
+    "n_nominal": 4,
+    "n_efetivo": 4,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "PP",
+    "n_nominal": 19,
+    "n_efetivo": 19,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "PMDB",
+    "n_nominal": 19,
+    "n_efetivo": 19,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "PTC",
+    "n_nominal": 2,
+    "n_efetivo": 2,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "PROS",
+    "n_nominal": 7,
+    "n_efetivo": 7,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "PSB",
+    "n_nominal": 34,
+    "n_efetivo": 34,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "PMN",
+    "n_nominal": 6,
+    "n_efetivo": 6,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "REDE",
+    "n_nominal": 15,
+    "n_efetivo": 15,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "PHS",
+    "n_nominal": 5,
+    "n_efetivo": 5,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "PPS",
+    "n_nominal": 2,
+    "n_efetivo": 2,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "PDT",
+    "n_nominal": 23,
+    "n_efetivo": 23,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "PPL",
+    "n_nominal": 5,
+    "n_efetivo": 5,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "PT do B",
+    "n_nominal": 1,
+    "n_efetivo": 1,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "PSDC",
+    "n_nominal": 2,
+    "n_efetivo": 2,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "PC do B",
+    "n_nominal": 3,
+    "n_efetivo": 3,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "PSD",
+    "n_nominal": 41,
+    "n_efetivo": 41,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "PV",
+    "n_nominal": 7,
+    "n_efetivo": 7,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "PTB",
+    "n_nominal": 7,
+    "n_efetivo": 7,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "PSC",
+    "n_nominal": 8,
+    "n_efetivo": 8,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "PRP",
+    "n_nominal": 3,
+    "n_efetivo": 3,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "PSL",
+    "n_nominal": 12,
+    "n_efetivo": 12,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "PTN",
+    "n_nominal": 1,
+    "n_efetivo": 1,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "SD",
+    "n_nominal": 1,
+    "n_efetivo": 1,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "AVANTE",
+    "n_nominal": 4,
+    "n_efetivo": 4,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "MDB",
+    "n_nominal": 32,
+    "n_efetivo": 32,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "NOVO",
+    "n_nominal": 19,
+    "n_efetivo": 19,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "PODE",
+    "n_nominal": 7,
+    "n_efetivo": 7,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "DC",
+    "n_nominal": 19,
+    "n_efetivo": 19,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "SOLIDARIEDADE",
+    "n_nominal": 10,
+    "n_efetivo": 10,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "UNIÃO",
+    "n_nominal": 18,
+    "n_efetivo": 18,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "PMB",
+    "n_nominal": 7,
+    "n_efetivo": 7,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "CIDADANIA",
+    "n_nominal": 1,
+    "n_efetivo": 1,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "PL",
+    "n_nominal": 29,
+    "n_efetivo": 29,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "UP",
+    "n_nominal": 25,
+    "n_efetivo": 25,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "REPUBLICANOS",
+    "n_nominal": 11,
+    "n_efetivo": 11,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "MOBILIZA",
+    "n_nominal": 3,
+    "n_efetivo": 3,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "MISSÃO",
+    "n_nominal": 9,
+    "n_efetivo": 9,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  },
+  {
+    "partido": "PRD",
+    "n_nominal": 2,
+    "n_efetivo": 2,
+    "maior_cluster": 1,
+    "reducao_pct": 0.0
+  }
+]

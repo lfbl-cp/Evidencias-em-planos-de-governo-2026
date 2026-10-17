@@ -1,0 +1,22 @@
+{
+  "saude": {
+    "kappa": 0.94,
+    "concordancia_pct": 98.7
+  },
+  "educacao": {
+    "kappa": 0.857,
+    "concordancia_pct": 96.1
+  },
+  "seguranca": {
+    "kappa": 0.934,
+    "concordancia_pct": 98.1
+  },
+  "economia": {
+    "kappa": 0.77,
+    "concordancia_pct": 92.9
+  },
+  "meio_ambiente": {
+    "kappa": 0.799,
+    "concordancia_pct": 92.9
+  }
+}

@@ -1,0 +1,897 @@
+[
+  {
+    "id": "S0130",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0048",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0019",
+    "dominios": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0029",
+    "dominios": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0024",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0143",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0016",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0090",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0013",
+    "dominios": [
+      "educacao",
+      "saude"
+    ]
+  },
+  {
+    "id": "S0077",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0124",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0037",
+    "dominios": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0025",
+    "dominios": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0121",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0017",
+    "dominios": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0073",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0080",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0004",
+    "dominios": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0127",
+    "dominios": []
+  },
+  {
+    "id": "S0095",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0134",
+    "dominios": []
+  },
+  {
+    "id": "S0041",
+    "dominios": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0094",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0116",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0146",
+    "dominios": []
+  },
+  {
+    "id": "S0154",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0139",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0046",
+    "dominios": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0040",
+    "dominios": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0140",
+    "dominios": []
+  },
+  {
+    "id": "S0144",
+    "dominios": []
+  },
+  {
+    "id": "S0074",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0141",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0125",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0014",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0035",
+    "dominios": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0086",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0010",
+    "dominios": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0112",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0065",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0108",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0055",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0027",
+    "dominios": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0071",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0008",
+    "dominios": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0002",
+    "dominios": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0058",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0032",
+    "dominios": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0070",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0128",
+    "dominios": []
+  },
+  {
+    "id": "S0020",
+    "dominios": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0138",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0028",
+    "dominios": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0104",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0120",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0098",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0067",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0054",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0083",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0042",
+    "dominios": []
+  },
+  {
+    "id": "S0079",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0006",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0061",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0052",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0049",
+    "dominios": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0044",
+    "dominios": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0122",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0132",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0091",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0148",
+    "dominios": []
+  },
+  {
+    "id": "S0107",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0072",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0059",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0126",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0031",
+    "dominios": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0030",
+    "dominios": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0033",
+    "dominios": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0114",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0015",
+    "dominios": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0069",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0093",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0103",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0066",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0115",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0050",
+    "dominios": []
+  },
+  {
+    "id": "S0153",
+    "dominios": [
+      "educacao",
+      "economia"
+    ]
+  },
+  {
+    "id": "S0149",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0076",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0150",
+    "dominios": []
+  },
+  {
+    "id": "S0060",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0110",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0136",
+    "dominios": []
+  },
+  {
+    "id": "S0135",
+    "dominios": []
+  },
+  {
+    "id": "S0034",
+    "dominios": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0129",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0099",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0096",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0087",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0123",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0021",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0075",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0152",
+    "dominios": [
+      "meio_ambiente",
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0092",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0084",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0012",
+    "dominios": [
+      "saude",
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0133",
+    "dominios": []
+  },
+  {
+    "id": "S0101",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0147",
+    "dominios": []
+  },
+  {
+    "id": "S0109",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0007",
+    "dominios": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0081",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0111",
+    "dominios": [
+      "meio_ambiente",
+      "economia"
+    ]
+  },
+  {
+    "id": "S0026",
+    "dominios": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0118",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0145",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0151",
+    "dominios": []
+  },
+  {
+    "id": "S0097",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0142",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0117",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0137",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0100",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0068",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0064",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0005",
+    "dominios": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0062",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0113",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0102",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0001",
+    "dominios": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0018",
+    "dominios": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0085",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0057",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0051",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0053",
+    "dominios": [
+      "seguranca",
+      "saude"
+    ]
+  },
+  {
+    "id": "S0036",
+    "dominios": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0089",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0039",
+    "dominios": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0043",
+    "dominios": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0131",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0038",
+    "dominios": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0063",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0023",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0009",
+    "dominios": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0105",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0106",
+    "dominios": []
+  },
+  {
+    "id": "S0082",
+    "dominios": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0003",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0047",
+    "dominios": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0119",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0022",
+    "dominios": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0088",
+    "dominios": [
+      "saude",
+      "economia"
+    ]
+  },
+  {
+    "id": "S0078",
+    "dominios": []
+  },
+  {
+    "id": "S0045",
+    "dominios": []
+  },
+  {
+    "id": "S0056",
+    "dominios": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0011",
+    "dominios": [
+      "saude"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "índice geral": {
+    "n_partidos": 25,
+    "pearson_r": -0.263,
+    "spearman_rho": 0.017
+  },
+  "área: saude": {
+    "n_partidos": 25,
+    "pearson_r": -0.052,
+    "spearman_rho": -0.196
+  },
+  "área: educacao": {
+    "n_partidos": 25,
+    "pearson_r": 0.007,
+    "spearman_rho": 0.004
+  },
+  "área: seguranca": {
+    "n_partidos": 25,
+    "pearson_r": -0.412,
+    "spearman_rho": -0.222
+  },
+  "área: economia": {
+    "n_partidos": 25,
+    "pearson_r": -0.157,
+    "spearman_rho": -0.151
+  },
+  "área: meio_ambiente": {
+    "n_partidos": 25,
+    "pearson_r": 0.016,
+    "spearman_rho": -0.152
+  }
+}

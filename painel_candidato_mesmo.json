@@ -1,0 +1,3188 @@
+[
+  {
+    "NR_CPF_CANDIDATO": "03553821809",
+    "NOME": "MARCONI PERILLO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2026
+    ],
+    "UFS": [
+      "GO",
+      "GO"
+    ],
+    "PARTIDOS": [
+      "PSDB",
+      "PSDB"
+    ],
+    "INDICES": [
+      0.6,
+      0.0
+    ],
+    "INCUMBENTE": [
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "18148506272",
+    "NOME": "SUELY CAMPOS",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "RR",
+      "RR"
+    ],
+    "PARTIDOS": [
+      "PP",
+      "PP"
+    ],
+    "INDICES": [
+      0.0,
+      0.0
+    ],
+    "INCUMBENTE": [
+      null,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "12984531604",
+    "NOME": "FERNANDO PIMENTEL",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "MG",
+      "MG"
+    ],
+    "PARTIDOS": [
+      "PT",
+      "PT"
+    ],
+    "INDICES": [
+      5.0,
+      0.0
+    ],
+    "INCUMBENTE": [
+      null,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "23629711553",
+    "NOME": "EDUARDO AMORIM",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "SE",
+      "SE"
+    ],
+    "PARTIDOS": [
+      "PSC",
+      "PSDB"
+    ],
+    "INDICES": [
+      2.9,
+      1.8
+    ],
+    "INCUMBENTE": [
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "12617555291",
+    "NOME": "WALDEZ",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "AP",
+      "AP"
+    ],
+    "PARTIDOS": [
+      "PDT",
+      "PDT"
+    ],
+    "INDICES": [
+      0.0,
+      0.6
+    ],
+    "INCUMBENTE": [
+      null,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "28633938120",
+    "NOME": "REINALDO AZAMBUJA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "MS",
+      "MS"
+    ],
+    "PARTIDOS": [
+      "PSDB",
+      "PSDB"
+    ],
+    "INDICES": [
+      0.7,
+      0.0
+    ],
+    "INCUMBENTE": [
+      null,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "78392705491",
+    "NOME": "PAULO CÂMARA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "PE",
+      "PE"
+    ],
+    "PARTIDOS": [
+      "PSB",
+      "PSB"
+    ],
+    "INDICES": [
+      0.0,
+      16.7
+    ],
+    "INCUMBENTE": [
+      null,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "61397245387",
+    "NOME": "AILTON LOPES",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "CE",
+      "CE"
+    ],
+    "PARTIDOS": [
+      "PSOL",
+      "PSOL"
+    ],
+    "INDICES": [
+      4.7,
+      6.5
+    ],
+    "INCUMBENTE": [
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "64244253068",
+    "NOME": "ROBERTO ROBAINA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "RS",
+      "RS"
+    ],
+    "PARTIDOS": [
+      "PSOL",
+      "PSOL"
+    ],
+    "INDICES": [
+      15.3,
+      14.2
+    ],
+    "INCUMBENTE": [
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "05548342606",
+    "NOME": "PROFESSOR TÚLIO LOPES",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2026
+    ],
+    "UFS": [
+      "MG",
+      "MG"
+    ],
+    "PARTIDOS": [
+      "PCB",
+      "PCB"
+    ],
+    "INDICES": [
+      1.2,
+      1.2
+    ],
+    "INCUMBENTE": [
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "27265798848",
+    "NOME": "MAURO CARLESSE",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "TO",
+      "TO"
+    ],
+    "PARTIDOS": [
+      "PHS",
+      "PHS"
+    ],
+    "INDICES": [
+      0.0,
+      0.0
+    ],
+    "INCUMBENTE": [
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "07810423215",
+    "NOME": "EDUARDO BRAGA",
+    "N_CANDIDATURAS_COM_INDICE": 3,
+    "CICLOS": [
+      2014,
+      2014,
+      2022
+    ],
+    "UFS": [
+      "AM",
+      "AM",
+      "AM"
+    ],
+    "PARTIDOS": [
+      "PMDB",
+      "PMDB",
+      "MDB"
+    ],
+    "INDICES": [
+      6.2,
+      0.0,
+      16.7
+    ],
+    "INCUMBENTE": [
+      null,
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "28958527315",
+    "NOME": "CAMILO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "CE",
+      "CE"
+    ],
+    "PARTIDOS": [
+      "PT",
+      "PT"
+    ],
+    "INDICES": [
+      0.0,
+      0.0
+    ],
+    "INCUMBENTE": [
+      null,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "98814427453",
+    "NOME": "TÁRCIO TEIXEIRA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "PB",
+      "PB"
+    ],
+    "PARTIDOS": [
+      "PSOL",
+      "PSOL"
+    ],
+    "INDICES": [
+      5.0,
+      2.7
+    ],
+    "INCUMBENTE": [
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "37715631353",
+    "NOME": "FLÁVIO DINO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "MA",
+      "MA"
+    ],
+    "PARTIDOS": [
+      "PC do B",
+      "PC do B"
+    ],
+    "INDICES": [
+      5.6,
+      6.0
+    ],
+    "INCUMBENTE": [
+      null,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "71014772168",
+    "NOME": "RENAN FILHO",
+    "N_CANDIDATURAS_COM_INDICE": 3,
+    "CICLOS": [
+      2014,
+      2018,
+      2026
+    ],
+    "UFS": [
+      "AL",
+      "AL",
+      "AL"
+    ],
+    "PARTIDOS": [
+      "PMDB",
+      "MDB",
+      "MDB"
+    ],
+    "INDICES": [
+      2.4,
+      0.4,
+      0.0
+    ],
+    "INCUMBENTE": [
+      null,
+      true,
+      false
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "21519579691",
+    "NOME": "ARRUDA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2026
+    ],
+    "UFS": [
+      "DF",
+      "DF"
+    ],
+    "PARTIDOS": [
+      "PR",
+      "PSD"
+    ],
+    "INDICES": [
+      2.1,
+      0.6
+    ],
+    "INCUMBENTE": [
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "#NULO#",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "05660890920",
+    "NOME": "REQUIÃO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2022
+    ],
+    "UFS": [
+      "PR",
+      "PR"
+    ],
+    "PARTIDOS": [
+      "PMDB",
+      "PT"
+    ],
+    "INDICES": [
+      5.4,
+      1.6
+    ],
+    "INCUMBENTE": [
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "47594136349",
+    "NOME": "SAULO ARCANGELI",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2026
+    ],
+    "UFS": [
+      "MA",
+      "MA"
+    ],
+    "PARTIDOS": [
+      "PSTU",
+      "PSTU"
+    ],
+    "INDICES": [
+      5.3,
+      6.7
+    ],
+    "INCUMBENTE": [
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "23790997587",
+    "NOME": "RUI COSTA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "BA",
+      "BA"
+    ],
+    "PARTIDOS": [
+      "PT",
+      "PT"
+    ],
+    "INDICES": [
+      2.1,
+      2.0
+    ],
+    "INCUMBENTE": [
+      null,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "62594370215",
+    "NOME": "HELDER",
+    "N_CANDIDATURAS_COM_INDICE": 3,
+    "CICLOS": [
+      2014,
+      2018,
+      2022
+    ],
+    "UFS": [
+      "PA",
+      "PA",
+      "PA"
+    ],
+    "PARTIDOS": [
+      "PMDB",
+      "MDB",
+      "MDB"
+    ],
+    "INDICES": [
+      2.4,
+      3.2,
+      5.3
+    ],
+    "INCUMBENTE": [
+      null,
+      false,
+      true
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "ELEITO",
+      "ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "24529850153",
+    "NOME": "RODRIGO ROLLEMBERG",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "DF",
+      "DF"
+    ],
+    "PARTIDOS": [
+      "PSB",
+      "PSB"
+    ],
+    "INDICES": [
+      2.2,
+      0.7
+    ],
+    "INCUMBENTE": [
+      null,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "01127982842",
+    "NOME": "DELCIDIO AMARAL",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2026
+    ],
+    "UFS": [
+      "MS",
+      "MS"
+    ],
+    "PARTIDOS": [
+      "PT",
+      "PRD"
+    ],
+    "INDICES": [
+      0.8,
+      1.1
+    ],
+    "INCUMBENTE": [
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "15705099487",
+    "NOME": "ROBINSON FARIA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "RN",
+      "RN"
+    ],
+    "PARTIDOS": [
+      "PSD",
+      "PSD"
+    ],
+    "INDICES": [
+      3.6,
+      0.4
+    ],
+    "INCUMBENTE": [
+      null,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "70384606172",
+    "NOME": "WESLEI GARCIA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "GO",
+      "GO"
+    ],
+    "PARTIDOS": [
+      "PSOL",
+      "PSOL"
+    ],
+    "INDICES": [
+      8.6,
+      2.1
+    ],
+    "INCUMBENTE": [
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "67408362800",
+    "NOME": "PAULO SKAF",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "SP",
+      "SP"
+    ],
+    "PARTIDOS": [
+      "PMDB",
+      "MDB"
+    ],
+    "INDICES": [
+      0.7,
+      0.0
+    ],
+    "INCUMBENTE": [
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "03881229434",
+    "NOME": "ARMANDO MONTEIRO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "PE",
+      "PE"
+    ],
+    "PARTIDOS": [
+      "PTB",
+      "PTB"
+    ],
+    "INDICES": [
+      0.0,
+      0.0
+    ],
+    "INCUMBENTE": [
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "05019228818",
+    "NOME": "EXPEDITO JUNIOR",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "RO",
+      "RO"
+    ],
+    "PARTIDOS": [
+      "PSDB",
+      "PSDB"
+    ],
+    "INDICES": [
+      0.0,
+      1.2
+    ],
+    "INCUMBENTE": [
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "23796332153",
+    "NOME": "MARCIO BITTAR",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2022
+    ],
+    "UFS": [
+      "AC",
+      "AC"
+    ],
+    "PARTIDOS": [
+      "PSDB",
+      "UNIÃO"
+    ],
+    "INDICES": [
+      8.7,
+      23.5
+    ],
+    "INCUMBENTE": [
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "55699570306",
+    "NOME": "MARLON REIS",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "TO",
+      "TO"
+    ],
+    "PARTIDOS": [
+      "REDE",
+      "REDE"
+    ],
+    "INDICES": [
+      1.6,
+      2.2
+    ],
+    "INCUMBENTE": [
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "11782960082",
+    "NOME": "JOSÉ IVO SARTORI",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "RS",
+      "RS"
+    ],
+    "PARTIDOS": [
+      "PMDB",
+      "MDB"
+    ],
+    "INDICES": [
+      2.4,
+      4.7
+    ],
+    "INCUMBENTE": [
+      null,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "48018627487",
+    "NOME": "MAJOR FÁBIO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2022
+    ],
+    "UFS": [
+      "PB",
+      "PB"
+    ],
+    "PARTIDOS": [
+      "PROS",
+      "PRTB"
+    ],
+    "INDICES": [
+      0.0,
+      0.0
+    ],
+    "INCUMBENTE": [
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "48961620568",
+    "NOME": "CARLOS AMASTHA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "TO",
+      "TO"
+    ],
+    "PARTIDOS": [
+      "PSB",
+      "PSB"
+    ],
+    "INDICES": [
+      1.4,
+      0.2
+    ],
+    "INCUMBENTE": [
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "22611606587",
+    "NOME": "MARCOS MENDES",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "BA",
+      "BA"
+    ],
+    "PARTIDOS": [
+      "PSOL",
+      "PSOL"
+    ],
+    "INDICES": [
+      7.1,
+      5.3
+    ],
+    "INCUMBENTE": [
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "18255663304",
+    "NOME": "WELLINGTON DIAS",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "PI",
+      "PI"
+    ],
+    "PARTIDOS": [
+      "PT",
+      "PT"
+    ],
+    "INDICES": [
+      2.1,
+      2.7
+    ],
+    "INCUMBENTE": [
+      null,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "00164828249",
+    "NOME": "AMAZONINO MENDES",
+    "N_CANDIDATURAS_COM_INDICE": 3,
+    "CICLOS": [
+      2014,
+      2018,
+      2022
+    ],
+    "UFS": [
+      "AM",
+      "AM",
+      "AM"
+    ],
+    "PARTIDOS": [
+      "PDT",
+      "PDT",
+      "CIDADANIA"
+    ],
+    "INDICES": [
+      0.0,
+      2.0,
+      0.0
+    ],
+    "INCUMBENTE": [
+      null,
+      true,
+      false
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "20432607234",
+    "NOME": "PIMENTA DE RONDONIA",
+    "N_CANDIDATURAS_COM_INDICE": 3,
+    "CICLOS": [
+      2014,
+      2018,
+      2022
+    ],
+    "UFS": [
+      "RO",
+      "RO",
+      "RO"
+    ],
+    "PARTIDOS": [
+      "PSOL",
+      "PSOL",
+      "PSOL"
+    ],
+    "INDICES": [
+      2.0,
+      2.0,
+      2.2
+    ],
+    "INCUMBENTE": [
+      null,
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "17357152987",
+    "NOME": "TIÃO BOCALOM",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2026
+    ],
+    "UFS": [
+      "AC",
+      "AC"
+    ],
+    "PARTIDOS": [
+      "DEM",
+      "PSDB"
+    ],
+    "INDICES": [
+      0.5,
+      0.6
+    ],
+    "INCUMBENTE": [
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "91253012768",
+    "NOME": "DAYSE OLIVEIRA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "RJ",
+      "RJ"
+    ],
+    "PARTIDOS": [
+      "PSTU",
+      "PSTU"
+    ],
+    "INDICES": [
+      30.4,
+      7.7
+    ],
+    "INCUMBENTE": [
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "09605355353",
+    "NOME": "LOURDES MELO",
+    "N_CANDIDATURAS_COM_INDICE": 4,
+    "CICLOS": [
+      2014,
+      2018,
+      2022,
+      2026
+    ],
+    "UFS": [
+      "PI",
+      "PI",
+      "PI",
+      "PI"
+    ],
+    "PARTIDOS": [
+      "PCO",
+      "PCO",
+      "PCO",
+      "PCO"
+    ],
+    "INDICES": [
+      4.7,
+      0.0,
+      12.5,
+      4.5
+    ],
+    "INCUMBENTE": [
+      null,
+      false,
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO",
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "70515182753",
+    "NOME": "RENATO CASAGRANDE",
+    "N_CANDIDATURAS_COM_INDICE": 3,
+    "CICLOS": [
+      2014,
+      2018,
+      2022
+    ],
+    "UFS": [
+      "ES",
+      "ES",
+      "ES"
+    ],
+    "PARTIDOS": [
+      "PSB",
+      "PSB",
+      "PSB"
+    ],
+    "INDICES": [
+      1.3,
+      1.2,
+      5.9
+    ],
+    "INCUMBENTE": [
+      null,
+      false,
+      true
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "ELEITO",
+      "ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "34939628000",
+    "NOME": "VIEIRA DA CUNHA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2022
+    ],
+    "UFS": [
+      "RS",
+      "RS"
+    ],
+    "PARTIDOS": [
+      "PDT",
+      "PDT"
+    ],
+    "INDICES": [
+      3.3,
+      8.4
+    ],
+    "INCUMBENTE": [
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "14721929153",
+    "NOME": "ATAIDES DE OLIVEIRA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2026
+    ],
+    "UFS": [
+      "TO",
+      "TO"
+    ],
+    "PARTIDOS": [
+      "PROS",
+      "NOVO"
+    ],
+    "INDICES": [
+      3.1,
+      2.0
+    ],
+    "INCUMBENTE": [
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "40540448168",
+    "NOME": "PEDRO TAQUES",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2018
+    ],
+    "UFS": [
+      "MT",
+      "MT"
+    ],
+    "PARTIDOS": [
+      "PDT",
+      "PSDB"
+    ],
+    "INDICES": [
+      5.8,
+      4.6
+    ],
+    "INCUMBENTE": [
+      null,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "74140922834",
+    "NOME": "PROFESSOR ROBERIO PAULINO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2014,
+      2026
+    ],
+    "UFS": [
+      "RN",
+      "RN"
+    ],
+    "PARTIDOS": [
+      "PSOL",
+      "PSOL"
+    ],
+    "INDICES": [
+      0.0,
+      6.2
+    ],
+    "INCUMBENTE": [
+      null,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "62528084900",
+    "NOME": "MOISÉS",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2022
+    ],
+    "UFS": [
+      "SC",
+      "SC"
+    ],
+    "PARTIDOS": [
+      "PSL",
+      "REPUBLICANOS"
+    ],
+    "INDICES": [
+      0.0,
+      2.0
+    ],
+    "INCUMBENTE": [
+      false,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "25056956368",
+    "NOME": "ROBERTO ROCHA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2026
+    ],
+    "UFS": [
+      "MA",
+      "MA"
+    ],
+    "PARTIDOS": [
+      "PSDB",
+      "PRTB"
+    ],
+    "INDICES": [
+      2.4,
+      12.5
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "57480788720",
+    "NOME": "MANATO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2022
+    ],
+    "UFS": [
+      "ES",
+      "ES"
+    ],
+    "PARTIDOS": [
+      "PSL",
+      "PL"
+    ],
+    "INDICES": [
+      0.0,
+      7.1
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "37641565115",
+    "NOME": "MOISÉS FRANZ",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2022
+    ],
+    "UFS": [
+      "MT",
+      "MT"
+    ],
+    "PARTIDOS": [
+      "PSOL",
+      "PSOL"
+    ],
+    "INDICES": [
+      0.0,
+      0.0
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "38105012200",
+    "NOME": "CLEBER RABELO",
+    "N_CANDIDATURAS_COM_INDICE": 3,
+    "CICLOS": [
+      2018,
+      2022,
+      2026
+    ],
+    "UFS": [
+      "PA",
+      "PA",
+      "PA"
+    ],
+    "PARTIDOS": [
+      "PSTU",
+      "PSTU",
+      "PSTU"
+    ],
+    "INDICES": [
+      10.3,
+      19.4,
+      25.0
+    ],
+    "INCUMBENTE": [
+      false,
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "01094775029",
+    "NOME": "EDUARDO LEITE",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2022
+    ],
+    "UFS": [
+      "RS",
+      "RS"
+    ],
+    "PARTIDOS": [
+      "PSDB",
+      "PSDB"
+    ],
+    "INDICES": [
+      0.9,
+      0.6
+    ],
+    "INCUMBENTE": [
+      false,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "16025733449",
+    "NOME": "FATIMA BEZERRA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2022
+    ],
+    "UFS": [
+      "RN",
+      "RN"
+    ],
+    "PARTIDOS": [
+      "PT",
+      "PT"
+    ],
+    "INDICES": [
+      2.1,
+      5.5
+    ],
+    "INCUMBENTE": [
+      false,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "53942590115",
+    "NOME": "IBANEIS ROCHA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2022
+    ],
+    "UFS": [
+      "DF",
+      "DF"
+    ],
+    "PARTIDOS": [
+      "MDB",
+      "MDB"
+    ],
+    "INDICES": [
+      3.5,
+      2.5
+    ],
+    "INCUMBENTE": [
+      false,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "10213770822",
+    "NOME": "WILSON WITZEL",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2022
+    ],
+    "UFS": [
+      "RJ",
+      "RJ"
+    ],
+    "PARTIDOS": [
+      "PSC",
+      "PMB"
+    ],
+    "INDICES": [
+      2.5,
+      4.6
+    ],
+    "INCUMBENTE": [
+      false,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "30682614149",
+    "NOME": "ANTONIO DENARIUM",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2022
+    ],
+    "UFS": [
+      "RR",
+      "RR"
+    ],
+    "PARTIDOS": [
+      "PSL",
+      "PP"
+    ],
+    "INDICES": [
+      0.0,
+      0.0
+    ],
+    "INCUMBENTE": [
+      false,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "92374077268",
+    "NOME": "DAVID HALL",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2022
+    ],
+    "UFS": [
+      "AC",
+      "AC"
+    ],
+    "PARTIDOS": [
+      "AVANTE",
+      "AGIR"
+    ],
+    "INDICES": [
+      4.7,
+      0.0
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "43461107204",
+    "NOME": "GLADSON CAMELI",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2022
+    ],
+    "UFS": [
+      "AC",
+      "AC"
+    ],
+    "PARTIDOS": [
+      "PP",
+      "PP"
+    ],
+    "INDICES": [
+      5.6,
+      4.0
+    ],
+    "INCUMBENTE": [
+      false,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "44727887215",
+    "NOME": "FÁBIO ALMEIDA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2022
+    ],
+    "UFS": [
+      "RR",
+      "RR"
+    ],
+    "PARTIDOS": [
+      "PSOL",
+      "PSOL"
+    ],
+    "INDICES": [
+      0.0,
+      4.8
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "79684475772",
+    "NOME": "ARIDELMO ",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2022
+    ],
+    "UFS": [
+      "ES",
+      "ES"
+    ],
+    "PARTIDOS": [
+      "PTB",
+      "NOVO"
+    ],
+    "INDICES": [
+      7.6,
+      8.2
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "09708901415",
+    "NOME": "DÁRIO BARBOSA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2026
+    ],
+    "UFS": [
+      "RN",
+      "RN"
+    ],
+    "PARTIDOS": [
+      "PSTU",
+      "PSTU"
+    ],
+    "INDICES": [
+      7.3,
+      0.0
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "26472058768",
+    "NOME": "RONALDO CAIADO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2022
+    ],
+    "UFS": [
+      "GO",
+      "GO"
+    ],
+    "PARTIDOS": [
+      "DEM",
+      "UNIÃO"
+    ],
+    "INDICES": [
+      5.2,
+      1.9
+    ],
+    "INCUMBENTE": [
+      false,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "38858240944",
+    "NOME": "DÉCIO LIMA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2022
+    ],
+    "UFS": [
+      "SC",
+      "SC"
+    ],
+    "PARTIDOS": [
+      "PT",
+      "PT"
+    ],
+    "INDICES": [
+      0.8,
+      1.5
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "44250070263",
+    "NOME": "WILSON LIMA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2022
+    ],
+    "UFS": [
+      "AM",
+      "AM"
+    ],
+    "PARTIDOS": [
+      "PSC",
+      "UNIÃO"
+    ],
+    "INDICES": [
+      2.9,
+      0.0
+    ],
+    "INCUMBENTE": [
+      false,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "03208448970",
+    "NOME": "CARLOS MASSA RATINHO JUNIOR",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2022
+    ],
+    "UFS": [
+      "PR",
+      "PR"
+    ],
+    "PARTIDOS": [
+      "PSD",
+      "PSD"
+    ],
+    "INDICES": [
+      1.7,
+      3.8
+    ],
+    "INCUMBENTE": [
+      false,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "41591364272",
+    "NOME": "GIANFRANCO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2022
+    ],
+    "UFS": [
+      "AP",
+      "AP"
+    ],
+    "PARTIDOS": [
+      "PSTU",
+      "PSTU"
+    ],
+    "INDICES": [
+      0.0,
+      8.5
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "08709130420",
+    "NOME": "JOÃO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2022
+    ],
+    "UFS": [
+      "PB",
+      "PB"
+    ],
+    "PARTIDOS": [
+      "PSB",
+      "PSB"
+    ],
+    "INDICES": [
+      2.7,
+      0.8
+    ],
+    "INCUMBENTE": [
+      false,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "46464352920",
+    "NOME": "GELSON MERÍSIO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2026
+    ],
+    "UFS": [
+      "SC",
+      "SC"
+    ],
+    "PARTIDOS": [
+      "PSD",
+      "PSB"
+    ],
+    "INDICES": [
+      1.1,
+      0.0
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "00123185742",
+    "NOME": "CORONEL MARCOS ROCHA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2022
+    ],
+    "UFS": [
+      "RO",
+      "RO"
+    ],
+    "PARTIDOS": [
+      "PSL",
+      "UNIÃO"
+    ],
+    "INDICES": [
+      3.7,
+      1.6
+    ],
+    "INCUMBENTE": [
+      false,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "23019093104",
+    "NOME": "WELLINGTON FAGUNDES",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2026
+    ],
+    "UFS": [
+      "MT",
+      "MT"
+    ],
+    "PARTIDOS": [
+      "PR",
+      "PL"
+    ],
+    "INDICES": [
+      8.2,
+      0.3
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "44906161634",
+    "NOME": "ZEMA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2022
+    ],
+    "UFS": [
+      "MG",
+      "MG"
+    ],
+    "PARTIDOS": [
+      "NOVO",
+      "NOVO"
+    ],
+    "INDICES": [
+      1.8,
+      9.5
+    ],
+    "INCUMBENTE": [
+      false,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "74897837987",
+    "NOME": "PROFESSOR IVAN",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2022
+    ],
+    "UFS": [
+      "PR",
+      "PR"
+    ],
+    "PARTIDOS": [
+      "PSTU",
+      "PSTU"
+    ],
+    "INDICES": [
+      0.0,
+      0.0
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "NÃO ELEITO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "07588615249",
+    "NOME": "OMAR AZIZ",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2026
+    ],
+    "UFS": [
+      "AM",
+      "AM"
+    ],
+    "PARTIDOS": [
+      "PSD",
+      "PSD"
+    ],
+    "INDICES": [
+      0.0,
+      25.2
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "40582280249",
+    "NOME": "DAVID ALMEIDA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2026
+    ],
+    "UFS": [
+      "AM",
+      "AM"
+    ],
+    "PARTIDOS": [
+      "PSB",
+      "AVANTE"
+    ],
+    "INDICES": [
+      1.6,
+      4.1
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "98166638134",
+    "NOME": "DANIEL VILELA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2018,
+      2026
+    ],
+    "UFS": [
+      "GO",
+      "GO"
+    ],
+    "PARTIDOS": [
+      "MDB",
+      "MDB"
+    ],
+    "INDICES": [
+      3.4,
+      6.8
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "99236842372",
+    "NOME": "RAFAEL FONTELES",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "PI",
+      "PI"
+    ],
+    "PARTIDOS": [
+      "PT",
+      "PT"
+    ],
+    "INDICES": [
+      1.4,
+      6.0
+    ],
+    "INCUMBENTE": [
+      false,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "02792979470",
+    "NOME": "RAQUEL LYRA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "PE",
+      "PE"
+    ],
+    "PARTIDOS": [
+      "PSDB",
+      "PSD"
+    ],
+    "INDICES": [
+      8.4,
+      2.7
+    ],
+    "INCUMBENTE": [
+      false,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "60232064253",
+    "NOME": "MARCOS ROGÉRIO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "RO",
+      "RO"
+    ],
+    "PARTIDOS": [
+      "PL",
+      "PL"
+    ],
+    "INDICES": [
+      0.0,
+      7.9
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "98839381953",
+    "NOME": "RALF ZIMMER",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "SC",
+      "SC"
+    ],
+    "PARTIDOS": [
+      "PROS",
+      "PRD"
+    ],
+    "INDICES": [
+      13.4,
+      0.0
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "32332491287",
+    "NOME": "PROFESSOR ROBSON",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "DF",
+      "DF"
+    ],
+    "PARTIDOS": [
+      "PSTU",
+      "PSTU"
+    ],
+    "INDICES": [
+      2.6,
+      2.9
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "35693746534",
+    "NOME": "JERÔNIMO RODRIGUES",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "BA",
+      "BA"
+    ],
+    "PARTIDOS": [
+      "PT",
+      "PT"
+    ],
+    "INDICES": [
+      1.6,
+      1.9
+    ],
+    "INCUMBENTE": [
+      false,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "33318352772",
+    "NOME": "CYRO GARCIA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "RJ",
+      "RJ"
+    ],
+    "PARTIDOS": [
+      "PSTU",
+      "PSTU"
+    ],
+    "INDICES": [
+      14.3,
+      33.3
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "38820064049",
+    "NOME": "REJANE DE OLIVEIRA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "RS",
+      "RS"
+    ],
+    "PARTIDOS": [
+      "PSTU",
+      "PSTU"
+    ],
+    "INDICES": [
+      23.2,
+      25.4
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "25084119904",
+    "NOME": "JORGINHO MELLO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "SC",
+      "SC"
+    ],
+    "PARTIDOS": [
+      "PL",
+      "PL"
+    ],
+    "INDICES": [
+      2.6,
+      0.0
+    ],
+    "INCUMBENTE": [
+      false,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "00014360152",
+    "NOME": "LEANDRO GRASS",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "DF",
+      "DF"
+    ],
+    "PARTIDOS": [
+      "PV",
+      "PT"
+    ],
+    "INDICES": [
+      2.9,
+      11.8
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "15263622104",
+    "NOME": "GERALDO CARVALHO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "PI",
+      "PI"
+    ],
+    "PARTIDOS": [
+      "PSTU",
+      "PSTU"
+    ],
+    "INDICES": [
+      50.0,
+      2.3
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "02966961457",
+    "NOME": "RODRIGO DE BOLSONARO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "RN",
+      "RN"
+    ],
+    "PARTIDOS": [
+      "DC",
+      "AGIR"
+    ],
+    "INDICES": [
+      6.2,
+      0.0
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "34175504249",
+    "NOME": "CLÉCIO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "AP",
+      "AP"
+    ],
+    "PARTIDOS": [
+      "SOLIDARIEDADE",
+      "UNIÃO"
+    ],
+    "INDICES": [
+      1.0,
+      0.6
+    ],
+    "INCUMBENTE": [
+      false,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "00898464781",
+    "NOME": "EDUARDO RIEDEL",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "MS",
+      "MS"
+    ],
+    "PARTIDOS": [
+      "PSDB",
+      "PP"
+    ],
+    "INDICES": [
+      0.0,
+      2.2
+    ],
+    "INCUMBENTE": [
+      false,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "05179095450",
+    "NOME": "INDIRA XAVIER",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "MG",
+      "MG"
+    ],
+    "PARTIDOS": [
+      "UP",
+      "UP"
+    ],
+    "INDICES": [
+      2.1,
+      5.3
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "64360555334",
+    "NOME": "SERLEY LEAL",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "CE",
+      "CE"
+    ],
+    "PARTIDOS": [
+      "UP",
+      "UP"
+    ],
+    "INDICES": [
+      7.7,
+      11.9
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "47828021372",
+    "NOME": "ZÉ BATISTA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "CE",
+      "CE"
+    ],
+    "PARTIDOS": [
+      "PSTU",
+      "PSTU"
+    ],
+    "INDICES": [
+      19.5,
+      17.3
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "18077783805",
+    "NOME": "TARCÍSIO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "SP",
+      "SP"
+    ],
+    "PARTIDOS": [
+      "REPUBLICANOS",
+      "REPUBLICANOS"
+    ],
+    "INDICES": [
+      4.5,
+      5.5
+    ],
+    "INCUMBENTE": [
+      false,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "68371764200",
+    "NOME": "SOLDADO SAMPAIO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "RR",
+      "RR"
+    ],
+    "PARTIDOS": [
+      "REPUBLICANOS",
+      "REPUBLICANOS"
+    ],
+    "INDICES": [
+      2.9,
+      2.5
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "50859692272",
+    "NOME": "ARTHUR HENRIQUE",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "RR",
+      "RR"
+    ],
+    "PARTIDOS": [
+      "PL",
+      "PL"
+    ],
+    "INDICES": [
+      7.7,
+      15.1
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "04501865474",
+    "NOME": "AROLDO FELIX",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "SE",
+      "BA"
+    ],
+    "PARTIDOS": [
+      "UP",
+      "UP"
+    ],
+    "INDICES": [
+      7.5,
+      0.0
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "00854325395",
+    "NOME": "RAVENNA DA INCLUSÃO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "PI",
+      "PI"
+    ],
+    "PARTIDOS": [
+      "PMN",
+      "DEMOCRATA"
+    ],
+    "INDICES": [
+      3.9,
+      0.0
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "48819298520",
+    "NOME": "VALMIR DE FRANCISQUINHO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "SE",
+      "SE"
+    ],
+    "PARTIDOS": [
+      "PL",
+      "REPUBLICANOS"
+    ],
+    "INDICES": [
+      1.9,
+      0.4
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "33976724068",
+    "NOME": "CESAR PONTES",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "RS",
+      "RS"
+    ],
+    "PARTIDOS": [
+      "PCO",
+      "PCO"
+    ],
+    "INDICES": [
+      12.5,
+      4.5
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "56583400553",
+    "NOME": "ACM NETO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "BA",
+      "BA"
+    ],
+    "PARTIDOS": [
+      "UNIÃO",
+      "UNIÃO"
+    ],
+    "INDICES": [
+      6.0,
+      28.0
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "65242777591",
+    "NOME": "FÁBIO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "SE",
+      "SE"
+    ],
+    "PARTIDOS": [
+      "PSD",
+      "PSD"
+    ],
+    "INDICES": [
+      2.2,
+      1.5
+    ],
+    "INCUMBENTE": [
+      false,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "00966869958",
+    "NOME": "ADRIANO FUNILEIRO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "PR",
+      "PR"
+    ],
+    "PARTIDOS": [
+      "PCO",
+      "PCO"
+    ],
+    "INDICES": [
+      12.5,
+      4.5
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "05233117886",
+    "NOME": "FERNANDO HADDAD",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "SP",
+      "SP"
+    ],
+    "PARTIDOS": [
+      "PT",
+      "PT"
+    ],
+    "INDICES": [
+      1.4,
+      0.0
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "47429631304",
+    "NOME": "GUSTAVO PELO PIAUÍ OU GUSTAVO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "PI",
+      "PI"
+    ],
+    "PARTIDOS": [
+      "PATRIOTA",
+      "AVANTE"
+    ],
+    "INDICES": [
+      3.4,
+      0.0
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "61476161291",
+    "NOME": "JAIRO PALHETA",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "AP",
+      "AP"
+    ],
+    "PARTIDOS": [
+      "PCO",
+      "PCO"
+    ],
+    "INDICES": [
+      12.5,
+      4.5
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "29853109620",
+    "NOME": "ALEXANDRE KALIL",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "MG",
+      "MG"
+    ],
+    "PARTIDOS": [
+      "PSD",
+      "PDT"
+    ],
+    "INDICES": [
+      7.7,
+      1.1
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "13129297740",
+    "NOME": "JULIETE",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "RJ",
+      "RJ"
+    ],
+    "PARTIDOS": [
+      "UP",
+      "UP"
+    ],
+    "INDICES": [
+      1.7,
+      3.2
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "NÃO ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "50674854349",
+    "NOME": "ELMANO DE FREITAS",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2022,
+      2026
+    ],
+    "UFS": [
+      "CE",
+      "CE"
+    ],
+    "PARTIDOS": [
+      "PT",
+      "PT"
+    ],
+    "INDICES": [
+      3.3,
+      1.6
+    ],
+    "INCUMBENTE": [
+      false,
+      true
+    ],
+    "RESULTADO": [
+      "ELEITO",
+      "#NULO"
+    ]
+  },
+  {
+    "NR_CPF_CANDIDATO": "69727546153",
+    "NOME": "SARGENTO LAUDICÉRIO",
+    "N_CANDIDATURAS_COM_INDICE": 2,
+    "CICLOS": [
+      2026,
+      2026
+    ],
+    "UFS": [
+      "MT",
+      "MT"
+    ],
+    "PARTIDOS": [
+      "AGIR",
+      "AGIR"
+    ],
+    "INDICES": [
+      7.6,
+      7.6
+    ],
+    "INCUMBENTE": [
+      false,
+      false
+    ],
+    "RESULTADO": [
+      "#NULO",
+      "#NULO"
+    ]
+  }
+]

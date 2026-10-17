@@ -1,0 +1,100 @@
+{
+  "n_candidatos_2026_com_despesa": 13,
+  "n_fornecedores_compartilhados": 4,
+  "fornecedores_compartilhados": [
+    {
+      "cnpj_cpf": "25021356000132",
+      "nome_fornecedor": "DLOCAL BRASIL INSTITUICAO DE PAGAMENTO S.A.",
+      "candidatos": [
+        {
+          "sq": "90002540993",
+          "uf": "GO",
+          "nome": "DANIEL VILELA",
+          "partido": "MDB",
+          "indice": 6.8
+        },
+        {
+          "sq": "220002551251",
+          "uf": "RO",
+          "nome": "PEDRO ABIB",
+          "partido": "MDB",
+          "indice": 8.1
+        },
+        {
+          "sq": "10002532492",
+          "uf": "AC",
+          "nome": "ALAN RICK",
+          "partido": "REPUBLICANOS",
+          "indice": 1.8
+        },
+        {
+          "sq": "170002537230",
+          "uf": "PE",
+          "nome": "JOÃO CAMPOS",
+          "partido": "PSB",
+          "indice": 0.3
+        }
+      ]
+    },
+    {
+      "cnpj_cpf": "13347016000117",
+      "nome_fornecedor": "FACEBOOK SERVICOS ONLINE DO BRASIL LTDA.",
+      "candidatos": [
+        {
+          "sq": "100002551399",
+          "uf": "MA",
+          "nome": "ROBERTO ROCHA",
+          "partido": "PRTB",
+          "indice": 12.5
+        },
+        {
+          "sq": "130002550464",
+          "uf": "MG",
+          "nome": "PATRUS ANANIAS",
+          "partido": "PT",
+          "indice": 1.4
+        }
+      ]
+    },
+    {
+      "cnpj_cpf": "38726170000120",
+      "nome_fornecedor": "ALMEIDA & GALVAO ASSOCIADOS LTDA",
+      "candidatos": [
+        {
+          "sq": "130002550464",
+          "uf": "MG",
+          "nome": "PATRUS ANANIAS",
+          "partido": "PT",
+          "indice": 1.4
+        },
+        {
+          "sq": "130002549557",
+          "uf": "MG",
+          "nome": "GABRIEL",
+          "partido": "MDB",
+          "indice": 9.8
+        }
+      ]
+    },
+    {
+      "cnpj_cpf": "13913408000104",
+      "nome_fornecedor": "XR GLOBAL BRASIL LTDA",
+      "candidatos": [
+        {
+          "sq": "130002550464",
+          "uf": "MG",
+          "nome": "PATRUS ANANIAS",
+          "partido": "PT",
+          "indice": 1.4
+        },
+        {
+          "sq": "220002551251",
+          "uf": "RO",
+          "nome": "PEDRO ABIB",
+          "partido": "MDB",
+          "indice": 8.1
+        }
+      ]
+    }
+  ]
+}

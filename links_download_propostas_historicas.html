@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Links de download — Proposta de Governo (2014, 2018, 2022)</title>
+<style>
+  body { font-family: -apple-system, Segoe UI, Arial, sans-serif; max-width: 700px; margin: 2rem auto; padding: 0 1rem; color: #222; }
+  h1 { font-size: 1.3rem; }
+  h2 { font-size: 1.1rem; margin-top: 2rem; border-bottom: 1px solid #ddd; padding-bottom: 0.3rem; }
+  ul { columns: 3; -webkit-columns: 3; list-style: none; padding: 0; }
+  li { margin-bottom: 0.4rem; break-inside: avoid; }
+  a { text-decoration: none; color: #1a5fb4; font-weight: 600; }
+  a:hover { text-decoration: underline; }
+  p.note { color: #555; font-size: 0.9rem; }
+</style>
+</head>
+<body>
+<h1>Proposta de Governo — 27 estados x 3 ciclos (2014, 2018, 2022)</h1>
+<p class="note">Clique em cada link para baixar o zip direto (cada um cai no seu Downloads). Pode ir clicando aos poucos — eu vou puxando e processando o que já tiver baixado.</p>
+<script>
+const ufs = ["AC","AL","AM","AP","BA","CE","DF","ES","GO","MA","MG","MS","MT","PA","PB","PE","PI","PR","RJ","RN","RO","RR","RS","SC","SE","SP","TO"];
+const anos = [2014, 2018, 2022];
+document.write(anos.map(ano => `
+  <h2>${ano}</h2>
+  <ul>
+  ${ufs.map(uf => {
+    const url = `https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_${ano}_${uf}.zip`;
+    return `<li><a href="${url}" download>${uf}</a></li>`;
+  }).join("")}
+  </ul>
+`).join(""));
+</script>
+</body>
+</html>

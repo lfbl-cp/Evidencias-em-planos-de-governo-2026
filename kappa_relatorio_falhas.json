@@ -1,0 +1,995 @@
+{
+  "resumo_matrizes_confusao": {
+    "pilar_a": {
+      "concordam_true": 19,
+      "concordam_false": 145,
+      "motor_true_llm_false": 21,
+      "motor_false_llm_true": 19
+    },
+    "pilar_b": {
+      "concordam_true": 15,
+      "concordam_false": 162,
+      "motor_true_llm_false": 27,
+      "motor_false_llm_true": 0
+    },
+    "pilar_c": {
+      "concordam_true": 40,
+      "concordam_false": 139,
+      "motor_true_llm_false": 18,
+      "motor_false_llm_true": 7
+    }
+  },
+  "discordancias": [
+    {
+      "id": "S0001",
+      "pilar": "a",
+      "motor": true,
+      "llm": false,
+      "frase": "Fontes: IBGE Nota: Índice acumulado ( base: igual período do ano anterior = 100 )",
+      "veredito": "llm_certo",
+      "justificativa": "E apenas a legenda/fonte de uma tabela ('Fontes: IBGE... Nota: Índice acumulado'), sem nenhuma afirmação sobre um problema; o motor disparou só por conter a palavra 'ibge'."
+    },
+    {
+      "id": "S0003",
+      "pilar": "a",
+      "motor": true,
+      "llm": false,
+      "frase": "Segundo dados da Organização Mundial da Saúde, em 2012, o",
+      "veredito": "llm_certo",
+      "justificativa": "A frase é cortada antes de qualquer valor numérico real; o único 'número' que passa no motor é o ano (2012), não uma estatística de fato."
+    },
+    {
+      "id": "S0004",
+      "pilar": "a",
+      "motor": true,
+      "llm": false,
+      "frase": "Por isso, em pleno século 21, muitos trabalhadores não têm condições de pagar as tarifas e se",
+      "veredito": "llm_certo",
+      "justificativa": "O 'número' que ativa o motor é o dígito de 'século 21' e o gatilho é 'não têm', mas a frase não apresenta nenhuma estatística sobre um problema, é uma afirmação genérica."
+    },
+    {
+      "id": "S0005",
+      "pilar": "a",
+      "motor": true,
+      "llm": false,
+      "frase": "sobretudo, nos últimos 10 anos, mas, segundo o IBGE, não",
+      "veredito": "llm_certo",
+      "justificativa": "Frase cortada antes de qualquer valor; 'nos últimos 10 anos' é uma janela temporal, não uma estatística, e a oração com 'segundo o IBGE, não' é interrompida antes do conteúdo."
+    },
+    {
+      "id": "S0007",
+      "pilar": "a",
+      "motor": true,
+      "llm": false,
+      "frase": "Na definição do IBGE, aglomerado subnormal é um conjunto de, no mínimo, 51 unidades habitacionais carentes,",
+      "veredito": "ambiguo",
+      "justificativa": "Define um termo técnico do IBGE com um limiar numérico (51 unidades) — é defensável tanto ler como diagnóstico com fonte quanto como definição metodológica que antecede o diagnóstico real."
+    },
+    {
+      "id": "S0009",
+      "pilar": "a",
+      "motor": true,
+      "llm": false,
+      "frase": "quando foi atingido o menor índice.",
+      "veredito": "ambiguo",
+      "justificativa": "Frase gramaticalmente completa mas sem indicador nomeado nem dígito ('quando foi atingido o menor índice') — o contexto que daria sentido à comparação está em uma frase anterior não incluída na amostra."
+    },
+    {
+      "id": "S0011",
+      "pilar": "a",
+      "motor": false,
+      "llm": true,
+      "frase": "Aumento de 25% a 88%, dependendo do cargo, em 2006",
+      "veredito": "llm_certo",
+      "justificativa": "'Aumento de 25% a 88%... em 2006' é uma estatística histórica completa e quantificada, mas não usa nenhuma das frases-gatilho fixas do motor para o Pilar A (não tem 'segundo dados', 'taxa de', 'ibge' etc.), por isso o motor não a reconhece como diagnóstico."
+    },
+    {
+      "id": "S0020",
+      "pilar": "a",
+      "motor": false,
+      "llm": true,
+      "frase": "indicador apresentou um valor de 88 óbitos, que representa uma redução de",
+      "veredito": "llm_certo",
+      "justificativa": "'indicador apresentou um valor de 88 óbitos' é claramente um diagnóstico numérico, mas a frase não contém nenhuma das expressões fixas exigidas pelo DIAG_KEYWORDS_RE do motor."
+    },
+    {
+      "id": "S0028",
+      "pilar": "a",
+      "motor": false,
+      "llm": true,
+      "frase": "Segundo o IPEA, cerca de 37 milhões de brasileiros estavam nesta situação em",
+      "veredito": "llm_certo",
+      "justificativa": "Cita o IPEA com um número (37 milhões) — um diagnóstico legítimo — mas 'ipea' não está na lista de gatilhos do Pilar A do motor (só está na lista do Pilar C), uma inconsistência entre as duas listas."
+    },
+    {
+      "id": "S0052",
+      "pilar": "a",
+      "motor": true,
+      "llm": false,
+      "frase": "meio de construção de novas escolas nas regiões com maior índice de",
+      "veredito": "llm_certo",
+      "justificativa": "'com maior índice de' funciona aqui como critério de direcionamento dentro de uma frase de proposta ('construção de escolas nas regiões com maior índice de...'), não como uma afirmação diagnóstica isolada sobre um problema atual."
+    },
+    {
+      "id": "S0053",
+      "pilar": "a",
+      "motor": true,
+      "llm": false,
+      "frase": "e derivados, embora a matéria-prima, não tem renovado as manivas em condições de manter maior",
+      "veredito": "llm_certo",
+      "justificativa": "Texto truncado/incoerente sobre insumo agrícola; o motor passa pelo portão numérico só porque a palavra 'maior' aparece solta (não em 'maior índice/taxa') e casa com 'não tem', sem nenhuma estatística real presente."
+    },
+    {
+      "id": "S0056",
+      "pilar": "a",
+      "motor": true,
+      "llm": false,
+      "frase": "Dados do Projeto da LDO de 2019 indicam um crescimento da dívida em",
+      "veredito": "llm_certo",
+      "justificativa": "A frase é cortada exatamente antes do número que seria a estatística ('crescimento da dívida em ___'); o único dígito presente é o ano do projeto de lei (2019), não uma medida diagnóstica."
+    },
+    {
+      "id": "S0059",
+      "pilar": "a",
+      "motor": true,
+      "llm": false,
+      "frase": "quanto aos dados do produto interno bruto em 2015.",
+      "veredito": "llm_certo",
+      "justificativa": "Fragmento sem valor numérico do PIB; o único dígito é o ano (2015), inserido em uma oração comparativa incompleta."
+    },
+    {
+      "id": "S0061",
+      "pilar": "a",
+      "motor": true,
+      "llm": false,
+      "frase": "Fonte: cálculos próprio com base nos dados da tabela 1.1.",
+      "veredito": "llm_certo",
+      "justificativa": "É uma citação de fonte de tabela ('Fonte: cálculos próprio com base nos dados da tabela 1.1'), não uma frase com conteúdo diagnóstico sobre um problema."
+    },
+    {
+      "id": "S0063",
+      "pilar": "a",
+      "motor": false,
+      "llm": true,
+      "frase": "Isso foi reflexo da redução da população de 0 a 19 anos, que de 35,9%",
+      "veredito": "llm_certo",
+      "justificativa": "Estatística demográfica histórica completa (queda de 35,9% na faixa 0-19 anos), mas sem nenhuma frase-gatilho fixa de diagnóstico reconhecida pelo motor."
+    },
+    {
+      "id": "S0064",
+      "pilar": "a",
+      "motor": false,
+      "llm": true,
+      "frase": "número de idosos dos atuais 9,2% para quase 20% em 2030 e a redução de",
+      "veredito": "llm_certo",
+      "justificativa": "Projeção/diagnóstico demográfico quantificado (9,2% para quase 20% até 2030), sem frase-gatilho fixa reconhecida pelo motor."
+    },
+    {
+      "id": "S0065",
+      "pilar": "a",
+      "motor": false,
+      "llm": true,
+      "frase": "humanidade, tenha a redução do número de visitantes, de mais de 60% a cada ano.",
+      "veredito": "llm_certo",
+      "justificativa": "Estatística de tendência quantificada (queda de mais de 60% ao ano nos visitantes), sem frase-gatilho fixa reconhecida pelo motor."
+    },
+    {
+      "id": "S0067",
+      "pilar": "a",
+      "motor": false,
+      "llm": true,
+      "frase": "seja, redução de R$ 17 bilhões.",
+      "veredito": "ambiguo",
+      "justificativa": "Fragmento com valor completo (R$ 17 bilhões) mas sem sujeito/contexto suficiente para confirmar se descreve um fato diagnóstico ou é parte de outra construção."
+    },
+    {
+      "id": "S0068",
+      "pilar": "a",
+      "motor": false,
+      "llm": true,
+      "frase": "Esse valor corresponde a um aumento de 9,5%, enquanto que o recente",
+      "veredito": "llm_certo",
+      "justificativa": "'aumento de 9,5%' é um valor histórico claro, mas a frase não contém nenhuma expressão fixa do DIAG_KEYWORDS_RE do motor."
+    },
+    {
+      "id": "S0070",
+      "pilar": "a",
+      "motor": false,
+      "llm": true,
+      "frase": "mulheres não negras Queda de 10,8%.",
+      "veredito": "llm_certo",
+      "justificativa": "'Queda de 10,8%' comparando grupos raciais é um diagnóstico quantificado, mas sem frase-gatilho fixa reconhecida pelo motor."
+    },
+    {
+      "id": "S0078",
+      "pilar": "a",
+      "motor": false,
+      "llm": true,
+      "frase": "No período compreendido nesta pesquisa divulgada pelo IPEA (2011-2013), ocorreram 5.860",
+      "veredito": "llm_certo",
+      "justificativa": "Cita o IPEA com números (2011-2013, 5.860), mas 'ipea' não está na lista de gatilhos do Pilar A do motor — mesma lacuna de S0028."
+    },
+    {
+      "id": "S0101",
+      "pilar": "a",
+      "motor": false,
+      "llm": true,
+      "frase": "1,4 segundos uma mulher é vítima de",
+      "veredito": "llm_certo",
+      "justificativa": "'a cada 1,4 segundos uma mulher é vítima de...' é uma estatística de taxa clássica, mas essa construção ('a cada X segundos') não está coberta pelo DIAG_KEYWORDS_RE (que só cobre 'um em cada')."
+    },
+    {
+      "id": "S0104",
+      "pilar": "a",
+      "motor": true,
+      "llm": false,
+      "frase": "Pelas estimativas do IBGE, produzidas para o ano de 2021, somente Teresina conta com população",
+      "veredito": "llm_certo",
+      "justificativa": "Frase cortada antes do número de população que seria a estatística; o dígito que ativa o motor é o ano (2021) da estimativa, não a cifra em si."
+    },
+    {
+      "id": "S0105",
+      "pilar": "a",
+      "motor": true,
+      "llm": false,
+      "frase": "Pois de acordo com dados obtidos pela PDAD 2021,",
+      "veredito": "llm_certo",
+      "justificativa": "Cortada logo após nomear a fonte (PDAD 2021) e antes de qualquer dado; o único dígito é o ano da pesquisa."
+    },
+    {
+      "id": "S0106",
+      "pilar": "a",
+      "motor": true,
+      "llm": false,
+      "frase": "Dados da pesquisa Atlas da Violência 2021 mostram que a taxa de",
+      "veredito": "llm_certo",
+      "justificativa": "Cortada antes do valor da taxa ('a taxa de ___'); o único dígito visível é o ano da pesquisa (2021)."
+    },
+    {
+      "id": "S0107",
+      "pilar": "a",
+      "motor": true,
+      "llm": false,
+      "frase": "com maior índice de violência contra as mulheres, e que possuam",
+      "veredito": "llm_certo",
+      "justificativa": "'com maior índice de violência' funciona como critério de elegibilidade/direcionamento de uma proposta ('...e que possuam...'), não como afirmação diagnóstica autônoma."
+    },
+    {
+      "id": "S0109",
+      "pilar": "a",
+      "motor": true,
+      "llm": false,
+      "frase": "registrada em dois anos, entre 2019 e 2021, de acordo com o Censo Escolar 2021, elaborado pela",
+      "veredito": "llm_certo",
+      "justificativa": "Cortada antes de qualquer valor; os dígitos presentes são anos (2019, 2021) do período de referência do Censo Escolar, não uma estatística de fato."
+    },
+    {
+      "id": "S0111",
+      "pilar": "a",
+      "motor": true,
+      "llm": false,
+      "frase": "Conforme o IBGE, a população de Alagoas foi estimada para 2021 em 3.365.351",
+      "veredito": "llm_certo",
+      "justificativa": "Uma estimativa populacional bruta, por si só, não é o diagnóstico numérico de um 'problema' — é um dado demográfico neutro, mesmo citando o IBGE e um número completo."
+    },
+    {
+      "id": "S0114",
+      "pilar": "a",
+      "motor": false,
+      "llm": true,
+      "frase": "e 2019 houve um aumento de 1 p.p no déficit relativo e um aumento em termos absolutos,",
+      "veredito": "llm_certo",
+      "justificativa": "'houve um aumento de 1 p.p. no déficit... e um aumento em termos absolutos' é um diagnóstico histórico claro, sem frase-gatilho fixa reconhecida pelo motor."
+    },
+    {
+      "id": "S0118",
+      "pilar": "a",
+      "motor": false,
+      "llm": true,
+      "frase": "mesmo período de 2019, houve uma queda de 6% “indicando quão negativo foi o impacto da",
+      "veredito": "llm_certo",
+      "justificativa": "'houve uma queda de 6%... indicando quão negativo foi o impacto' é um diagnóstico histórico explícito, sem frase-gatilho fixa reconhecida pelo motor."
+    },
+    {
+      "id": "S0121",
+      "pilar": "a",
+      "motor": false,
+      "llm": true,
+      "frase": "salários e informalidade, com queda de -11,9% do rendimento médio salarial, seguido por",
+      "veredito": "llm_certo",
+      "justificativa": "'queda de -11,9% do rendimento médio salarial' é um diagnóstico quantificado claro, sem frase-gatilho fixa reconhecida pelo motor."
+    },
+    {
+      "id": "S0125",
+      "pilar": "a",
+      "motor": false,
+      "llm": true,
+      "frase": "relevante da receita corrente líquida (em torno de 58%, conforme dados de 2021).",
+      "veredito": "llm_certo",
+      "justificativa": "'conforme dados de 2021' deveria disparar o diagnóstico, mas o DIAG_KEYWORDS_RE só reconhece as formas 'dados da'/'dados do', não 'dados de'."
+    },
+    {
+      "id": "S0128",
+      "pilar": "a",
+      "motor": false,
+      "llm": true,
+      "frase": "liderado o ranking, segundo dados da Rede de Observatórios da Violência foram onze",
+      "veredito": "llm_certo",
+      "justificativa": "Contém 'segundo dados da Rede de Observatórios da Violência' (frase-gatilho válida), mas o número de ocorrências está escrito por extenso ('onze'), e o NUM_ANY do motor só reconhece dígitos, não numerais por extenso — o portão numérico barra a frase antes mesmo de checar a keyword."
+    },
+    {
+      "id": "S0158",
+      "pilar": "a",
+      "motor": true,
+      "llm": false,
+      "frase": "maior índice entre os estados brasileiros.",
+      "veredito": "motor_certo",
+      "justificativa": "'Maior índice entre os estados' é uma afirmação de ranking/posição comparativa, que o codebook admite explicitamente como diagnóstico ('ranking'), mesmo sem um valor numérico bruto explícito na frase."
+    },
+    {
+      "id": "S0160",
+      "pilar": "a",
+      "motor": true,
+      "llm": false,
+      "frase": "IBGE.Pesquisa de Informações Básicas Municipais (Munic) 2023 — Meio Ambiente.",
+      "veredito": "llm_certo",
+      "justificativa": "É um título/legenda de tabela ('IBGE. Pesquisa de Informações Básicas Municipais (Munic) 2023 — Meio Ambiente'), não uma frase com afirmação diagnóstica; o detector de cabeçalho do motor não capturou esse formato."
+    },
+    {
+      "id": "S0161",
+      "pilar": "a",
+      "motor": true,
+      "llm": false,
+      "frase": "municípios de menor Índice de Desenvolvimento Humano e ampliado no",
+      "veredito": "llm_certo",
+      "justificativa": "'menor Índice de Desenvolvimento Humano' funciona como critério de onde a ação será ampliada dentro de uma frase de proposta, não como uma afirmação diagnóstica isolada."
+    },
+    {
+      "id": "S0163",
+      "pilar": "a",
+      "motor": true,
+      "llm": false,
+      "frase": "​relaciona​ ​diariamente​ ​com​ ​os​ ​municípios​ ​goianos​ ​da​ ​Periferia​ ​Metropolitana​ ​de​ ​Brasília.​ ​(IBGE,​ ​2022;​",
+      "veredito": "llm_certo",
+      "justificativa": "Citação acadêmica solta '(IBGE, 2022;...)' anexada a uma frase descritiva sobre deslocamento municipal, sem nenhuma estatística/taxa apresentada no trecho."
+    },
+    {
+      "id": "S0166",
+      "pilar": "a",
+      "motor": false,
+      "llm": true,
+      "frase": "meta de redução de pelo menos 20% ao ano no estoque de 1.551 contratos",
+      "veredito": "llm_certo",
+      "justificativa": "'no estoque de 1.551 contratos' é o diagnóstico de um problema atual (backlog), mas a frase não contém nenhuma expressão fixa do DIAG_KEYWORDS_RE do motor."
+    },
+    {
+      "id": "S0167",
+      "pilar": "a",
+      "motor": false,
+      "llm": true,
+      "frase": "infantil está abaixo de 70% na maioria dos municípios, frente à meta de 95%.",
+      "veredito": "llm_certo",
+      "justificativa": "'está abaixo de 70%... frente à meta de 95%' é um diagnóstico claro de cobertura insuficiente, mas o motor só reconhece a frase fixa 'abaixo da linha de pobreza', não o padrão geral 'abaixo de X%'."
+    },
+    {
+      "id": "S0173",
+      "pilar": "a",
+      "motor": false,
+      "llm": true,
+      "frase": "Entre 2012 e 2021, o estado perdeu 388.031 empregos industriais, uma redução de",
+      "veredito": "llm_certo",
+      "justificativa": "'perdeu 388.031 empregos industriais... uma redução de' é um diagnóstico numérico de alta qualidade (período, fonte implícita, magnitude), mas não contém nenhuma frase-gatilho fixa do motor — um dos casos mais claros de falso negativo do motor na amostra."
+    },
+    {
+      "id": "S0011",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "Aumento de 25% a 88%, dependendo do cargo, em 2006",
+      "veredito": "llm_certo",
+      "justificativa": "Descreve um aumento salarial ocorrido em 2006 (fato passado, histórico), não uma promessa de mudança futura do candidato — o motor conflacionou estatística histórica com efeito prometido."
+    },
+    {
+      "id": "S0015",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "na redução da violência no trânsito, em 2011, o índice de vítimas fatais em",
+      "veredito": "llm_certo",
+      "justificativa": "Descreve o índice de vítimas fatais registrado em 2011 (dado histórico/diagnóstico), não uma meta futura do candidato."
+    },
+    {
+      "id": "S0016",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "8.2.3 Diante das ameaças patronais de redução da                       as empresas contratantes",
+      "veredito": "llm_certo",
+      "justificativa": "O 'número' que ativa o motor é a numeração de seção '8.2.3', não uma meta quantificada; o texto em si é sobre uma ameaça patronal, não uma promessa de governo."
+    },
+    {
+      "id": "S0017",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "2) gestão por resultados, para aumentar o comprometimento do setor público",
+      "veredito": "llm_certo",
+      "justificativa": "O 'número' que ativa o motor é a numeração de lista '2)'; não há nenhuma meta quantificada de fato para 'aumentar o comprometimento do setor público'."
+    },
+    {
+      "id": "S0020",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "indicador apresentou um valor de 88 óbitos, que representa uma redução de",
+      "veredito": "llm_certo",
+      "justificativa": "'representa uma redução de' descreve uma variação já ocorrida (indicador de óbitos), não uma promessa futura — mesmo padrão de conflação histórico/promessa."
+    },
+    {
+      "id": "S0055",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "7 A redução da taxa de analfabetismo em comparação com a gestão Vilela foi de 0,6%, segundo dados da PNAD 2016.",
+      "veredito": "llm_certo",
+      "justificativa": "Compara a queda de 0,6% na taxa de analfabetismo com a gestão anterior, citando a PNAD — é diagnóstico histórico comparativo (aliás corretamente classificado como bucket A pelo próprio motor), não uma promessa futura."
+    },
+    {
+      "id": "S0062",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "Ofertar mamografia a todas as mulheres goianas na faixa etária maior de 40 anos para redução do",
+      "veredito": "llm_certo",
+      "justificativa": "O número presente (40 anos) é o critério de elegibilidade etária para a mamografia, não a magnitude da redução prometida, que fica sem valor especificado na frase."
+    },
+    {
+      "id": "S0063",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "Isso foi reflexo da redução da população de 0 a 19 anos, que de 35,9%",
+      "veredito": "llm_certo",
+      "justificativa": "Descreve uma mudança demográfica histórica (queda de 35,9% na população jovem), não uma promessa de política pública."
+    },
+    {
+      "id": "S0064",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "número de idosos dos atuais 9,2% para quase 20% em 2030 e a redução de",
+      "veredito": "llm_certo",
+      "justificativa": "Descreve uma projeção/tendência demográfica (envelhecimento populacional), não um compromisso de governo quantificado."
+    },
+    {
+      "id": "S0065",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "humanidade, tenha a redução do número de visitantes, de mais de 60% a cada ano.",
+      "veredito": "llm_certo",
+      "justificativa": "Descreve uma tendência de queda no turismo (consequência/contexto), não uma promessa de efeito do governo."
+    },
+    {
+      "id": "S0067",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "seja, redução de R$ 17 bilhões.",
+      "veredito": "ambiguo",
+      "justificativa": "Fragmento sem sujeito claro; não dá para confirmar se 'redução de R$ 17 bilhões' é um fato diagnosticado ou uma meta prometida."
+    },
+    {
+      "id": "S0068",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "Esse valor corresponde a um aumento de 9,5%, enquanto que o recente",
+      "veredito": "llm_certo",
+      "justificativa": "'Esse valor corresponde a um aumento de 9,5%' descreve algo que já ocorreu, não uma promessa futura."
+    },
+    {
+      "id": "S0070",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "mulheres não negras Queda de 10,8%.",
+      "veredito": "llm_certo",
+      "justificativa": "'Queda de 10,8%' é uma estatística comparativa histórica entre grupos, não uma meta de política."
+    },
+    {
+      "id": "S0071",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "POLÍTICAS PÚBLICAS PARA AS MULHERES       1.5           1) Reduzir a desigualdade de gênero no mundo",
+      "veredito": "llm_certo",
+      "justificativa": "Os números presentes ('1.5', '1)') são numeração de seção/lista; 'reduzir a desigualdade de gênero no mundo' não tem nenhuma magnitude quantificada — é um compromisso genérico sem base."
+    },
+    {
+      "id": "S0113",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "1) Redução da população prisional e       -privada e da “Gestão Compartilhada”",
+      "veredito": "llm_certo",
+      "justificativa": "O número presente é a numeração de lista '1)'; a frase ('redução da população prisional') não especifica nenhuma magnitude — compromisso genérico."
+    },
+    {
+      "id": "S0114",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "e 2019 houve um aumento de 1 p.p no déficit relativo e um aumento em termos absolutos,",
+      "veredito": "llm_certo",
+      "justificativa": "'houve um aumento... em 2019' descreve um fato histórico do déficit, não uma promessa futura do candidato."
+    },
+    {
+      "id": "S0115",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "meta de transformação através de um governo Inovativo - 360 º.",
+      "veredito": "llm_certo",
+      "justificativa": "'meta de' aqui é usado como parte do nome de um programa ('governo Inovativo - 360º'), não como uma meta quantificada real; '360' é um número de marca, não um alvo de política."
+    },
+    {
+      "id": "S0117",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "12          •   Reduzir a níveis satisfatórios todas as faces da violência e do crime, fortalecendo os mecanismos de",
+      "veredito": "llm_certo",
+      "justificativa": "O número presente ('12') é numeração de página/item de lista; 'reduzir a níveis satisfatórios' não tem nenhuma magnitude — compromisso vago."
+    },
+    {
+      "id": "S0118",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "mesmo período de 2019, houve uma queda de 6% “indicando quão negativo foi o impacto da",
+      "veredito": "llm_certo",
+      "justificativa": "'houve uma queda de 6%... indicando quão negativo foi o impacto' é claramente uma descrição de um fato passado (diagnóstico), não uma promessa."
+    },
+    {
+      "id": "S0120",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "Objetivo 11: Reduzir o impacto financeiro da judicialização em saúde.",
+      "veredito": "llm_certo",
+      "justificativa": "O número presente ('Objetivo 11') é numeração de um objetivo/eixo do plano, não uma meta quantificada; 'reduzir o impacto financeiro' não tem magnitude especificada."
+    },
+    {
+      "id": "S0121",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "salários e informalidade, com queda de -11,9% do rendimento médio salarial, seguido por",
+      "veredito": "llm_certo",
+      "justificativa": "'queda de -11,9% do rendimento médio salarial' descreve um fato diagnosticado sobre o mercado de trabalho, não uma promessa de governo."
+    },
+    {
+      "id": "S0122",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "9.6.1 Dar continuidade às ações de redução do déficit de vagas no sistema prisional.",
+      "veredito": "llm_certo",
+      "justificativa": "O número presente ('9.6.1') é numeração de seção; 'dar continuidade às ações de redução do déficit' não especifica nenhuma magnitude."
+    },
+    {
+      "id": "S0156",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "O Censo escolar 2025 apontou uma redução de 38,4 mil matrículas na educação básica do RS.",
+      "veredito": "llm_certo",
+      "justificativa": "'O Censo Escolar 2025 apontou uma redução de 38,4 mil matrículas' é um diagnóstico histórico com fonte, não uma promessa de efeito futuro do candidato."
+    },
+    {
+      "id": "S0169",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "Restauração com aumento de capacidade da PR-170, entre o Rio Jordão e a BR-153",
+      "veredito": "llm_certo",
+      "justificativa": "Os números presentes ('PR-170', 'BR-153') são nomenclaturas de rodovias, não uma magnitude de aumento de capacidade prometida — nenhum percentual ou meta é dado."
+    },
+    {
+      "id": "S0171",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "1.​ Redução da tarifa de transporte público garantindo que o gasto com",
+      "veredito": "llm_certo",
+      "justificativa": "O número presente ('1.') é numeração de lista; a frase é cortada antes de qualquer magnitude para a redução da tarifa."
+    },
+    {
+      "id": "S0172",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "global deve aumentar entre 2,5°C e 2,9°C até o fim do século – um patamar considerado extremamente",
+      "veredito": "llm_certo",
+      "justificativa": "Descreve uma projeção de aquecimento global (fenômeno externo, fora do controle do candidato), não um efeito prometido por ele — o motor conta a variação de temperatura como se fosse uma meta de governo."
+    },
+    {
+      "id": "S0173",
+      "pilar": "b",
+      "motor": true,
+      "llm": false,
+      "frase": "Entre 2012 e 2021, o estado perdeu 388.031 empregos industriais, uma redução de",
+      "veredito": "llm_certo",
+      "justificativa": "'perdeu 388.031 empregos... uma redução de' descreve um fato histórico diagnosticado (2012-2021), não uma promessa de mudança futura."
+    },
+    {
+      "id": "S0002",
+      "pilar": "c",
+      "motor": false,
+      "llm": true,
+      "frase": "Os dados do Censo de 2010, indicam um total de 75.202 pessoas",
+      "veredito": "llm_certo",
+      "justificativa": "Cita o 'Censo' como fonte de um dado — 'censo' já é reconhecido pelo motor como gatilho do Pilar A, mas não está na lista de instituições do Pilar C (EVIDENCIA_RE), uma inconsistência entre as duas listas do próprio motor."
+    },
+    {
+      "id": "S0021",
+      "pilar": "c",
+      "motor": true,
+      "llm": false,
+      "frase": "projetos com base em indicadores de resultados e de desempenho.",
+      "veredito": "llm_certo",
+      "justificativa": "'com base em indicadores de resultados e de desempenho' é jargão de gestão genérico, sem citar nenhum estudo, instituição ou lei específica — exatamente o tipo de frase que o codebook classificaria como retórica, não evidência externa."
+    },
+    {
+      "id": "S0023",
+      "pilar": "c",
+      "motor": true,
+      "llm": false,
+      "frase": "Compromisso político estadual na disputa por um BNDES popular que ao invés de transnacionalizar",
+      "veredito": "llm_certo",
+      "justificativa": "'BNDES' aqui é o objeto de uma reivindicação política ('um BNDES popular'), não uma citação do BNDES como evidência/base de uma proposta — o motor disparou apenas por reconhecer a palavra."
+    },
+    {
+      "id": "S0025",
+      "pilar": "c",
+      "motor": true,
+      "llm": false,
+      "frase": "função da maior ou menor exposição aos sistemas extratropicais (a exemplo de",
+      "veredito": "llm_certo",
+      "justificativa": "A frase é cortada exatamente em 'a exemplo de', antes de nomear qualquer caso concreto — como dada, não cita nenhum estudo/instituição real."
+    },
+    {
+      "id": "S0026",
+      "pilar": "c",
+      "motor": true,
+      "llm": false,
+      "frase": "gestão de segurança pública deve ser capaz de, com base em indicadores, planejar e executar ações que",
+      "veredito": "llm_certo",
+      "justificativa": "'com base em indicadores' é jargão genérico sem nomear nenhuma fonte específica."
+    },
+    {
+      "id": "S0027",
+      "pilar": "c",
+      "motor": true,
+      "llm": false,
+      "frase": " Construção de estradas que possibilitem melhor escoamento da safra, a exemplo da",
+      "veredito": "llm_certo",
+      "justificativa": "Cortada em 'a exemplo da', sem nomear o exemplo — não há citação concreta no texto como dado."
+    },
+    {
+      "id": "S0056",
+      "pilar": "c",
+      "motor": false,
+      "llm": true,
+      "frase": "Dados do Projeto da LDO de 2019 indicam um crescimento da dívida em",
+      "veredito": "llm_certo",
+      "justificativa": "'Projeto da LDO' é uma referência a um instrumento legal (Lei de Diretrizes Orçamentárias) servindo de base para o dado citado — o codebook aceita 'lei/marco legal como base', mas o motor só reconhece citações no formato 'Lei nº ___', não abreviações como LDO."
+    },
+    {
+      "id": "S0074",
+      "pilar": "c",
+      "motor": true,
+      "llm": false,
+      "frase": "criminalidade, e “desenvolver estratégia comum baseada em modelos de gestão e de",
+      "veredito": "llm_certo",
+      "justificativa": "'baseada em modelos de gestão' é genérico e a frase é cortada antes de nomear qualquer modelo específico."
+    },
+    {
+      "id": "S0079",
+      "pilar": "c",
+      "motor": true,
+      "llm": false,
+      "frase": "rismo rural com valorização dos aspectos ecológicos e culturais, a exemplo do programa",
+      "veredito": "llm_certo",
+      "justificativa": "Cortada em 'a exemplo do programa', sem nomear o programa — não há citação concreta no texto como dado."
+    },
+    {
+      "id": "S0081",
+      "pilar": "c",
+      "motor": true,
+      "llm": false,
+      "frase": "Um Plano Nacional de Logística está em gestação para suprir as necessidades",
+      "veredito": "ambiguo",
+      "justificativa": "Nomeia algo concreto e real (Plano Nacional de Logística), mas não fica claro se está sendo citado como base causal da proposta do candidato ou apenas como contexto de um plano federal paralelo."
+    },
+    {
+      "id": "S0105",
+      "pilar": "c",
+      "motor": false,
+      "llm": true,
+      "frase": "Pois de acordo com dados obtidos pela PDAD 2021,",
+      "veredito": "llm_certo",
+      "justificativa": "Cita a PDAD (pesquisa distrital oficial) como fonte dos dados, mas 'PDAD' não está na lista de instituições do EVIDENCIA_RE do motor."
+    },
+    {
+      "id": "S0106",
+      "pilar": "c",
+      "motor": false,
+      "llm": true,
+      "frase": "Dados da pesquisa Atlas da Violência 2021 mostram que a taxa de",
+      "veredito": "llm_certo",
+      "justificativa": "Cita o 'Atlas da Violência' (estudo institucional conhecido) como fonte, mas esse nome não está na lista de instituições do motor."
+    },
+    {
+      "id": "S0109",
+      "pilar": "c",
+      "motor": false,
+      "llm": true,
+      "frase": "registrada em dois anos, entre 2019 e 2021, de acordo com o Censo Escolar 2021, elaborado pela",
+      "veredito": "llm_certo",
+      "justificativa": "Cita o Censo Escolar como fonte (e provavelmente o INEP, cortado antes de aparecer) — nem 'Censo Escolar' nem 'INEP' estão na lista de instituições do motor (que reconhece 'inpe', instituto diferente, por engano de sigla semelhante)."
+    },
+    {
+      "id": "S0124",
+      "pilar": "c",
+      "motor": true,
+      "llm": false,
+      "frase": "Um Estado que realiza obras públicas, a exemplo do crescimento e manutenção da malha",
+      "veredito": "llm_certo",
+      "justificativa": "'a exemplo do crescimento e manutenção da malha [do próprio estado]' é autorreferente (o Estado citando suas próprias obras), não uma evidência ou estudo externo."
+    },
+    {
+      "id": "S0125",
+      "pilar": "c",
+      "motor": true,
+      "llm": false,
+      "frase": "relevante da receita corrente líquida (em torno de 58%, conforme dados de 2021).",
+      "veredito": "llm_certo",
+      "justificativa": "'conforme dados de 2021' cita apenas um ano, sem nomear nenhuma instituição, estudo ou lei — não atende ao critério de citar uma fonte externa identificável."
+    },
+    {
+      "id": "S0129",
+      "pilar": "c",
+      "motor": true,
+      "llm": false,
+      "frase": "decisão baseada em evidências pelos gestores públicos da área, bem como",
+      "veredito": "llm_certo",
+      "justificativa": "'decisão baseada em evidências' é jargão genérico sem nomear nenhuma fonte."
+    },
+    {
+      "id": "S0132",
+      "pilar": "c",
+      "motor": true,
+      "llm": false,
+      "frase": "Bem como fortalecer segmentos emergentes a exemplo do",
+      "veredito": "llm_certo",
+      "justificativa": "Cortada em 'a exemplo do', sem nomear o exemplo."
+    },
+    {
+      "id": "S0155",
+      "pilar": "c",
+      "motor": false,
+      "llm": true,
+      "frase": "frequência — o Censo Escolar 2025 mostra que apenas 28% das escolas estaduais da Bahia têm",
+      "veredito": "llm_certo",
+      "justificativa": "Cita o Censo Escolar 2025 com um percentual (28%) como fonte de um diagnóstico — 'Censo Escolar' não está na lista de instituições do EVIDENCIA_RE do motor."
+    },
+    {
+      "id": "S0156",
+      "pilar": "c",
+      "motor": false,
+      "llm": true,
+      "frase": "O Censo escolar 2025 apontou uma redução de 38,4 mil matrículas na educação básica do RS.",
+      "veredito": "llm_certo",
+      "justificativa": "Cita o Censo Escolar 2025 como fonte de um dado sobre queda de matrículas — mesma lacuna de nomenclatura do motor."
+    },
+    {
+      "id": "S0176",
+      "pilar": "c",
+      "motor": true,
+      "llm": false,
+      "frase": "minerais em uma determinada área, com base em evidências indiretas (geofísicas,",
+      "veredito": "ambiguo",
+      "justificativa": "Cita evidências geofísicas indiretas como método de prospecção mineral — um mecanismo técnico real, mas sem nomear instituição/estudo específico; debatível se conta como 'evidência externa' no sentido do codebook."
+    },
+    {
+      "id": "S0177",
+      "pilar": "c",
+      "motor": true,
+      "llm": false,
+      "frase": "Prevenção como eixo central, a exemplo de todos os modelos aqui apresentados.",
+      "veredito": "llm_certo",
+      "justificativa": "'a exemplo de todos os modelos aqui apresentados' é autorreferente ao próprio plano de governo, não uma citação de evidência externa."
+    },
+    {
+      "id": "S0178",
+      "pilar": "c",
+      "motor": true,
+      "llm": false,
+      "frase": "No entanto, estruturas fragmentadas e processos pouco integrados dificultam    integração qualifica o processo decisório baseado em evidências, mitiga",
+      "veredito": "llm_certo",
+      "justificativa": "'processo decisório baseado em evidências' é jargão genérico, sem nomear fonte, em frase truncada/mal formada."
+    },
+    {
+      "id": "S0180",
+      "pilar": "c",
+      "motor": true,
+      "llm": false,
+      "frase": "planejamento baseado em evidências e avaliação de impacto",
+      "veredito": "llm_certo",
+      "justificativa": "'planejamento baseado em evidências e avaliação de impacto' é um exemplo claro de jargão vazio que o codebook pretende excluir do Pilar C — não cita nenhum estudo, instituição ou lei."
+    },
+    {
+      "id": "S0181",
+      "pilar": "c",
+      "motor": true,
+      "llm": false,
+      "frase": "Apoio à organização de cadeias da bioeconomia com mercado real, a exemplo da",
+      "veredito": "llm_certo",
+      "justificativa": "Cortada em 'a exemplo da', sem nomear o exemplo."
+    },
+    {
+      "id": "S0182",
+      "pilar": "c",
+      "motor": true,
+      "llm": false,
+      "frase": "A governança do eixo será sustentada por planejamento, gestão baseada em evidências,",
+      "veredito": "llm_certo",
+      "justificativa": "'gestão baseada em evidências' é jargão genérico sem fonte nomeada."
+    }
+  ],
+  "padroes_recorrentes": [
+    {
+      "descricao": "Motor conflaciona diagnóstico histórico quantificado (fato já ocorrido: 'houve um aumento/queda de X%', 'X perdeu Y empregos entre 2012-2021') com efeito mensurável PROMETIDO pelo candidato (Pilar B). O regex EFEITO_RE dispara em qualquer 'reduzir/aumentar/queda de X%' acompanhado de um número, sem checar tempo verbal nem se é uma promessa de política ou apenas um relato de um fato passado — em vários casos a própria frase já deveria ter sido capturada como Pilar A (diagnóstico), não B.",
+      "afeta": "motor",
+      "n_casos": 14,
+      "exemplos_ids": [
+        "S0173",
+        "S0121",
+        "S0068",
+        "S0055",
+        "S0011",
+        "S0020",
+        "S0114",
+        "S0118"
+      ]
+    },
+    {
+      "descricao": "Motor conta números de numeração de lista/seção/objetivo/página ('1)', '2)', '8.2.3', '9.6.1', 'Objetivo 11', '12 •') como se fossem metas quantificadas do Pilar B, mesmo quando a frase de fato não especifica nenhuma magnitude para a promessa (compromisso genérico do tipo 'reduzir a desigualdade' sem número real).",
+      "afeta": "motor",
+      "n_casos": 8,
+      "exemplos_ids": [
+        "S0071",
+        "S0117",
+        "S0120",
+        "S0122",
+        "S0016",
+        "S0017",
+        "S0113",
+        "S0171"
+      ]
+    },
+    {
+      "descricao": "Motor não verifica se o número presente na frase realmente modifica a magnitude do efeito prometido (Pilar B) — conta idade de elegibilidade (faixa etária de 40 anos), número de rodovia (PR-170, BR-153), número de marca/programa ('governo 360º') ou até a variação de um fenômeno global (aquecimento de 2,5°C a 2,9°C, fora do controle de qualquer governador) como se fossem a meta prometida pelo candidato.",
+      "afeta": "motor",
+      "n_casos": 4,
+      "exemplos_ids": [
+        "S0062",
+        "S0169",
+        "S0115",
+        "S0172"
+      ]
+    },
+    {
+      "descricao": "Frases cortadas pela extração de PDF/segmentador de sentenças terminam exatamente antes do número que seria a estatística real do Pilar A; o único dígito visível que satisfaz o gatilho numérico do motor é o ano anexado ao nome da fonte (ex.: 'PDAD 2021', 'Censo Escolar 2021', 'em 2012', 'para o ano de 2021') — a frase, como amostrada, não contém de fato a estatística exigida pelo codebook, então o motor 'acerta' tecnicamente sua própria regra mas erra o conteúdo real.",
+      "afeta": "motor",
+      "n_casos": 8,
+      "exemplos_ids": [
+        "S0104",
+        "S0105",
+        "S0106",
+        "S0003",
+        "S0056",
+        "S0059",
+        "S0109",
+        "S0005"
+      ]
+    },
+    {
+      "descricao": "Motor dispara Pilar C em jargão genérico de 'evidência' ('baseado/baseada em evidências/indicadores', 'com base em indicadores de resultados', 'conforme dados de [ano]', 'a exemplo de/da/do' sem nomear nada, ou o nome de uma instituição usado como sujeito de uma reivindicação política em vez de citação) — sem nomear nenhum estudo, instituição ou lei específica. É exatamente o tipo de frase que o próprio codebook (e a categoria 'retórica com jargão' do motor) deveria excluir do Pilar C.",
+      "afeta": "motor",
+      "n_casos": 16,
+      "exemplos_ids": [
+        "S0180",
+        "S0129",
+        "S0021",
+        "S0026",
+        "S0124",
+        "S0177",
+        "S0023",
+        "S0025",
+        "S0079",
+        "S0132"
+      ]
+    },
+    {
+      "descricao": "A lista de instituições/fontes reconhecidas pelo motor para o Pilar C (EVIDENCIA_RE) é incompleta e inconsistente com a própria lista do Pilar A (DIAG_KEYWORDS_RE): reconhece IBGE/IPEA/Censo para diagnóstico, mas não reconhece equivalentes igualmente citáveis como fonte/base — PDAD, Atlas da Violência, Censo Escolar, Rede de Observatórios da Violência, ou leis orçamentárias por sigla (LDO). Também confunde 'INPE' (Instituto Nacional de Pesquisas Espaciais) com 'INEP' (pesquisas educacionais), este último nunca reconhecido.",
+      "afeta": "motor",
+      "n_casos": 7,
+      "exemplos_ids": [
+        "S0106",
+        "S0105",
+        "S0155",
+        "S0002",
+        "S0056",
+        "S0109",
+        "S0156"
+      ]
+    },
+    {
+      "descricao": "A lista de frases-gatilho fixas do Pilar A (DIAG_KEYWORDS_RE) é rígida demais e não cobre variantes naturais de linguagem diagnóstica: falta 'IPEA' como instituição-gatilho (embora já esteja na lista do Pilar C), só reconhece 'dados da/do' e não 'dados de', não reconhece números escritos por extenso ('onze' em vez de '11'), só reconhece a frase fixa 'abaixo da linha de pobreza' e não o padrão geral 'abaixo de X%', e não reconhece a construção de taxa 'a cada X segundos/minutos'.",
+      "afeta": "motor",
+      "n_casos": 6,
+      "exemplos_ids": [
+        "S0028",
+        "S0078",
+        "S0128",
+        "S0167",
+        "S0101",
+        "S0125"
+      ]
+    },
+    {
+      "descricao": "O 'portão' numérico do motor (NUM_ANY, ou a mera presença solta de 'maior'/'menor') é satisfeito por dígitos ou adjetivos comparativos sem nenhuma relação com uma estatística real — um ano dentro de 'século 21', ou 'maior' usado como advérbio comum fora da expressão 'maior/menor índice/taxa' — gerando falso positivo de Pilar A em frases sem qualquer diagnóstico de fato.",
+      "afeta": "motor",
+      "n_casos": 2,
+      "exemplos_ids": [
+        "S0004",
+        "S0053"
+      ]
+    },
+    {
+      "descricao": "Motor dispara 'maior/menor índice' (Pilar A) mesmo quando a expressão funciona apenas como critério de direcionamento/elegibilidade dentro de uma frase de PROPOSTA futura ('construção de escolas nas regiões com maior índice de...', 'ampliado nos municípios de menor IDH'), não como uma afirmação diagnóstica autônoma sobre um problema existente hoje.",
+      "afeta": "motor",
+      "n_casos": 3,
+      "exemplos_ids": [
+        "S0052",
+        "S0107",
+        "S0161"
+      ]
+    },
+    {
+      "descricao": "Motor dispara Pilar A em citações de fonte de tabela/rodapé ('Fonte: cálculos próprio...') ou títulos/legendas de seção ('IBGE. Pesquisa de Informações Básicas Municipais (Munic) 2023 — Meio Ambiente') que não são frases com conteúdo diagnóstico — o detector de cabeçalho (looks_like_header) do motor não captura esse formato de título/legenda.",
+      "afeta": "motor",
+      "n_casos": 3,
+      "exemplos_ids": [
+        "S0001",
+        "S0061",
+        "S0160"
+      ]
+    },
+    {
+      "descricao": "Um subconjunto de discordâncias é genuinamente indecidível a partir do fragmento amostrado: a frase é cortada pelo pdftotext/segmentador exatamente no ponto que definiria a classificação (antes de nomear um exemplo, antes de completar uma oração, sem o indicador citado na frase anterior). Nesses casos nem motor nem LLM podem ser considerados claramente errados — é um problema de qualidade dos dados de entrada (extração de PDF em várias colunas/tabelas), não de lógica de classificação.",
+      "afeta": "ambos",
+      "n_casos": 6,
+      "exemplos_ids": [
+        "S0007",
+        "S0009",
+        "S0067",
+        "S0081",
+        "S0176"
+      ]
+    }
+  ]
+}

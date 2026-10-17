@@ -1,0 +1,1490 @@
+[
+  {
+    "id": "S0130",
+    "ano": "2022",
+    "sq": "150001635959",
+    "uf": "PB",
+    "frase": "indicam que a temperatura no planeta pode aumentar entre 1,8 e 4 graus",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0048",
+    "ano": "2026",
+    "sq": "150002544133",
+    "uf": "PB",
+    "frase": "consórcios intermunicipais, as universidades, o MapBiomas e o INPE.",
+    "dominios_dicionario": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0019",
+    "ano": "2022",
+    "sq": "90001675056",
+    "uf": "GO",
+    "frase": "Dentre esses, a Organização Mundial da Saúde (OMS) estima que 19 milhões são",
+    "dominios_dicionario": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0029",
+    "ano": "2026",
+    "sq": "180002538530",
+    "uf": "PI",
+    "frase": "ção das aprendizagens, elevar a alfabetiza-      Ação Programática 3.1.3 – Instituir a Políti-",
+    "dominios_dicionario": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0024",
+    "ano": "2026",
+    "sq": "100002542556",
+    "uf": "MA",
+    "frase": "a partir do Sistema Nacional de Informações em Saneamento Básico (Sinisa).",
+    "dominios_dicionario": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0143",
+    "ano": "2014",
+    "sq": "240000000207",
+    "uf": "SC",
+    "frase": "previsto nos contratos com os agentes financeiros (BNDES e Banco do Brasil).",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0016",
+    "ano": "2018",
+    "sq": "90000613470",
+    "uf": "GO",
+    "frase": "relatório do Banco Mundial, o saneamento básico constitui um dos maiores problemas do país,",
+    "dominios_dicionario": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0090",
+    "ano": "2014",
+    "sq": "90000000608",
+    "uf": "GO",
+    "frase": "M9 – Investimentos – Aumentar em 30% o índice de investimento do Estado",
+    "dominios_dicionario": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0013",
+    "ano": "2018",
+    "sq": "150000603508",
+    "uf": "PB",
+    "frase": "A exemplo do que ocorreu nas áreas de Educação, Saúde e Habitação, entre",
+    "dominios_dicionario": [
+      "saude",
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0077",
+    "ano": "2026",
+    "sq": "120002549681",
+    "uf": "MS",
+    "frase": "da meta de 30% de investimento do Estado (ver INT-06): amplia o investimento público além do capital",
+    "dominios_dicionario": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0124",
+    "ano": "2026",
+    "sq": "40002532272",
+    "uf": "AM",
+    "frase": "A Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010)",
+    "dominios_dicionario": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0037",
+    "ano": "2014",
+    "sq": "50000000620",
+    "uf": "BA",
+    "frase": "Estados com menor índice de utilização efetiva de novas tecnologias no sistema educacional.",
+    "dominios_dicionario": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0025",
+    "ano": "2022",
+    "sq": "210001605930",
+    "uf": "RS",
+    "frase": "da Saúde (OMS) e por diversos trabalhos científicos, ainda causavam efeitos colaterais",
+    "dominios_dicionario": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0121",
+    "ano": "2022",
+    "sq": "210001615206",
+    "uf": "RS",
+    "frase": "o Revisão da Política Estadual de Recursos Hídricos (Lei nº 10.350/94)",
+    "dominios_dicionario": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0017",
+    "ano": "2026",
+    "sq": "70002552496",
+    "uf": "DF",
+    "frase": "Zerar a fila de cirurgias eletivas com espera acima de 1 ano",
+    "dominios_dicionario": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0073",
+    "ano": "2022",
+    "sq": "260001690862",
+    "uf": "SE",
+    "frase": "maior índice de mortes por intervenção policial do país.",
+    "dominios_dicionario": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0080",
+    "ano": "2022",
+    "sq": "20001610327",
+    "uf": "AL",
+    "frase": "Fonte: Produção Agrícola Municipal, IBGE.",
+    "dominios_dicionario": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0004",
+    "ano": "2018",
+    "sq": "130000629153",
+    "uf": "MG",
+    "frase": "Combater a mortalidade infantil: Minas Gerais tem a terceira maior taxa entre as sete",
+    "dominios_dicionario": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0127",
+    "ano": "2022",
+    "sq": "70001601117",
+    "uf": "DF",
+    "frase": "Segundo o IBGE, o percentual de pessoas no DF com alguma deficiência é de 5,2%.",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0095",
+    "ano": "2014",
+    "sq": "180000000001",
+    "uf": "PI",
+    "frase": "De acordo com o Ipea, as pesquisas de desemprego no Brasil medem apenas o desemprego aberto,",
+    "dominios_dicionario": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0134",
+    "ano": "2026",
+    "sq": "40002532272",
+    "uf": "AM",
+    "frase": "Resultados: 70% dos usuários com redução de consumo",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0041",
+    "ano": "2022",
+    "sq": "30001620571",
+    "uf": "AP",
+    "frase": "escolar e maior índice de analfabetismo”, segundo o Instituto",
+    "dominios_dicionario": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0094",
+    "ano": "2014",
+    "sq": "130000000198",
+    "uf": "MG",
+    "frase": "o Banco Mundial, e atestado, em âmbito global, pelo grau de investimento   estará sustentada nos pilares da transparência, da responsabilidade,",
+    "dominios_dicionario": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0116",
+    "ano": "2026",
+    "sq": "90002540993",
+    "uf": "GO",
+    "frase": "No saneamento ambiental e na gestão hídrica,             Redução do tempo médio de licenciamento ambiental (2019 a 2026)",
+    "dominios_dicionario": [
+      "saude",
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0146",
+    "ano": "2022",
+    "sq": "130001615084",
+    "uf": "MG",
+    "frase": "a defesa do Censo 2020, incluindo a dotação",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0154",
+    "ano": "2018",
+    "sq": "90000613470",
+    "uf": "GO",
+    "frase": "Em 2016 Goiás já apresentava a terceira maior tarifa de água do país e a quarta maior",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0139",
+    "ano": "2014",
+    "sq": "250000001684",
+    "uf": "SP",
+    "frase": "Aplicação da Convenção 158 da OIT e redução da jornada de trabalho sem redução de salários.",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0046",
+    "ano": "2022",
+    "sq": "20001610327",
+    "uf": "AL",
+    "frase": "De acordo com o Censo Escolar de 2015, a rede estadual de educação em Alagoas é",
+    "dominios_dicionario": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0040",
+    "ano": "2026",
+    "sq": "50002533190",
+    "uf": "BA",
+    "frase": "Piauí, e acima apenas do Amazonas (11%) e do Maranhão (8%) (Censo Escolar 2020/Inep, sistematizado",
+    "dominios_dicionario": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0140",
+    "ano": "2014",
+    "sq": "240000000207",
+    "uf": "SC",
+    "frase": "representa um aumento de mais de 30% no total deste tipo de veículo em uso no",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0144",
+    "ano": "2022",
+    "sq": "160001654909",
+    "uf": "PR",
+    "frase": "O Brasil tem seu último censo demográfico feito no ano de 2010, tendo a partir",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0074",
+    "ano": "2018",
+    "sq": "150000615071",
+    "uf": "PB",
+    "frase": "Violência do Ipea, de 2018, o índice de homicídios de negros por 100 mil, na Paraíba, foi de 46,5%,",
+    "dominios_dicionario": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0141",
+    "ano": "2026",
+    "sq": "100002544076",
+    "uf": "MA",
+    "frase": "se dá pelos sistemas oficiais SINISA e Sisagua, sem criação de estruturas paralelas.",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0125",
+    "ano": "2022",
+    "sq": "20001651898",
+    "uf": "AL",
+    "frase": "Lei nº 14.026 de 15 de julho de 2020, norma que engloba uma série de regulamentações",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0014",
+    "ano": "2026",
+    "sq": "100002544076",
+    "uf": "MA",
+    "frase": "al — hoje sem equipe executiva regional             (Censo 2022/IBGE): saneamento é causa             cuidado que o Estado ainda mede pela noti‐",
+    "dominios_dicionario": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0035",
+    "ano": "2022",
+    "sq": "260001600202",
+    "uf": "SE",
+    "frase": "meta de ensino nos últimos 15 anos.",
+    "dominios_dicionario": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0086",
+    "ano": "2022",
+    "sq": "260001635961",
+    "uf": "SE",
+    "frase": "De acordo com o IBGE, além do setor de serviços e o agronegócio, também vem se",
+    "dominios_dicionario": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0010",
+    "ano": "2022",
+    "sq": "210001606124",
+    "uf": "RS",
+    "frase": "Segundo a Organização Mundial da Saúde (OMS), saúde é um Estado de completo bem-",
+    "dominios_dicionario": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0112",
+    "ano": "2026",
+    "sq": "190002536162",
+    "uf": "RJ",
+    "frase": "prevista na Política Nacional de Resíduos Sólidos (Lei nº 12.305/2010), com base na",
+    "dominios_dicionario": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0065",
+    "ano": "2026",
+    "sq": "40002532272",
+    "uf": "AM",
+    "frase": "Lei nº 3.930/2013: cria a Ouvidoria do Sistema de Segurança Pública, fortalecendo",
+    "dominios_dicionario": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0108",
+    "ano": "2018",
+    "sq": "240000616318",
+    "uf": "SC",
+    "frase": "ses alcancem a meta de reciclar no mínimo 10% do lixo domiciliar coletado.",
+    "dominios_dicionario": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0055",
+    "ano": "2026",
+    "sq": "140002554108",
+    "uf": "PA",
+    "frase": "que atos de homofobia e transfobia sejam enquadrados como crime de racismo (Lei nº",
+    "dominios_dicionario": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0027",
+    "ano": "2022",
+    "sq": "20001695808",
+    "uf": "AL",
+    "frase": "possuía a 5ª maior taxa de distorção idade-série do país no ensino fundamental e",
+    "dominios_dicionario": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0071",
+    "ano": "2018",
+    "sq": "100000602465",
+    "uf": "MA",
+    "frase": "O Maranhão é um dos estados com maior índice de violência no campo, resultado da grande",
+    "dominios_dicionario": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0008",
+    "ano": "2026",
+    "sq": "170002540338",
+    "uf": "PE",
+    "frase": "c) Priorizar regiões de saúde com maior taxa histórica de absenteísmo, que tende a",
+    "dominios_dicionario": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0002",
+    "ano": "2026",
+    "sq": "40002532272",
+    "uf": "AM",
+    "frase": "tos de Saúde (CNES/DATASUS – 02/2026),",
+    "dominios_dicionario": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0058",
+    "ano": "2026",
+    "sq": "80002552172",
+    "uf": "ES",
+    "frase": "alcançando o menor índice de homicídios de sua série histórica, a primeira",
+    "dominios_dicionario": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0032",
+    "ano": "2018",
+    "sq": "90000613470",
+    "uf": "GO",
+    "frase": "escola, este é o retrato feito pelo IBGE em 2015.",
+    "dominios_dicionario": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0070",
+    "ano": "2026",
+    "sq": "170002538097",
+    "uf": "PE",
+    "frase": "feminicídio, enquanto 43% não contam com patrulhamento especializado, como a",
+    "dominios_dicionario": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0128",
+    "ano": "2026",
+    "sq": "140002554108",
+    "uf": "PA",
+    "frase": "segundo os dados do Censo Demográfico do IBGE.",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0020",
+    "ano": "2018",
+    "sq": "180000608749",
+    "uf": "PI",
+    "frase": "Segundo dados da Organização Mundial da Saúde (OMS, 2016), a projeção é que,",
+    "dominios_dicionario": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0138",
+    "ano": "2022",
+    "sq": "170001618273",
+    "uf": "PE",
+    "frase": "se posicionar nos últimos 4 anos, entre 2 pólos, o de que bandido bom é aquele",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0028",
+    "ano": "2026",
+    "sq": "40002532272",
+    "uf": "AM",
+    "frase": "Nacional de Educação Digital, e a Lei nº 13.709/2018, Lei Geral de Proteção de Dados,",
+    "dominios_dicionario": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0104",
+    "ano": "2014",
+    "sq": "90000000637",
+    "uf": "GO",
+    "frase": "Na gestão dos recursos hídricos o Governo está elaborando o Plano Estadual de Recursos Hídricos, com recursos da União e do Banco Mundial.",
+    "dominios_dicionario": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0120",
+    "ano": "2026",
+    "sq": "100002544075",
+    "uf": "MA",
+    "frase": "10  Refloresta Maranhão Resposta à liderança nacional em desmatamento em 2024 (218.298 hectares, MapBiomas), mesmo",
+    "dominios_dicionario": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0098",
+    "ano": "2018",
+    "sq": "210000600027",
+    "uf": "RS",
+    "frase": "Para 2016, a última estimativa da FEE era de uma queda de 2,9% no PIB",
+    "dominios_dicionario": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0067",
+    "ano": "2026",
+    "sq": "40002532272",
+    "uf": "AM",
+    "frase": "Lei nº 14.735, de 2023 – Institui a Lei Orgânica Nacional das Polícias Civis.",
+    "dominios_dicionario": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0054",
+    "ano": "2026",
+    "sq": "90002540993",
+    "uf": "GO",
+    "frase": "— e hoje tem a 7ª menor taxa do Brasil e a    estelionato eletrônico, que hoje atingem        capacidade de prevenção e combate ao crime,",
+    "dominios_dicionario": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0083",
+    "ano": "2022",
+    "sq": "90001651833",
+    "uf": "GO",
+    "frase": "agropecuária corresponde a cerca de 10% do PIB de Goiás (IBGE 2018), resultado",
+    "dominios_dicionario": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0042",
+    "ano": "2026",
+    "sq": "210002535802",
+    "uf": "RS",
+    "frase": "Firmar parcerias com IBGE, Ipea, universidades e centros de pesquisa.",
+    "dominios_dicionario": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0079",
+    "ano": "2022",
+    "sq": "200001613178",
+    "uf": "RN",
+    "frase": "milhão (34,5% de toda a população), que sobrevivem abaixo da linha de pobreza, com renda mensal inferior a",
+    "dominios_dicionario": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0006",
+    "ano": "2018",
+    "sq": "200000606727",
+    "uf": "RN",
+    "frase": "segundo dados do Ministério da Saúde apresentados no Atlas da Violência 2018 (IPEA e FBSP).",
+    "dominios_dicionario": [
+      "saude",
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0061",
+    "ano": "2026",
+    "sq": "210002541367",
+    "uf": "RS",
+    "frase": "vulnerabilidade das mulheres, quando foram registrados 10 feminicídios no estado.",
+    "dominios_dicionario": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0052",
+    "ano": "2026",
+    "sq": "40002532272",
+    "uf": "AM",
+    "frase": "Corpo de Bombeiros Militar (CBMAM): a Lei nº 2.538/1999 dispõe sobre a organi-",
+    "dominios_dicionario": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0049",
+    "ano": "2022",
+    "sq": "210001615206",
+    "uf": "RS",
+    "frase": "De acordo com os dados do Censo Escolar 2021, no Rio Grande do Sul, o número",
+    "dominios_dicionario": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0044",
+    "ano": "2026",
+    "sq": "60002540418",
+    "uf": "CE",
+    "frase": "mínimo de 45% já exigido pela Lei nº 15.226/2025 para a merenda escolar",
+    "dominios_dicionario": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0122",
+    "ano": "2022",
+    "sq": "250001612450",
+    "uf": "SP",
+    "frase": "de redução de emissão de gases de efeito estufa para conter o aquecimento global abaixo de 1,5ºC, con-",
+    "dominios_dicionario": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0132",
+    "ano": "2018",
+    "sq": "240000609537",
+    "uf": "SC",
+    "frase": "diretrizes e objetivos, definidos atualmente por meio da Lei nº 13.675, de",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0091",
+    "ano": "2026",
+    "sq": "40002536086",
+    "uf": "AM",
+    "frase": "A Força do PIB e a Concentração: o PIB do Estado gira em torno de R$ 161,79 bilhões (IBGE), respondendo por mais de",
+    "dominios_dicionario": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0148",
+    "ano": "2018",
+    "sq": "200000606727",
+    "uf": "RN",
+    "frase": "De maneira que, em recente pesquisa promovida pelo IBGE, a maior parte da população da",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0107",
+    "ano": "2026",
+    "sq": "50002536314",
+    "uf": "BA",
+    "frase": "os problemas territoriais, a exemplo de gestão integrada de Resíduos Sólidos,",
+    "dominios_dicionario": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0072",
+    "ano": "2026",
+    "sq": "40002532272",
+    "uf": "AM",
+    "frase": "Lei nº 13.104, de 2015 - prevê o feminicídio como circunstância qualificadora do crime de homicídio",
+    "dominios_dicionario": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0059",
+    "ano": "2026",
+    "sq": "210002541367",
+    "uf": "RS",
+    "frase": "Esses números representaram um aumento de 10% nos feminicídios consumados em",
+    "dominios_dicionario": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0126",
+    "ano": "2018",
+    "sq": "90000613470",
+    "uf": "GO",
+    "frase": "Agora o Governo vem, pelo BNDES, e repassa",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0031",
+    "ano": "2026",
+    "sq": "130002550834",
+    "uf": "MG",
+    "frase": "●   Priorizar a expansão de vagas de creche nos 55 municípios que hoje não têm nenhuma unidade",
+    "dominios_dicionario": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0030",
+    "ano": "2026",
+    "sq": "40002532272",
+    "uf": "AM",
+    "frase": "Fonte: Censo Escolar 2024 (Inep)",
+    "dominios_dicionario": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0033",
+    "ano": "2022",
+    "sq": "210001609934",
+    "uf": "RS",
+    "frase": "Segundo dados divulgados pelo Ministério da Educação (MEC) em 2020, o R$ for um dos poucos Estados que",
+    "dominios_dicionario": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0114",
+    "ano": "2026",
+    "sq": "40002532272",
+    "uf": "AM",
+    "frase": "Lei nº 6.938/1981 – Dispõe sobre a Política Nacional do Meio Ambiente e Constitui o",
+    "dominios_dicionario": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0015",
+    "ano": "2022",
+    "sq": "250001639534",
+    "uf": "SP",
+    "frase": "Organização Mundial da Saúde estima que, para cada US$ 1.00 investido em",
+    "dominios_dicionario": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0069",
+    "ano": "2026",
+    "sq": "210002542892",
+    "uf": "RS",
+    "frase": "2025, foram registrados 447 feminicídios          sensação de segurança da população.",
+    "dominios_dicionario": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0093",
+    "ano": "2022",
+    "sq": "170001604087",
+    "uf": "PE",
+    "frase": "Pernambuco tem o maior índice de desemprego do Brasil 47.",
+    "dominios_dicionario": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0103",
+    "ano": "2014",
+    "sq": "50000000401",
+    "uf": "BA",
+    "frase": "A exemplo da despoluição da Baía de Todos os Santos e das Bacias do Rio Jacuípe e",
+    "dominios_dicionario": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0066",
+    "ano": "2018",
+    "sq": "200000606727",
+    "uf": "RN",
+    "frase": "Na última década, figurou como o terceiro estado com maior índice de homicídios (54,3) por 100 mil",
+    "dominios_dicionario": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0115",
+    "ano": "2022",
+    "sq": "160001621857",
+    "uf": "PR",
+    "frase": "estão ligados à rede de esgotamento sanitário e 7% não têm lixo coletado, o que certamente",
+    "dominios_dicionario": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0050",
+    "ano": "2026",
+    "sq": "130002544411",
+    "uf": "MG",
+    "frase": "Um estudo da Universidade Federal",
+    "dominios_dicionario": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0153",
+    "ano": "2022",
+    "sq": "20001610327",
+    "uf": "AL",
+    "frase": "2020 do IBGE, Alagoas é o 3º estado do país em jovens que não estudam nem trabalham.",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0149",
+    "ano": "2026",
+    "sq": "140002554108",
+    "uf": "PA",
+    "frase": "colocam contra o arcabouço fiscal, a favor do fim da 6×1 e da redução da jornada, contra",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0076",
+    "ano": "2014",
+    "sq": "10000000152",
+    "uf": "AC",
+    "frase": "desemprego foi de 9,4%, conforme dados do IBGE.",
+    "dominios_dicionario": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0150",
+    "ano": "2026",
+    "sq": "40002532272",
+    "uf": "AM",
+    "frase": "Lei nº 7.943, de 2025 – Institui o Plano de Cargos, Carreiras e Remuneração dos",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0060",
+    "ano": "2026",
+    "sq": "210002541367",
+    "uf": "RS",
+    "frase": "Apenas nos seis primeiros meses de 2026, foram registrados 1.001 casos de violência sexual no",
+    "dominios_dicionario": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0110",
+    "ano": "2026",
+    "sq": "100002544076",
+    "uf": "MA",
+    "frase": "10  Refloresta Maranhão Resposta à liderança nacional em desmatamento em 2024 (218.298 hectares, MapBiomas), mesmo",
+    "dominios_dicionario": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0136",
+    "ano": "2026",
+    "sq": "40002532272",
+    "uf": "AM",
+    "frase": "pela Lei nº 5.254/2020, definiu as finalidades, competências e estrutura organizacional da",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0135",
+    "ano": "2026",
+    "sq": "130002544411",
+    "uf": "MG",
+    "frase": "Cum Mente et Malleo / plantas e                                                     União, BNDES/FGAM quando disponíveis,",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0034",
+    "ano": "2026",
+    "sq": "40002532272",
+    "uf": "AM",
+    "frase": "etapa, território            Escolar                   mento + Censo   2023).",
+    "dominios_dicionario": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0129",
+    "ano": "2018",
+    "sq": "190000613601",
+    "uf": "RJ",
+    "frase": "além de maior do que a média brasileira (13,1%), foi também a sétima maior taxa de desocupação",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0099",
+    "ano": "2022",
+    "sq": "180001613545",
+    "uf": "PI",
+    "frase": "O PIB 2019 do Piauí foi avaliado em R$ 52,7 bilhões, conforme levantamento feito",
+    "dominios_dicionario": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0096",
+    "ano": "2022",
+    "sq": "30001620571",
+    "uf": "AP",
+    "frase": "a maioria, não tem acesso a crédito, e nem a bens tecnológicos          para desencadear efeitos positivos na economia amapaense, não",
+    "dominios_dicionario": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0087",
+    "ano": "2022",
+    "sq": "180001718004",
+    "uf": "PI",
+    "frase": "206 – Reduzir os índices na taxa de desemprego do Estado do Piauí",
+    "dominios_dicionario": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0123",
+    "ano": "2026",
+    "sq": "40002532272",
+    "uf": "AM",
+    "frase": "Reduzir entre 60% e 90% as queimadas e entre 50% e 80%            Eixo Estruturante:",
+    "dominios_dicionario": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0021",
+    "ano": "2022",
+    "sq": "190001600399",
+    "uf": "RJ",
+    "frase": "O marco legal do saneamento",
+    "dominios_dicionario": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0075",
+    "ano": "2026",
+    "sq": "210002541367",
+    "uf": "RS",
+    "frase": "Gerar empregos e renda, dar fim à escala 6 x 1 já e sem redução de salários​               4",
+    "dominios_dicionario": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0152",
+    "ano": "2026",
+    "sq": "40002532272",
+    "uf": "AM",
+    "frase": "Ambiental – PRONEA(Lei nº 9.795/1999)",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0092",
+    "ano": "2018",
+    "sq": "10000615663",
+    "uf": "AC",
+    "frase": "água tratada, um aumento de 336% na        precárias de infraestrutura que anterior-   dos investimentos de governo.",
+    "dominios_dicionario": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0084",
+    "ano": "2018",
+    "sq": "200000606727",
+    "uf": "RN",
+    "frase": "urbanos, a exemplo da Central de Comercialização da Agricultura Familiar e Economia Solidária (CECAFES),",
+    "dominios_dicionario": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0012",
+    "ano": "2014",
+    "sq": "40000012063",
+    "uf": "AM",
+    "frase": "A exemplo do que acontece na saúde,                Militar e o Corpo de Bombeiros.",
+    "dominios_dicionario": [
+      "saude",
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0133",
+    "ano": "2022",
+    "sq": "70001611377",
+    "uf": "DF",
+    "frase": "ao censo da população negra do DF, que representa quase 60% da população.",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0101",
+    "ano": "2026",
+    "sq": "40002532272",
+    "uf": "AM",
+    "frase": "Estado, com redução do desmatamento ilegal até 2035.",
+    "dominios_dicionario": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0147",
+    "ano": "2018",
+    "sq": "90000621006",
+    "uf": "GO",
+    "frase": "acordo com o IBGE, sendo que 60% dessa população é composta por mulheres,",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0109",
+    "ano": "2018",
+    "sq": "270000626086",
+    "uf": "TO",
+    "frase": "   Reduzir o desmatamento ilegal a zero até 2022, baseado na implantação de um",
+    "dominios_dicionario": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0007",
+    "ano": "2022",
+    "sq": "30001620571",
+    "uf": "AP",
+    "frase": "De acordo com outros dados da Organização Mundial da Saúde",
+    "dominios_dicionario": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0081",
+    "ano": "2018",
+    "sq": "110000609942",
+    "uf": "MT",
+    "frase": "Segundo a Pesquisa de Inovação do IBGE (PINTEC) 2012-2014, foram observadas 1.604 empresas em",
+    "dominios_dicionario": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0111",
+    "ano": "2026",
+    "sq": "220002542185",
+    "uf": "RO",
+    "frase": "Água Pública Sustentável: AFAC do Tesouro, financiamento BNDES/FGTS com aval e",
+    "dominios_dicionario": [
+      "economia",
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0026",
+    "ano": "2026",
+    "sq": "40002535267",
+    "uf": "AM",
+    "frase": "em casa, o equivalente a 102 mil alunos, segundo pesquisa do IBGE (...",
+    "dominios_dicionario": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0118",
+    "ano": "2022",
+    "sq": "200001608810",
+    "uf": "RN",
+    "frase": "sustentável e geração de emprego e renda, a exemplo da Lei Geral da Micro e Pequena Empresa e da",
+    "dominios_dicionario": [
+      "economia",
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0145",
+    "ano": "2026",
+    "sq": "210002552592",
+    "uf": "RS",
+    "frase": "Redução da jornada de trabalho para o máximo de 7 horas por dia, 5 dias por semana (35 horas semanais):",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0151",
+    "ano": "2014",
+    "sq": "70000001544",
+    "uf": "DF",
+    "frase": "Urbanização de todas as áreas do carentes de infraestrutura a exemplo do “Por do Sol”, do",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0097",
+    "ano": "2014",
+    "sq": "160000000558",
+    "uf": "PR",
+    "frase": "exibiu a menor taxa de desemprego e o maior rendimento por trabalhador do",
+    "dominios_dicionario": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0142",
+    "ano": "2026",
+    "sq": "30002530014",
+    "uf": "AP",
+    "frase": "Finep, do BNDES, do FNDCT, dos fundos setoriais e dos programas da",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0117",
+    "ano": "2026",
+    "sq": "140002551598",
+    "uf": "PA",
+    "frase": "Atuação na redução do desmatamento com redução de 61% e consolidação de 4 anos",
+    "dominios_dicionario": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0137",
+    "ano": "2022",
+    "sq": "180001718004",
+    "uf": "PI",
+    "frase": "324 – Implementar Programa das Medidas Mitigadoras de Redução da Carga Poluidora",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0100",
+    "ano": "2026",
+    "sq": "250002541303",
+    "uf": "SP",
+    "frase": "10 milhões de pessoas que hoje ou não tem acesso à        saneamento básico à gestão dos recursos hídricos",
+    "dominios_dicionario": [
+      "saude",
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0068",
+    "ano": "2022",
+    "sq": "200001608810",
+    "uf": "RN",
+    "frase": "primeiro quadrimestre de 2022, e a importante queda de 50% no número de feminicídios ocorridos no",
+    "dominios_dicionario": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0064",
+    "ano": "2018",
+    "sq": "180000604098",
+    "uf": "PI",
+    "frase": "Segundo dados divulgados em 2017 pela Secretaria de Estado da Segurança Pública, a",
+    "dominios_dicionario": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0005",
+    "ano": "2018",
+    "sq": "200000602576",
+    "uf": "RN",
+    "frase": "indicadores geográficos que tenham relação com a saúde disponíveis no IBGE.",
+    "dominios_dicionario": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0062",
+    "ano": "2026",
+    "sq": "90002540993",
+    "uf": "GO",
+    "frase": "estado com a menor taxa de roubo e furto de veículos.",
+    "dominios_dicionario": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0113",
+    "ano": "2026",
+    "sq": "40002532272",
+    "uf": "AM",
+    "frase": "Reduzir entre 60% e 90% as queimadas e entre 50% e 80% a supressão ilegal",
+    "dominios_dicionario": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0102",
+    "ano": "2026",
+    "sq": "50002533190",
+    "uf": "BA",
+    "frase": "IBGE.Pesquisa de Informações Básicas Municipais (Munic) 2023 — Meio Ambiente.",
+    "dominios_dicionario": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0001",
+    "ano": "2014",
+    "sq": "10000000003",
+    "uf": "AC",
+    "frase": "agendamento, quando ligam, também deixam para lá, e quando você volta não tem médico, esperei 6",
+    "dominios_dicionario": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0018",
+    "ano": "2026",
+    "sq": "120002549681",
+    "uf": "MS",
+    "frase": "Saúde -              Mortalidade infantil 12,4                (reduzir)",
+    "dominios_dicionario": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0085",
+    "ano": "2014",
+    "sq": "210000000059",
+    "uf": "RS",
+    "frase": "acordo com os dados da Fundação de Economia e Estatística (FEE), no acumulado de 2013,",
+    "dominios_dicionario": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0057",
+    "ano": "2026",
+    "sq": "90002540993",
+    "uf": "GO",
+    "frase": "menor taxa de roubo e furto de veículos.",
+    "dominios_dicionario": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0051",
+    "ano": "2022",
+    "sq": "270001652198",
+    "uf": "TO",
+    "frase": "Atlas da Violência do IPEA, 22,4% em 2009 e 29% em 2019 (taxa maior que do Brasil 21,7%),",
+    "dominios_dicionario": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0053",
+    "ano": "2022",
+    "sq": "180001600497",
+    "uf": "PI",
+    "frase": "Para a organização mundial da saúde (oms), locais com índices de homicídio iguais",
+    "dominios_dicionario": [
+      "saude",
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0036",
+    "ano": "2014",
+    "sq": "50000000176",
+    "uf": "BA",
+    "frase": "Censo Escolar 2013, só estão matriculadas 14.699 pessoas na rede estadual,",
+    "dominios_dicionario": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0089",
+    "ano": "2026",
+    "sq": "40002532272",
+    "uf": "AM",
+    "frase": "Fonte: elaborado pelos autores a partir de IBGE - Produção da Extração Vegetal e da Silvicultura (Tabela 289)",
+    "dominios_dicionario": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0039",
+    "ano": "2026",
+    "sq": "40002532272",
+    "uf": "AM",
+    "frase": "são da Educação em Tempo Integral, programa federal acordado via Lei nº 14.640/2023, é",
+    "dominios_dicionario": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0043",
+    "ano": "2026",
+    "sq": "40002532272",
+    "uf": "AM",
+    "frase": "51.708 docentes na rede (Censo Escolar 2024)",
+    "dominios_dicionario": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0131",
+    "ano": "2018",
+    "sq": "100000602465",
+    "uf": "MA",
+    "frase": "Em 2017 foram registrados 445 casos de assassinatos de homossexuais",
+    "dominios_dicionario": []
+  },
+  {
+    "id": "S0038",
+    "ano": "2022",
+    "sq": "160001654909",
+    "uf": "PR",
+    "frase": "acordo com o Censo Escolar realizado pelo MEC, entre os anos de 2010 e 2015, o",
+    "dominios_dicionario": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0063",
+    "ano": "2026",
+    "sq": "40002532272",
+    "uf": "AM",
+    "frase": "queda de 15,9% nos homicídios dolosos (de 1.254 para 1.055 casos), zeragem dos",
+    "dominios_dicionario": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0023",
+    "ano": "2026",
+    "sq": "140002538631",
+    "uf": "PA",
+    "frase": "pelo Novo Marco Legal do Saneamento, que prevê cobertura de 99% da população com",
+    "dominios_dicionario": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0009",
+    "ano": "2018",
+    "sq": "150000615598",
+    "uf": "PB",
+    "frase": "especialistas e a realização de cirurgias e exames – a exemplo do que já é oferecido nos Hospitais de",
+    "dominios_dicionario": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0105",
+    "ano": "2014",
+    "sq": "140000000828",
+    "uf": "PA",
+    "frase": "compromisso com a meta de desmatamento líquido zero, até 2020.",
+    "dominios_dicionario": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0106",
+    "ano": "2026",
+    "sq": "70002551298",
+    "uf": "DF",
+    "frase": "Buscar a redução da tarifa máxima para R$ 4,50, condicionada à sustentabilidade financeira.",
+    "dominios_dicionario": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0082",
+    "ano": "2026",
+    "sq": "130002539775",
+    "uf": "MG",
+    "frase": "Investimento para reduzir desigualdades regionais                       23",
+    "dominios_dicionario": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0003",
+    "ano": "2026",
+    "sq": "40002532272",
+    "uf": "AM",
+    "frase": "Lei nº 14.026, de 2020 – Atualiza o marco legal do saneamento Básico.",
+    "dominios_dicionario": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0047",
+    "ano": "2014",
+    "sq": "110000000001",
+    "uf": "MT",
+    "frase": "Mato Grosso é o 5º estado brasileiro com maior índice de reprovação no Ensino Médio, segundo o",
+    "dominios_dicionario": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0119",
+    "ano": "2026",
+    "sq": "40002532272",
+    "uf": "AM",
+    "frase": "O PRODES/INPE é o sistema oficial do Brasil para medir o desmatamento anual na Amazônia Legal.",
+    "dominios_dicionario": [
+      "meio_ambiente"
+    ]
+  },
+  {
+    "id": "S0022",
+    "ano": "2026",
+    "sq": "220002536806",
+    "uf": "RO",
+    "frase": "metas de universalização previstas no Marco Legal do Saneamento:",
+    "dominios_dicionario": [
+      "saude"
+    ]
+  },
+  {
+    "id": "S0088",
+    "ano": "2022",
+    "sq": "70001611377",
+    "uf": "DF",
+    "frase": "maioria dos trabalhadores e trabalhadoras que              800,00) reais consegue zerar a fila de espera.",
+    "dominios_dicionario": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0078",
+    "ano": "2022",
+    "sq": "160001654909",
+    "uf": "PR",
+    "frase": "redução de 45% de trabalhadores da secretaria estadual de cultura do Paraná.",
+    "dominios_dicionario": [
+      "economia"
+    ]
+  },
+  {
+    "id": "S0045",
+    "ano": "2022",
+    "sq": "120001649554",
+    "uf": "MS",
+    "frase": "utilizaremos as estruturas e as capacidades técnicas de instituições de ensino, em especial às da Uni-   PROPOSTA 39 • SIMPLIFICAR, INFORMATIZAR E REDUZIR A BUROCRACIA NO PRO-",
+    "dominios_dicionario": [
+      "educacao"
+    ]
+  },
+  {
+    "id": "S0056",
+    "ano": "2018",
+    "sq": "110000613188",
+    "uf": "MT",
+    "frase": "Reduzir em 20% o déficit das vagas do Sistema Penitenciário em 2019-2020",
+    "dominios_dicionario": [
+      "seguranca"
+    ]
+  },
+  {
+    "id": "S0011",
+    "ano": "2022",
+    "sq": "160001614467",
+    "uf": "PR",
+    "frase": "da Saúde (OMS), será implantando o Teste          validação de metodologia, possibilitando a",
+    "dominios_dicionario": [
+      "saude"
+    ]
+  }
+]
